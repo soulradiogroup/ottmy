@@ -11,14 +11,14 @@ Playlist radio.
 | SINAR | Astro Radio | Malay | AAC | ASTRO CH 857 | Syok | ✔ | Official Website
 | BULETIN FM | Media Prima Audio | Malay | AAC | MYTV CH 722 | audio+  / Joox | ✔ | Official Website   
 | GEGAR | Astro Radio | Malay | AAC | ASTRO CH 863 | Syok | ✘ | Official Website 
-| BEST FM | Suara Johor| Malay | AAC | ✘ | ✘ | ✘ | Official Website
 | MOLEK FM | Media Prima Audio | Malay | AAC | ✘ | ✘| ✔ | Official Website 
 | MANIS FM | Husa Network| Malay | AAC | ✘ | Sweet+ | ✘ | Official Website
-| RIA 897 FM  | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
-| WARNA 942FM | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
-| RAKITA | Radio Kita | Malay | AAC | ✘ | ✘ | ✘ | Official Website
 | NASIONAL FM | Radio Televisyen Malaysia | Malay | AAC | ASTRO CH 869 / MYTV CH 701 | RTM Klik | ✘ | Official Website
 | KLASIK FM | Radio Televisyen Malaysia | Malay | AAC | MYTV CH 705 | RTM Klik | ✘ | Official Website
+| BEST FM | Suara Johor| Malay | AAC | ✘ | ✘ | ✘ | Official Website
+| RAKITA | Radio Kita | Malay | AAC | ✘ | ✘ | ✘ | Official Website
+| RIA 897 FM  | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
+| WARNA 942FM | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
 | HITZ | Astro Radio | English | AAC | ASTRO CH 852 | Syok | ✔ | Official Website
 | FLY FM | Media Prima Audio | English | AAC | MYTV CH 723 | audio+ / Joox | ✔ | Official Website
 | MIX | Astro Radio | English | AAC | ASTRO CH 855 | Syok | ✘ | Official Website
