@@ -20,8 +20,8 @@ Senarai Stesen Radio
 | RIA 897 FM  | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
 | WARNA 942FM | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
 | RAKITA | Radio Kita | Malay | AAC | ✘ | ✘ | ✘ | Official Website
-| NASIONAL FM | Radio Televisyen Malaysia | Malay | AAC | ASTRO CH 869 | MYTV CH 701 | ✘ | Official Website
-| KLASIK FM | Radio Televisyen Malaysia | Malay | AAC | MYTV CH 705 | ✘ | ✘ | Official Website
+| NASIONAL FM | Radio Televisyen Malaysia | Malay | AAC | ASTRO CH 869 / MYTV CH 701 | RTM Klik | ✘ | Official Website
+| KLASIK FM | Radio Televisyen Malaysia | Malay | AAC | MYTV CH 705 | RTM Klik | ✘ | Official Website
 | HITZ | Astro Radio | English | AAC | ASTRO CH 852 | Syok | ✔ | Official Website
 | FLY FM | Media Prima Audio | English | AAC | MYTV CH 723 | audio+ / Joox | ✔ | Official Website
 | MIX | Astro Radio | English | AAC | ASTRO CH 855 | Syok | ✘ | Official Website
