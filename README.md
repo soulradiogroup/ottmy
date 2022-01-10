@@ -3,19 +3,16 @@ Playlist radio.
 
 
 
-Senarai Stesen Radio
-
-
 | Nama Radio | Pemilik | Kategory | Kualiti | Lain Lain Platform | Apps | Youtube | Sumber |
 |---|---|---|---|---|---|---|---|
 | ERA | Astro Radio | Malay | AAC | ASTRO CH 856 | Syok  | ✔ | Official Website
 | HOT FM | Media Prima Audio | Malay | AAC | MYTV CH 721 | audio+ / Joox | ✔ |  Official Website
 | SURIA FM | Star Media Group | Malay | AAC | Unifi TV CH 958 | Joox | ✔ | Official Website 
-| SINAR | Astro Radio | Malay | AAC | ASTRO CH 857 | Syok | ✔ | Official Website  
+| SINAR | Astro Radio | Malay | AAC | ASTRO CH 857 | Syok | ✔ | Official Website
+| BULETIN FM | Media Prima Audio | Malay | AAC | MYTV CH 722 | audio+  / Joox | ✔ | Official Website   
 | GEGAR | Astro Radio | Malay | AAC | ASTRO CH 863 | Syok | ✘ | Official Website 
-| BULETIN FM | Media Prima Audio | Malay | AAC | MYTV CH 722 | audio+  / Joox | ✔ | Official Website 
-| MOLEK FM | Media Prima Audio | Malay | AAC | ✘ | ✘| ✔ | Official Website 
 | BEST FM | Suara Johor| Malay | AAC | ✘ | ✘ | ✘ | Official Website
+| MOLEK FM | Media Prima Audio | Malay | AAC | ✘ | ✘| ✔ | Official Website 
 | MANIS FM | Husa Network| Malay | AAC | ✘ | Sweet+ | ✘ | Official Website
 | RIA 897 FM  | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
 | WARNA 942FM | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
