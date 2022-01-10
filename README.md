@@ -17,8 +17,8 @@ Senarai Stesen Radio
 | MOLEK FM | Media Prima Audio | Malay | AAC | ✘ | ✘| ✔ | Official Website 
 | BEST FM | Suara Johor| Malay | AAC | ✘ | ✘ | ✘ | Official Website
 | MANIS FM | Husa Network| Malay | AAC | ✘ | Sweet+ | ✘ | Official Website
-| RIA 897 FM  | Mediacorp | Malay | AAC | MeListen | ✘ | ✘ | Official Website
-| WARNA 942FM | Mediacorp | Malay | AAC | MeListen | ✘ | ✘ | Official Website
+| RIA 897 FM  | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
+| WARNA 942FM | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
 | RAKITA | Radio Kita | Malay | AAC | ✘ | ✘ | ✘ | Official Website
 | NASIONAL FM | Radio Televisyen Malaysia | Malay | AAC | ASTRO CH 869 | MYTV CH 701 | ✘ | Official Website
 | KLASIK FM | Radio Televisyen Malaysia | Malay | AAC | MYTV CH 705 | ✘ | ✘ | Official Website
