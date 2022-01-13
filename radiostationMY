@@ -22,23 +22,18 @@ http://astro2.rastream.com:80/sinar
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MTAxYWM0MTctNzdkNi0zMzBiLWFlNmItZTE0NTgwMzdiZjZj
-#EXTINF:-1 group-title="Malay" tvg-id="863" tvg-chno="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR - Permata Pantai Timur
-http://astro3.rastream.com:80/gegar
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MTAxYWM0MTctNzdkNi0zMzBiLWFlNmItZTE0NTgwMzdiZjZj
 #EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_376a65d9cad84ba38aea9d74b25fcb24~mv2.png",BULETIN FM - Info Terkini & Muzik Sepanjang Zaman 
 http://mediaprima.rastream.com/mediaprima-koolfm
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MTAxYWM0MTctNzdkNi0zMzBiLWFlNmItZTE0NTgwMzdiZjZj
-#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/molekfm.png",MOLEK FM - Gu Pantai Timur
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1641806832/ei/kKfbYcDqG9LAkwacoKWICg/ip/20.150.151.15/id/It3415lOIUU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIrrj6H0Qie2Is9uteeCcTR-B2cvBe__IAkuh8k6-vgaAiEA9R7bFdhvUd0v1Tqgh9gY4gfeb3kzRAbFVSIS7icm8DI%3D/file/index.m3u8
+#EXTINF:-1 group-title="Malay" tvg-id="863" tvg-chno="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR - Permata Pantai Timur
+http://astro3.rastream.com:80/gegar
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MTAxYWM0MTctNzdkNi0zMzBiLWFlNmItZTE0NTgwMzdiZjZj
-#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://bestfm.com.my/wp-content/uploads/2020/02/bestfm_headerlogo_retina.png",BEST FM - Terbaik Untuk Harimu
-http://s8.voscast.com:8686/
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/molekfm.png",MOLEK FM - Gu Pantai Timur
+http://mediaprima.rastream.com/mediaprima-molekfm
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MTAxYWM0MTctNzdkNi0zMzBiLWFlNmItZTE0NTgwMzdiZjZj
@@ -47,8 +42,8 @@ https://n12.rcs.revma.com/nzgauqq1v7zuv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MTAxYWM0MTctNzdkNi0zMzBiLWFlNmItZTE0NTgwMzdiZjZj
-#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://assets.radioactive.sg/org-astro/8cf5758e-d126-44c0-939e-54684a5cf9d7-Zayan-Logo-color-336x160.png",Zayan - #IndahDiHati
-#https://astro3.rastream.com/astro-zayan.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_20219146_A9F1zkxo_MTAzLjIxLjgxLjM6ODA!_000000Dg45r&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Azayan&playerid=Listen%20to%20ZAYAN%20on%20SYOK_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2Mjk1MjE2ODUsImV4cCI6MTYyOTYwODA4NX0.dmIWlZx4kUyb6TBuibGeF006xT8Om1TEhV6ehGaQYrU&lan=%5B%22ms%22%5D&setLanguage=true
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://bestfm.com.my/wp-content/uploads/2020/02/bestfm_headerlogo_retina.png",BEST FM - Terbaik Untuk Harimu
+http://s8.voscast.com:8686/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MTAxYWM0MTctNzdkNi0zMzBiLWFlNmItZTE0NTgwMzdiZjZj
@@ -69,6 +64,11 @@ https://22253.live.streamtheworld.com/RAKITAAAC.aac
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MTAxYWM0MTctNzdkNi0zMzBiLWFlNmItZTE0NTgwMzdiZjZj
 #EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://assets.radioactive.sg/org-bernama/283fd16b-9085-4526-90ad-fdcf2213b064-app_Bernama%28new%29_logo_W750xH750.png",BERNAMA RADIO - Stesen Berita Bisnes Anda
 #https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_25282586_7Rok0TJu_MTAzLjIxLjgxLjk6ODA!_000000Q6PWw&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Abernama-bernama&playerid=BERNAMA_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2Mjk1MjExOTcsImV4cCI6MTYyOTYwNzU5N30.6e5OVhOz1hywV2mIbQ7lh8C9m-kJK8CYaLmoCvXBCa4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MTAxYWM0MTctNzdkNi0zMzBiLWFlNmItZTE0NTgwMzdiZjZj
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://assets.radioactive.sg/org-astro/8cf5758e-d126-44c0-939e-54684a5cf9d7-Zayan-Logo-color-336x160.png",Zayan - #IndahDiHati
+#https://astro3.rastream.com/astro-zayan.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_20219146_A9F1zkxo_MTAzLjIxLjgxLjM6ODA!_000000Dg45r&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Azayan&playerid=Listen%20to%20ZAYAN%20on%20SYOK_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2Mjk1MjE2ODUsImV4cCI6MTYyOTYwODA4NX0.dmIWlZx4kUyb6TBuibGeF006xT8Om1TEhV6ehGaQYrU&lan=%5B%22ms%22%5D&setLanguage=true
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MTAxYWM0MTctNzdkNi0zMzBiLWFlNmItZTE0NTgwMzdiZjZj
