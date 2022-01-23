@@ -32,7 +32,7 @@ http://astro3.rastream.com:80/gegar
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MTAxYWM0MTctNzdkNi0zMzBiLWFlNmItZTE0NTgwMzdiZjZj
-#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/molekfm.png",MOLEK FM - Gu Pantai Timur
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MolekFM.png",MOLEK FM - Gu Pantai Timur
 http://mediaprima.rastream.com/mediaprima-molekfm
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
