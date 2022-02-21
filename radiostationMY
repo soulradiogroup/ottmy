@@ -37,20 +37,11 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.a
 #EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://rakita.my/images/new_logo.png",RAKITA - Muzik Paling Lit
 https://22253.live.streamtheworld.com/RAKITAAAC.aac
 
-#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://assets.radioactive.sg/org-bernama/283fd16b-9085-4526-90ad-fdcf2213b064-app_Bernama%28new%29_logo_W750xH750.png",BERNAMA RADIO - Stesen Berita Bisnes Anda
-#https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_25282586_7Rok0TJu_MTAzLjIxLjgxLjk6ODA!_000000Q6PWw&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Abernama-bernama&playerid=BERNAMA_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2Mjk1MjExOTcsImV4cCI6MTYyOTYwNzU5N30.6e5OVhOz1hywV2mIbQ7lh8C9m-kJK8CYaLmoCvXBCa4
-
-#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://assets.radioactive.sg/org-astro/8cf5758e-d126-44c0-939e-54684a5cf9d7-Zayan-Logo-color-336x160.png",Zayan - #IndahDiHati
-#https://astro3.rastream.com/astro-zayan.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_20219146_A9F1zkxo_MTAzLjIxLjgxLjM6ODA!_000000Dg45r&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Azayan&playerid=Listen%20to%20ZAYAN%20on%20SYOK_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2Mjk1MjE2ODUsImV4cCI6MTYyOTYwODA4NX0.dmIWlZx4kUyb6TBuibGeF006xT8Om1TEhV6ehGaQYrU&lan=%5B%22ms%22%5D&setLanguage=true
-
 #EXTINF:-1 group-title="Malay" tvg-id="869" tvg-chno="869" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png",Nasional FM - Sentiasa Di Hati
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 
 #EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://radioklasik.rtm.gov.my/storage/app/uploads/public/607/e3d/e2f/607e3de2f2ad6629024569.png",RADIO KLASIK  -  Menggamit Kenangan
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
-
-#EXTINF:-1 group-title="Malay" tvg-id="882" tvg-chno="882" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/304_144.png",Radio ARENA - Nadi Sukan Malaysia
-#http://astro1.rastream.com/amp-arena
 
 #EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_07f1fba0999b408287ba5e57b2273c29~mv2.png",Soul Radio - Hayatilah Disini
 http://109.169.23.124:9223/
