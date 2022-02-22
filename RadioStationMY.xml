@@ -148,15 +148,15 @@
     <icon src="https://static.wixstatic.com/media/0064cc_25b507027db94c65923a4040a16d7bb9~mv2.png" />
     <url>https://labuanfm.rtm.gov.my/</url>
   </channel>
-    <programme start="20220222000000 +0000" stop="20220222000000 +0000" channel="CHN">
+    <programme start="20220222000000 +0000" stop="20220222235900 +0000" channel="CHN">
     <title lang="en">Akan Datang</title>
     <desc lang="en">Akan Datang</desc>
   </programme>
-    <programme start="20220223000000 +0000" stop="20220223000000 +0000" channel="CHN">
+    <programme start="20220223000000 +0000" stop="20220223235900 +0000" channel="CHN">
     <title lang="en">Akan Datang</title>
     <desc lang="en">Akan Datang</desc>
   </programme>
-    <programme start="20220224000000 +0000" stop="20220225000000 +0000" channel="CHN">
+    <programme start="20220224000000 +0000" stop="20220225235900 +0000" channel="CHN">
     <title lang="en">Akan Datang</title>
     <desc lang="en">Akan Datang</desc>
   </programme>
@@ -164,11 +164,11 @@
     <title lang="en">Akan Datang</title>
     <desc lang="en">Akan Datang</desc>
   </programme>
-    <programme start="20220227000000 +0000" stop="20220227000000 +0000" channel="CHN">
+    <programme start="20220227000000 +0000" stop="20220227235900 +0000" channel="CHN">
     <title lang="en">Akan Datang</title>
     <desc lang="en">Akan Datang</desc>
   </programme>
-    <programme start="20220228000000 +0000" stop="20220228000000 +0000" channel="CHN">
+    <programme start="20220228000000 +0000" stop="20220228235900 +0000" channel="CHN">
     <title lang="en">Akan Datang</title>
     <desc lang="en">Akan Datang</desc>
   </programme>
