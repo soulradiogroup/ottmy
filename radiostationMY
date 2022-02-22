@@ -40,7 +40,7 @@ https://22253.live.streamtheworld.com/RAKITAAAC.aac
 #EXTINF:-1 group-title="Malay" tvg-id="869" tvg-chno="869" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png",Nasional FM - Sentiasa Di Hati
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 
-#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://radioklasik.rtm.gov.my/storage/app/uploads/public/607/e3d/e2f/607e3de2f2ad6629024569.png",RADIO KLASIK  -  Menggamit Kenangan
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/radioklasik.png",RADIO KLASIK  -  Menggamit Kenangan
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
 
 #EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_07f1fba0999b408287ba5e57b2273c29~mv2.png",Soul Radio - Hayatilah Disini
@@ -49,13 +49,13 @@ http://109.169.23.124:9223/
 #EXTINF:-1 group-title="English" tvg-id="852" tvg-chno="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ  - All The Hitz All The Time
 http://astro1.rastream.com:80/hitz
 
-#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://github.com/digitaldotmy/image/blob/main/%231radio.png?raw=true",#1 - Muzik #1
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/1radiowhite.png",#1 - Muzik #1
 http://stream.zeno.fm/9tw4rf6gachvv
 
-#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://github.com/digitaldotmy/image/blob/main/NamasteRadio.png?raw=true",Namaste Radio - Radio Hindi Anda
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/NamasteRadioWhite.png",Namaste Radio - Radio Hindi Anda
 http://stream.zeno.fm/p5fnx7thachvv
 
-#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/9b91f3_282741dbf10f488f83af4b44b103faaa~mv2.png/v1/crop/x_0,y_124,w_500,h_253/fill/w_283,h_143,al_c,q_85,usm_0.66_1.00_0.01/stationplus_radio-removebg.webp",Station Plus Radio - Your Best Music
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Stationplus_Radio_white-.png",Station Plus Radio - Your Best Music
 http://stream.zeno.fm/77k2edq19ehvv
 
 #EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_de7dfc9f41f44a7cae908882b5503cd1~mv2.png",FLY FM - Today's Hottest Music
