@@ -55,6 +55,9 @@ http://stream.zeno.fm/9tw4rf6gachvv
 #EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://github.com/digitaldotmy/image/blob/main/NamasteRadio.png?raw=true",Namaste Radio - Radio Hindi Anda
 http://stream.zeno.fm/p5fnx7thachvv
 
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/9b91f3_282741dbf10f488f83af4b44b103faaa~mv2.png/v1/crop/x_0,y_124,w_500,h_253/fill/w_283,h_143,al_c,q_85,usm_0.66_1.00_0.01/stationplus_radio-removebg.webp",Station Plus Radio - Your Best Music
+http://stream.zeno.fm/77k2edq19ehvv
+
 #EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_de7dfc9f41f44a7cae908882b5503cd1~mv2.png",FLY FM - Today's Hottest Music
 http://mediaprima.rastream.com/mediaprima-flyfm
 
