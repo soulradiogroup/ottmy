@@ -1,0 +1,137 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" url-tvg="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" refresh="1440"
+
+
+#EXTINF:-1 group-title="Malay" tvg-id="856" tvg-chno="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA - Muzik Hit Terbaik
+http://astro2.rastream.com:80/era
+
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_97e1fc97d97c47f49eed9151029452a5~mv2.png",HOT FM - Kini Lebih Muzik Yang Hangat
+http://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://dengar.suria.my/wp-content/uploads/2020/08/suria-logo-orange.png",SURIA - Segalanya Hiburan
+https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
+
+#EXTINF:-1 group-title="Malay" tvg-id="857" tvg-chno="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR - Menyinari Hidupmu
+http://astro2.rastream.com:80/sinar
+
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_376a65d9cad84ba38aea9d74b25fcb24~mv2.png",BULETIN FM - Info Terkini & Muzik Sepanjang Zaman 
+http://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 group-title="Malay" tvg-id="863" tvg-chno="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR - Permata Pantai Timur
+http://astro3.rastream.com:80/gegar
+
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MolekFM.png",MOLEK FM - Gu Pantai Timur
+http://mediaprima.rastream.com/mediaprima-molekfm
+
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="http://assets.radioactive.sg/org-husa/63e5cd25-cc30-4a9d-b290-5f54b568a950.png",MANIS FM - Gaya Pantai Timur
+https://n12.rcs.revma.com/nzgauqq1v7zuv
+
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://bestfm.com.my/wp-content/uploads/2020/02/bestfm_headerlogo_retina.png",BEST FM - Terbaik Untuk Harimu
+http://s8.voscast.com:8686/
+
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_477e93f8bd03427f804878cad8b744db~mv2.png",Ria 89.7FM - Hiburan Tahap Optima
+https://19183.live.streamtheworld.com/RIA897FM_PREM.aac
+
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_00f45d40df87431bba7e635e6a01ec77~mv2.png",Warna 94.2FM - Serentak Semasa
+http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
+
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://rakita.my/images/new_logo.png",RAKITA - Muzik Paling Lit
+https://22253.live.streamtheworld.com/RAKITAAAC.aac
+
+#EXTINF:-1 group-title="Malay" tvg-id="869" tvg-chno="869" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png",Nasional FM - Sentiasa Di Hati
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/radioklasik.png",RADIO KLASIK  -  Menggamit Kenangan
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
+
+#EXTINF:-1 group-title="Malay" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_07f1fba0999b408287ba5e57b2273c29~mv2.png",Soul Radio - Hayatilah Disini
+http://109.169.23.124:9223/
+
+#EXTINF:-1 group-title="English" tvg-id="852" tvg-chno="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ  - All The Hitz All The Time
+http://astro1.rastream.com:80/hitz
+
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/1radiowhite.png",#1 - Muzik #1
+http://stream.zeno.fm/9tw4rf6gachvv
+
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/NamasteRadioWhite.png",Namaste Radio - Radio Hindi Anda
+http://stream.zeno.fm/p5fnx7thachvv
+
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Stationplus_Radio_white-.png",Station Plus Radio - Your Best Music
+http://stream.zeno.fm/77k2edq19ehvv
+
+#EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_de7dfc9f41f44a7cae908882b5503cd1~mv2.png",FLY FM - Today's Hottest Music
+http://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 group-title="English" tvg-id="855" tvg-chno="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX  - Today’s Best Music
+http://astro2.rastream.com:80/mix
+
+#EXTINF:-1 group-title="Variety" tvg-id="860" tvg-chno="860" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png",CLASSIC ROCK - Asia's Original Rock Station
+http://astro4.rastream.com:80/rock
+
+#EXTINF:-1 group-title="English" tvg-id="872" tvg-chno="872" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png",TRAXX FM - Experience the Excitement
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
+
+#EXTINF:-1 group-title="Variety" tvg-id="861" tvg-chno="861" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png",GOLD - Yesteryear Favourites
+http://astro4.rastream.com:80/gold
+
+#EXTINF:-1 group-title="Variety" tvg-id="862" tvg-chno="862" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png",OPUS -  The Best In Classical
+http://astro4.rastream.com:80/opus
+
+#EXTINF:-1 group-title="Variety" tvg-id="864" tvg-chno="864" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png",INDIA BEAT - Hot Hindi Hits
+http://astro4.rastream.com:80/india
+
+#EXTINF:-1 group-title="Variety" tvg-id="865" tvg-chno="865" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png",JAZZ
+http://astro4.rastream.com:80/jazz
+
+#EXTINF:-1 group-title="Variety" tvg-id="866" tvg-chno="866" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png",OSAI -  The Best In Classical
+http://astro4.rastream.com:80/osai
+
+#EXTINF:-1 group-title="Variety" tvg-id="867" tvg-chno="867" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png",BAYU
+http://astro4.rastream.com:80/bayu
+
+#EXTINF:-1 group-title="Variety" tvg-id="868" tvg-chno="868" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png",KENYALANG
+http://astro4.rastream.com:80/kenyalang
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_bf449a9bea314c7f99f38e8ef7644711~mv2.png",KLFM - Rentak Interaktif Kota
+https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_fea53fd902004dba9d7f998d22ed1a95~mv2.png",SELANGOR FM
+https://selangorfmmobile.secureswiftcontent.com/rtm-ch023/rtm-ch023/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_aeae1a73593049f0a98a24955644cedd~mv2.png",JOHOR FM
+https://johorfmmobile.secureswiftcontent.com/rtm-ch035/rtm-ch035/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_1d9c1c29e3364255954434f3cc96cc08~mv2.png",MELAKA FM
+https://melakafmmobile.secureswiftcontent.com/rtm-ch041/rtm-ch041/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_fa605fb588c24125b94a2fe4e62c262e~mv2.png",NEGERI FM
+https://negerifmmobile.secureswiftcontent.com/rtm-ch036/rtm-ch036/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_33be529111e4427c80e92b56d10a78b8~mv2.png",PERAK FM
+https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_0b18bc98530a4d20bdd55cd78e67deee~mv2.png",MUTIARA FM
+https://mutiarafmmobile.secureswiftcontent.com/rtm-ch039/rtm-ch039/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_f253e2a956f747ee89a9547b2ab1a25a~mv2.png",PERLIS FM
+https://perlisfmmobile.secureswiftcontent.com/rtm-ch040/rtm-ch040/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_463953eb35834f049353f3c3c3f3953f~mv2.png",KEDAH FM
+https://kedahfmmobile.secureswiftcontent.com/rtm-ch031/rtm-ch031/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_d5233f93fac2424e944bf27c0b75f7c4~mv2.png",KELANTAN FM
+https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_ae4e804fe2f84cf8984b33d4a401d4ab~mv2.png",PAHANG FM
+https://pahangfmmobile.secureswiftcontent.com/rtm-ch034/rtm-ch034/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_6ab82e883b84423c99e96f1f523e1734~mv2.png",TERENGGANU FM
+https://terengganufmmobile.secureswiftcontent.com/rtm-ch033/rtm-ch033/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_d7e6288891074263a34ad47ff4dcf145~mv2.png",SABAH FM
+https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_4ba48b6650d44ce1b5f9771234a4c54d~mv2.png",SARAWAK FM
+https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/chunklist.m3u8
+
+#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.wixstatic.com/media/0064cc_25b507027db94c65923a4040a16d7bb9~mv2.png",LABUAN FM
+https://labuanfmmobile.secureswiftcontent.com/rtm-ch030/rtm-ch030/chunklist.m3u8
