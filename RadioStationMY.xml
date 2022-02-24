@@ -6,32 +6,32 @@
   <channel id="HOTFM">
     <display-name lang="en">HOT FM</display-name>
     <icon src="https://static.wixstatic.com/media/0064cc_97e1fc97d97c47f49eed9151029452a5~mv2.png" />
-    <url>http://www.hotfm.audio</url>
+    <url>https://www.hotfm.audio</url>
   </channel>
   <channel id="SURIAFM">
     <display-name lang="en">SURIA FM</display-name>
     <icon src="https://dengar.suria.my/wp-content/uploads/2020/08/suria-logo-orange.png" />
-    <url>http://www.suria.my</url>
+    <url>https://www.suria.my</url>
   </channel>
   <channel id="BULETINFM">
     <display-name lang="en">BULETIN FM</display-name>
     <icon src="https://static.wixstatic.com/media/0064cc_376a65d9cad84ba38aea9d74b25fcb24~mv2.png" />
-    <url>http://www.buletinfm.audio</url>
+    <url>https://www.buletinfm.audio</url>
   </channel>
   <channel id="MOLEKFM">
     <display-name lang="en">MOLEK FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/MolekFM.png" />
-    <url>http://www.molekfm.audio</url>
+    <url>https://www.molekfm.audio</url>
   </channel>
   <channel id="MANISFM">
     <display-name lang="en">MANISFM</display-name>
     <icon src="http://assets.radioactive.sg/org-husa/63e5cd25-cc30-4a9d-b290-5f54b568a950.png" />
-    <url>http://www.manis.fm</url>
+    <url>https://www.manis.fm</url>
   </channel>
   <channel id="BESTFM">
     <display-name lang="en">BEST FM</display-name>
     <icon src="https://bestfm.com.my/wp-content/uploads/2020/02/bestfm_headerlogo_retina.png />
-    <url>http://www.bestfm.com.my</url>
+    <url>https://www.bestfm.com.my</url>
   </channel>
   <channel id="RIA">
     <display-name lang="en">RIA 89.7FM</display-name>
@@ -46,32 +46,32 @@
   <channel id="RAKITA">
     <display-name lang="en">RAKITA</display-name>
     <icon src="https://rakita.my/images/new_logo.png" />
-    <url>http://www.rakita.my</url>
+    <url>https://www.rakita.my</url>
   </channel>
   <channel id="SOUL">
     <display-name lang="en">Soul Radio</display-name>
     <icon src="https://static.wixstatic.com/media/0064cc_07f1fba0999b408287ba5e57b2273c29~mv2.png" />
-    <url>http://www.soulradio.wix.com/home</url>
+    <url>https://www.soulradio.wix.com/home</url>
   </channel>
   <channel id="1MUZIK">
     <display-name lang="en">Hashtag One Radio</display-name>
     <icon src="https://github.com/digitaldotmy/image/blob/main/%231radio.png?raw=true" />
-    <url>http://www.soulradio.wix.com/home</url>
+    <url>https://www.soulradio.wix.com/home</url>
   </channel>
   <channel id="NAMASTE">
     <display-name lang="en">Namaste Radio</display-name>
     <icon src="https://github.com/digitaldotmy/image/blob/main/NamasteRadio.png?raw=true" />
-    <url>http://www.soulradio.wix.com/home</url>
+    <url>https://www.soulradio.wix.com/home</url>
   </channel>
   <channel id="STATIONPLUS">
     <display-name lang="en">Station Plus Radio</display-name>
     <icon src="https://github.com/digitaldotmy/image/blob/main/NamasteRadio.png?raw=true" />
-    <url>http://www.soulradio.wix.com/home</url>
+    <url>https://www.soulradio.wix.com/home</url>
   </channel>
   <channel id="FLYFM">
     <display-name lang="en">FLY FM</display-name>
     <icon src="https://static.wixstatic.com/media/0064cc_de7dfc9f41f44a7cae908882b5503cd1~mv2.png" />
-    <url>http://www.flyfm.audio</url>
+    <url>https://www.flyfm.audio</url>
   </channel>
   <channel id="KLFM">
     <display-name lang="en">KL FM</display-name>
