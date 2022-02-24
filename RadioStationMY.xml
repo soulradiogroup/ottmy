@@ -55,17 +55,17 @@
 </channel>
 <channel id="CHN">
 <display-name lang="en">Hashtag One Radio</display-name>
-<icon src="https://github.com/digitaldotmy/image/blob/main/%231radio.png?raw=true"/>
+<icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/1radiowhite.png"/>
 <url>https://www.soulradio.wix.com/home</url>
 </channel>
 <channel id="CHN">
 <display-name lang="en">Namaste Radio</display-name>
-<icon src="https://github.com/digitaldotmy/image/blob/main/NamasteRadio.png?raw=true"/>
+<icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/NamasteRadioWhite.png"/>
 <url>https://www.soulradio.wix.com/home</url>
 </channel>
 <channel id="STATIONPLUS">
 <display-name lang="en">Station Plus Radio</display-name>
-<icon src="https://github.com/digitaldotmy/image/blob/main/NamasteRadio.png?raw=true"/>
+<icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/stationplusradio.png"/>
 <url>https://www.soulradio.wix.com/home</url>
 </channel>
 <channel id="CHN">
@@ -150,18 +150,18 @@
 </channel>
 <programme start="20220224000000 +0800" stop="20220225000000 +0800" channel="CHN">
 <title lang="en">Akan Datang</title>
-<desc lang="en">EPG akan tersedia pada 27 Februari 2022. Nantikan.</desc>
+<desc lang="en">EPG akan tersedia pada 28 Februari 2022. Nantikan.</desc>
 </programme>
 <programme start="20220225000000 +0800" stop="20220226000000 +0800" channel="CHN">
 <title lang="en">Akan Datang</title>
-<desc lang="en">EPG akan tersedia pada 27 Februari 2022. Nantikan.</desc>
+<desc lang="en">EPG akan tersedia pada 28 Februari 2022. Nantikan.</desc>
 </programme>
 <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="CHN">
 <title lang="en">Akan Datang</title>
-<desc lang="en">EPG akan tersedia pada 27 Februari 2022. Nantikan.</desc>
+<desc lang="en">EPG akan tersedia pada 28 Februari 2022. Nantikan.</desc>
 </programme>
 <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="CHN">
 <title lang="en">Akan Datang</title>
-<desc lang="en">EPG akan tersedia pada 27 Februari 2022. Nantikan.</desc>
+<desc lang="en">EPG akan tersedia pada 28 Februari 2022. Nantikan.</desc>
 </programme>
 </tv>
