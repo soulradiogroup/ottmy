@@ -18,10 +18,20 @@
     <icon src="https://dengar.suria.my/wp-content/uploads/2020/08/suria-logo-orange.png" />
     <url>https://www.suria.my</url>
   </channel>
+  <channel id="SINAR">
+    <display-name lang="en">SINAR</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" />
+    <url>https://www.sinar,my</url>
+  </channel>
   <channel id="BULETINFM">
     <display-name lang="en">BULETIN FM</display-name>
     <icon src="https://static.wixstatic.com/media/0064cc_376a65d9cad84ba38aea9d74b25fcb24~mv2.png" />
     <url>https://www.buletinfm.audio/</url>
+  </channel>
+  <channel id="GEGAR">
+    <display-name lang="en">GEGAR</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" />
+    <url>https://www.gegar.my</url>
   </channel>
   <channel id="MOLEKFM">
     <display-name lang="en">MOLEK FM</display-name>
@@ -63,19 +73,9 @@
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/radioklasik.png" />
     <url>https://radioklasik.rtm.gov.my/</url>
   </channel>
-  <channel id="SOUL">
-    <display-name lang="en">Soul Radio</display-name>
-    <icon src="https://static.wixstatic.com/media/0064cc_07f1fba0999b408287ba5e57b2273c29~mv2.png" />
-    <url>https://www.soulradio.wix.com/home</url>
-  </channel>
-  <channel id="1MUZIK">
+    <channel id="1MUZIK">
     <display-name lang="en">Hashtag One Radio</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/1radiowhite.png" />
-    <url>https://www.soulradio.wix.com/home</url>
-  </channel>
-  <channel id="NAMASTE">
-    <display-name lang="en">Namaste Radio</display-name>
-    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/NamasteRadioWhite.png" />
     <url>https://www.soulradio.wix.com/home</url>
   </channel>
   <channel id="HITZ">
@@ -101,6 +101,16 @@
   <channel id="STATIONPLUS">
     <display-name lang="en">Station Plus Radio</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/stationplusradio.png" />
+    <url>https://www.soulradio.wix.com/home</url>
+  </channel>
+    <channel id="SOUL">
+    <display-name lang="en">Soul Radio</display-name>
+    <icon src="https://static.wixstatic.com/media/0064cc_07f1fba0999b408287ba5e57b2273c29~mv2.png" />
+    <url>https://www.soulradio.wix.com/home</url>
+  </channel>
+  <channel id="NAMASTE">
+    <display-name lang="en">Namaste Radio</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/NamasteRadioWhite.png" />
     <url>https://www.soulradio.wix.com/home</url>
   </channel>
   <channel id="ROCK">
@@ -3509,35 +3519,6 @@
   
   
   
-  <programme start="20220228000000 +0800" stop="20220301000000 +0800" channel="SOUL">
-    <title lang="en">Soul Radio</title>
-    <desc lang="en">Soul Radio</desc>
-  </programme>
- <programme start="20220301000000 +0800" stop="20220302000000 +0800" channel="SOUL">
-    <title lang="en">Soul Radio</title>
-    <desc lang="en">Soul Radio</desc>
-  </programme>
-  <programme start="20220302000000 +0800" stop="20220303000000 +0800" channel="SOUL">
-    <title lang="en">Soul Radio</title>
-    <desc lang="en">Soul Radio</desc>
-  </programme>
-  <programme start="20220303000000 +0800" stop="20220304000000 +0800" channel="SOUL">
-    <title lang="en">Soul Radio</title>
-    <desc lang="en">Soul Radio</desc>
-  </programme>
-  <programme start="20220304000000 +0800" stop="20220305000000 +0800" channel="SOUL">
-    <title lang="en">Soul Radio</title>
-    <desc lang="en">Soul Radio</desc>
-  </programme>
-  <programme start="20220305000000 +0800" stop="20220306000000 +0800" channel="SOUL">
-    <title lang="en">Soul Radio</title>
-    <desc lang="en">Soul Radio</desc>
-  </programme>
-  <programme start="20220306000000 +0800" stop="20220307000000 +0800" channel="SOUL">
-    <title lang="en">Soul Radio</title>
-    <desc lang="en">Soul Radio</desc>
-  </programme>
-  
 
   <programme start="20220228000000 +0800" stop="20220301000000 +0800" channel="1MUZIK">
     <title lang="en">Hashtag One Radio</title>
@@ -3567,65 +3548,6 @@
     <title lang="en">Hashtag One Radio</title>
     <desc lang="en">Hashtag One Radio</desc>
   </programme> 
-  
-  
-  <programme start="20220228000000 +0800" stop="20220301000000 +0800" channel="NAMASTE">
-    <title lang="en">Namaste Radio</title>
-    <desc lang="en">Radio Hindi Anda</desc>
-  </programme>
- <programme start="20220301000000 +0800" stop="20220302000000 +0800" channel="NAMASTE">
-    <title lang="en">Namaste Radio</title>
-    <desc lang="en">Radio Hindi Anda</desc>
-  </programme>
-  <programme start="20220302000000 +0800" stop="20220303000000 +0800" channel="NAMASTE">
-    <title lang="en">Namaste Radio</title>
-    <desc lang="en">Radio Hindi Anda</desc>
-  </programme>
-  <programme start="20220303000000 +0800" stop="20220304000000 +0800" channel="NAMASTE">
-    <title lang="en">Namaste Radio</title>
-    <desc lang="en">Radio Hindi Anda</desc>
-  </programme>
-  <programme start="20220304000000 +0800" stop="20220305000000 +0800" channel="NAMASTE">
-    <title lang="en">Namaste Radio</title>
-    <desc lang="en">Radio Hindi Anda</desc>
-  </programme>
-  <programme start="20220305000000 +0800" stop="20220306000000 +0800" channel="NAMASTE">
-    <title lang="en">Namaste Radio</title>
-    <desc lang="en">Radio Hindi Anda</desc>
-  </programme>
-  <programme start="20220306000000 +0800" stop="20220307000000 +0800" channel="NAMASTE">
-    <title lang="en">Namaste Radio</title>
-    <desc lang="en">Radio Hindi Anda</desc>
-  </programme>
-  
-  <programme start="20220228000000 +0800" stop="20220301000000 +0800" channel="STATIONPLUS">
-    <title lang="en">Station Plus Radio</title>
-    <desc lang="en">Station Plus Radio</desc>
-  </programme>
- <programme start="20220301000000 +0800" stop="20220302000000 +0800" channel="STATIONPLUS">
-    <title lang="en">Station Plus Radio</title>
-    <desc lang="en">Station Plus Radio</desc>
-  </programme>
-  <programme start="20220302000000 +0800" stop="20220303000000 +0800" channel="STATIONPLUS">
-    <title lang="en">Station Plus Radio</title>
-    <desc lang="en">Station Plus Radio</desc>
-  </programme>
-  <programme start="20220303000000 +0800" stop="20220304000000 +0800" channel="STATIONPLUS">
-    <title lang="en">Station Plus Radio</title>
-    <desc lang="en">Station Plus Radio</desc>
-  </programme>
-  <programme start="20220304000000 +0800" stop="20220305000000 +0800" channel="STATIONPLUS">
-    <title lang="en">Station Plus Radio</title>
-    <desc lang="en">Station Plus Radio</desc>
-  </programme>
-  <programme start="20220305000000 +0800" stop="20220306000000 +0800" channel="STATIONPLUS">
-    <title lang="en">Station Plus Radio</title>
-    <desc lang="en">Station Plus Radio</desc>
-  </programme>
-  <programme start="20220306000000 +0800" stop="20220307000000 +0800" channel="STATIONPLUS">
-    <title lang="en">Station Plus Radio</title>
-    <desc lang="en">Station Plus Radio</desc>
-  </programme>
   
   
   
@@ -4372,7 +4294,101 @@
   
   
   
-    <programme start="20220228000000 +0800" stop="20220228060000 +0800" channel="ROCK">
+  <programme start="20220228000000 +0800" stop="20220301000000 +0800" channel="STATIONPLUS">
+    <title lang="en">Station Plus Radio</title>
+    <desc lang="en">Station Plus Radio</desc>
+  </programme>
+  <programme start="20220301000000 +0800" stop="20220302000000 +0800" channel="STATIONPLUS">
+    <title lang="en">Station Plus Radio</title>
+    <desc lang="en">Station Plus Radio</desc>
+  </programme>
+  <programme start="20220302000000 +0800" stop="20220303000000 +0800" channel="STATIONPLUS">
+    <title lang="en">Station Plus Radio</title>
+    <desc lang="en">Station Plus Radio</desc>
+  </programme>
+  <programme start="20220303000000 +0800" stop="20220304000000 +0800" channel="STATIONPLUS">
+    <title lang="en">Station Plus Radio</title>
+    <desc lang="en">Station Plus Radio</desc>
+  </programme>
+  <programme start="20220304000000 +0800" stop="20220305000000 +0800" channel="STATIONPLUS">
+    <title lang="en">Station Plus Radio</title>
+    <desc lang="en">Station Plus Radio</desc>
+  </programme>
+  <programme start="20220305000000 +0800" stop="20220306000000 +0800" channel="STATIONPLUS">
+    <title lang="en">Station Plus Radio</title>
+    <desc lang="en">Station Plus Radio</desc>
+  </programme>
+  <programme start="20220306000000 +0800" stop="20220307000000 +0800" channel="STATIONPLUS">
+    <title lang="en">Station Plus Radio</title>
+    <desc lang="en">Station Plus Radio</desc>
+  </programme>
+  
+  
+  
+  <programme start="20220228000000 +0800" stop="20220228000000 +0800" channel="SOUL">
+    <title lang="en">Soul Radio</title>
+    <desc lang="en">Soul Radio</desc>
+  </programme>
+ <programme start="20220301000000 +0800" stop="20220301000000 +0800" channel="SOUL">
+    <title lang="en">Soul Radio</title>
+    <desc lang="en">Soul Radio</desc>
+  </programme>
+  <programme start="20220302000000 +0800" stop="20220302000000 +0800" channel="SOUL">
+    <title lang="en">Soul Radio</title>
+    <desc lang="en">Soul Radio</desc>
+  </programme>
+  <programme start="20220303000000 +0800" stop="20220303000000 +0800" channel="SOUL">
+    <title lang="en">Soul Radio</title>
+    <desc lang="en">Soul Radio</desc>
+  </programme>
+  <programme start="20220304000000 +0800" stop="20220304000000 +0800" channel="SOUL">
+    <title lang="en">Soul Radio</title>
+    <desc lang="en">Soul Radio</desc>
+  </programme>
+  <programme start="20220305000000 +0800" stop="202203050000000 +0800" channel="SOUL">
+    <title lang="en">Soul Radio</title>
+    <desc lang="en">Soul Radio</desc>
+  </programme>
+  <programme start="20220306000000 +0800" stop="20220307000000 +0800" channel="SOUL">
+    <title lang="en">Soul Radio</title>
+    <desc lang="en">Soul Radio</desc>
+  </programme>
+  
+  
+  
+  <programme start="20220228000000 +0800" stop="20220301000000 +0800" channel="NAMASTE">
+    <title lang="en">Namaste Radio</title>
+    <desc lang="en">Radio Hindi Anda</desc>
+  </programme>
+ <programme start="20220301000000 +0800" stop="20220302000000 +0800" channel="NAMASTE">
+    <title lang="en">Namaste Radio</title>
+    <desc lang="en">Radio Hindi Anda</desc>
+  </programme>
+  <programme start="20220302000000 +0800" stop="20220303000000 +0800" channel="NAMASTE">
+    <title lang="en">Namaste Radio</title>
+    <desc lang="en">Radio Hindi Anda</desc>
+  </programme>
+  <programme start="20220303000000 +0800" stop="20220304000000 +0800" channel="NAMASTE">
+    <title lang="en">Namaste Radio</title>
+    <desc lang="en">Radio Hindi Anda</desc>
+  </programme>
+  <programme start="20220304000000 +0800" stop="20220305000000 +0800" channel="NAMASTE">
+    <title lang="en">Namaste Radio</title>
+    <desc lang="en">Radio Hindi Anda</desc>
+  </programme>
+  <programme start="20220305000000 +0800" stop="20220306000000 +0800" channel="NAMASTE">
+    <title lang="en">Namaste Radio</title>
+    <desc lang="en">Radio Hindi Anda</desc>
+  </programme>
+  <programme start="20220306000000 +0800" stop="20220307000000 +0800" channel="NAMASTE">
+    <title lang="en">Namaste Radio</title>
+    <desc lang="en">Radio Hindi Anda</desc>
+  </programme>
+  
+  
+  
+  
+  <programme start="20220228000000 +0800" stop="20220228060000 +0800" channel="ROCK">
     <title lang="en">Mid- Dawn Classic rock</title>
     <desc lang="en">Classic Rock Favorites.</desc>
   </programme>
