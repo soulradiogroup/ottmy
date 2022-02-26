@@ -259,7 +259,24 @@
     <desc lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</desc>
   </programme>
   
-  
+	
+   <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="GEGAR">
+    <title lang="en">GEGAR Pilihan #1 Pantai Timur</title>
+    <desc lang="en">GEGAR Pilihan #1 Pantai Timur</desc>
+  </programme>
+	
+	
+  </programme>  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="MOLEKFM">
+    <title lang="en">MOLEK FM Gu Pantai Timur</title>
+    <desc lang="en">MOLEK FM Gu Pantai Timur</desc>
+	
+	
+  </programme>  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="MANISFM">
+    <title lang="en">MANIS FM Gaya Pantai Timur</title>
+    <desc lang="en">MANIS FM Gaya Pantai Timur</desc>
+  </programme>
+
+
   <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="BESTFM">
     <title lang="en">BEST FM Terbaik Untuk Harimu</title>
     <desc lang="en">BEST FM Terbaik Untuk Harimu</desc>
