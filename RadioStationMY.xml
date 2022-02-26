@@ -279,9 +279,10 @@
   </programme>
 	
 	
-  </programme>  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="MOLEKFM">
+  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="MOLEKFM">
     <title lang="en">MOLEK FM Gu Pantai Timur</title>
     <desc lang="en">MOLEK FM Gu Pantai Timur</desc>
+  </programme>
   <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="MOLEKFM">
     <title lang="en">BEST FM Terbaik Untuk Harimu</title>
     <desc lang="en">BEST FM Terbaik Untuk Harimu</desc>
@@ -1758,7 +1759,7 @@
   
   
   <programme start="20220302000000 +0800" stop="20220302060000 +0800" channel="GEGAR">
-    <title lang="en">GEGAR Pilihan #1 Pantai Timur/title>
+    <title lang="en">GEGAR Pilihan #1 Pantai Timur</title>
     <desc lang="en">Layari laman web kami di GEGAR.my . Follow facebook GEGAR dan IG @GEGAR.my.</desc>
   </programme>  
   <programme start="20220302060000 +0800" stop="20220302100000 +0800" channel="GEGAR">
@@ -2129,7 +2130,7 @@
     <desc lang="en">Semanis Cinta bersama Mek Sha setiap hari Ahad hingga Khamis, Jam 8 malam hingga 12 tengah malam.</desc>
   </programme>
   <programme start="20220301000000 +0800" stop="20220301060000 +0800" channel="MANISFM">
-    <title lang="en">MANIS FM Gaya Pantai Timurtitle>
+    <title lang="en">MANIS FM Gaya Pantai Timur</title>
     <desc lang="en">MANIS FM Gaya Pantai Timur</desc>
   </programme>  
   
