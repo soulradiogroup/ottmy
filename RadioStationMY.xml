@@ -294,8 +294,8 @@
     <desc lang="en">MOLEK FM Gu Pantai Timur</desc>
   </programme>
   <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="MOLEKFM">
-    <title lang="en">BEST FM Terbaik Untuk Harimu</title>
-    <desc lang="en">BEST FM Terbaik Untuk Harimu</desc>
+    <title lang="en">MOLEK FM Gu Pantai Timur</title>
+    <desc lang="en">MOLEK FM Gu Pantai Timur</desc>
   </programme>
 	
 	  
@@ -678,7 +678,7 @@
   
   
   <programme start="20220228000000 +0800" stop="20220228060000 +0800" channel="ERA">
-    <title lang="en">ERA Muzik Hit Terkini.</title>
+    <title lang="en">ERA Muzik Hit Terkini</title>
     <desc lang="en">ERA Muzik Hit Terkini.</desc>
   </programme>  
   <programme start="20220228060000 +0800" stop="20220228100000 +0800" channel="ERA">
@@ -697,14 +697,14 @@
     <title lang="en">ERA D'Boyz</title>
     <desc lang="en">ERA D'Boyz.</desc>
   </programme>
-  <programme start="20220228220000 +0800" stop="20220301000000 +0800" channel="ERA">
+  <programme start="20220228200000 +0800" stop="20220301000000 +0800" channel="ERA">
     <title lang="en">V Show ERA</title>
     <desc lang="en">V Show ERA.</desc>
   </programme>
   
   
   <programme start="20220301000000 +0800" stop="20220301060000 +0800" channel="ERA">
-    <title lang="en">ERA Muzik Hit Terkini.</title>
+    <title lang="en">ERA Muzik Hit Terkini</title>
     <desc lang="en">ERA Muzik Hit Terkini.</desc>
   </programme>  
   <programme start="20220301060000 +0800" stop="20220301100000 +0800" channel="ERA">
@@ -723,14 +723,14 @@
     <title lang="en">ERA D'Boyz</title>
     <desc lang="en">ERA D'Boyz.</desc>
   </programme>
-  <programme start="20220301220000 +0800" stop="20220302000000 +0800" channel="ERA">
+  <programme start="20220301200000 +0800" stop="20220302000000 +0800" channel="ERA">
     <title lang="en">V Show ERA</title>
     <desc lang="en">V Show ERA.</desc>
   </programme>
   
   
   <programme start="20220302000000 +0800" stop="20220302060000 +0800" channel="ERA">
-    <title lang="en">ERA Muzik Hit Terkini.</title>
+    <title lang="en">ERA Muzik Hit Terkini</title>
     <desc lang="en">ERA Muzik Hit Terkini.</desc>
   </programme>
   <programme start="20220302060000 +0800" stop="20220302100000 +0800" channel="ERA">
@@ -749,14 +749,14 @@
     <title lang="en">ERA D'Boyz</title>
     <desc lang="en">ERA D'Boyz.</desc>
   </programme>
-  <programme start="20220302220000 +0800" stop="20220303000000 +0800" channel="ERA">
+  <programme start="20220302200000 +0800" stop="20220303000000 +0800" channel="ERA">
     <title lang="en">V Show ERA</title>
     <desc lang="en">V Show ERA.</desc>
   </programme>
   
   
    <programme start="20220303000000 +0800" stop="20220303060000 +0800" channel="ERA">
-    <title lang="en">ERA Muzik Hit Terkini.</title>
+    <title lang="en">ERA Muzik Hit Terkini</title>
     <desc lang="en">ERA Muzik Hit Terkini.</desc>
   </programme> 
   <programme start="20220303060000 +0800" stop="20220303100000 +0800" channel="ERA">
@@ -775,14 +775,14 @@
     <title lang="en">ERA D'Boyz</title>
     <desc lang="en">ERA D'Boyz.</desc>
   </programme>
-  <programme start="20220303220000 +0800" stop="20220304000000 +0800" channel="ERA">
+  <programme start="20220303200000 +0800" stop="20220304000000 +0800" channel="ERA">
     <title lang="en">V Show ERA</title>
     <desc lang="en">V Show ERA.</desc>
   </programme>
   
   
   <programme start="20220304000000 +0800" stop="20220304060000 +0800" channel="ERA">
-    <title lang="en">ERA Muzik Hit Terkini.</title>
+    <title lang="en">ERA Muzik Hit Terkini</title>
     <desc lang="en">ERA Muzik Hit Terkini.</desc>
   </programme>  
   <programme start="20220304060000 +0800" stop="20220304100000 +0800" channel="ERA">
@@ -801,14 +801,14 @@
     <title lang="en">ERA D'Boyz</title>
     <desc lang="en">ERA D'Boyz.</desc>
   </programme>
-  <programme start="20220304220000 +0800" stop="20220305000000 +0800" channel="ERA">
+  <programme start="20220304200000 +0800" stop="20220305000000 +0800" channel="ERA">
     <title lang="en">V Show ERA</title>
     <desc lang="en">V Show ERA.</desc>
   </programme>
   
   
   <programme start="20220305000000 +0800" stop="20220305070000 +0800" channel="ERA">
-    <title lang="en">ERA Muzik Hit Terkini.</title>
+    <title lang="en">ERA Muzik Hit Terkini</title>
     <desc lang="en">ERA Muzik Hit Terkini.</desc>
   </programme>
   <programme start="20220305070000 +0800" stop="20220305100000 +0800" channel="ERA">
@@ -838,7 +838,7 @@
   
   
   <programme start="20220306000000 +0800" stop="20220306060000 +0800" channel="ERA">
-    <title lang="en">ERA Muzik Hit Terkini.</title>
+    <title lang="en">ERA Muzik Hit Terkini</title>
     <desc lang="en">ERA Muzik Hit Terkini.</desc>
   </programme>
   <programme start="20220306060000 +0800" stop="20220306080000 +0800" channel="ERA">
@@ -878,8 +878,8 @@
   
   
   <programme start="20220228000000 +0800" stop="20220228060000 +0800" channel="HOTFM">
-    <title lang="en">HOTFM Kini Lebih Muzik Yang Hangat</title>
-    <desc lang="en">HOTFM Kini Lebih Muzik Yang Hangat</desc>
+    <title lang="en">HOT FM Kini Lebih Muzik Yang Hangat</title>
+    <desc lang="en">HOT FM Kini Lebih Muzik Yang Hangat</desc>
   </programme>  
   <programme start="20220228060000 +0800" stop="20220228100000 +0800" channel="HOTFM">
     <title lang="en">Rakyat Rangers</title>
@@ -897,7 +897,7 @@
     <title lang="en">Akasia @ Hot FM</title>
     <desc lang="en">Relax hour, dengarkan lagu-lagu OST yang membuai emosi.</desc>
   </programme>
-  <programme start="20220228220000 +0800" stop="20220301000000 +0800" channel="HOTFM">
+  <programme start="20220228200000 +0800" stop="20220301000000 +0800" channel="HOTFM">
     <title lang="en">Hot Flix</title>
     <desc lang="en">Mana yang berjiwa muda, put your hands up! Ini port lepak untuk generasi masa kini.</desc>
   </programme>
@@ -923,7 +923,7 @@
     <title lang="en">Akasia @ Hot FM</title>
     <desc lang="en">Relax hour, dengarkan lagu-lagu OST yang membuai emosi.</desc>
   </programme>
-  <programme start="20220301220000 +0800" stop="20220302000000 +0800" channel="HOTFM">
+  <programme start="20220301200000 +0800" stop="20220302000000 +0800" channel="HOTFM">
     <title lang="en">Hot Flix</title>
     <desc lang="en">Mana yang berjiwa muda, put your hands up! Ini port lepak untuk generasi masa kini.</desc>
   </programme>
@@ -949,7 +949,7 @@
     <title lang="en">Akasia @ Hot FM</title>
     <desc lang="en">Relax hour, dengarkan lagu-lagu OST yang membuai emosi.</desc>
   </programme>
-  <programme start="20220302220000 +0800" stop="20220303000000 +0800" channel="HOTFM">
+  <programme start="20220302200000 +0800" stop="20220303000000 +0800" channel="HOTFM">
     <title lang="en">Hot Flix</title>
     <desc lang="en">Mana yang berjiwa muda, put your hands up! Ini port lepak untuk generasi masa kini.</desc>
   </programme>
@@ -975,7 +975,7 @@
     <title lang="en">Akasia @ Hot FM</title>
     <desc lang="en">Relax hour, dengarkan lagu-lagu OST yang membuai emosi.</desc>
   </programme>
-  <programme start="20220303220000 +0800" stop="20220304000000 +0800" channel="HOTFM">
+  <programme start="20220303200000 +0800" stop="20220304000000 +0800" channel="HOTFM">
     <title lang="en">Hot Flix</title>
     <desc lang="en">Mana yang berjiwa muda, put your hands up! Ini port lepak untuk generasi masa kini.</desc>
   </programme>
@@ -1001,7 +1001,7 @@
     <title lang="en">Akasia @ Hot FM</title>
     <desc lang="en">Relax hour, dengarkan lagu-lagu OST yang membuai emosi.</desc>
   </programme>
-  <programme start="20220304220000 +0800" stop="20220305000000 +0800" channel="HOTFM">
+  <programme start="20220304200000 +0800" stop="20220305000000 +0800" channel="HOTFM">
     <title lang="en">Hot Flix Top 40</title>
     <desc lang="en">Setiap Jumaat, 8 malam hingga 12 tengah malam kira turun 40 lagu terhangat.</desc>
   </programme>
@@ -1029,7 +1029,7 @@
   </programme>
   
   
-  <programme start="20220306000000 +0800" stop="202203061100000 +0800" channel="HOTFM">
+  <programme start="20220306000000 +0800" stop="20220306100000 +0800" channel="HOTFM">
     <title lang="en">HOT FM Kini Lebih Muzik Yang Hangat</title>
     <desc lang="en">HOT FM Kini Lebih Muzik Yang Hangat</desc>
   </programme>
@@ -1045,7 +1045,7 @@
     <title lang="en">Lagu Hot Yang Fresh</title>
     <desc lang="en">Memainkan lagu-lagu hangat yang fresh daripada artis tempatan.</desc>
   </programme>
-  <programme start="20220306140000 +0800" stop="20220306190000 +0800" channel="HOTFM">
+  <programme start="20220306160000 +0800" stop="20220306190000 +0800" channel="HOTFM">
     <title lang="en">Hot FM Ucap Seru</title>
     <desc lang="en">Sampaikan dedikasi serta minta lagu kegemaran anda di hujung minggu secara live.</desc>
   </programme>
@@ -3542,7 +3542,7 @@
   </programme>
   <programme start="20220305000000 +0800" stop="20220306000000 +0800" channel="1MUZIK">
     <title lang="en">Hashtag One Radio</title>
-    <desc lang="en">Soul Radio</desc>
+    <desc lang="en">Hashtag One Radio</desc>
   </programme>
   <programme start="20220306000000 +0800" stop="20220307000000 +0800" channel="1MUZIK">
     <title lang="en">Hashtag One Radio</title>
@@ -4325,27 +4325,27 @@
   
   
   
-  <programme start="20220228000000 +0800" stop="20220228000000 +0800" channel="SOUL">
+  <programme start="20220228000000 +0800" stop="20220301000000 +0800" channel="SOUL">
     <title lang="en">Soul Radio</title>
     <desc lang="en">Soul Radio</desc>
   </programme>
- <programme start="20220301000000 +0800" stop="20220301000000 +0800" channel="SOUL">
+ <programme start="20220301000000 +0800" stop="20220302000000 +0800" channel="SOUL">
     <title lang="en">Soul Radio</title>
     <desc lang="en">Soul Radio</desc>
   </programme>
-  <programme start="20220302000000 +0800" stop="20220302000000 +0800" channel="SOUL">
+  <programme start="20220302000000 +0800" stop="20220303000000 +0800" channel="SOUL">
     <title lang="en">Soul Radio</title>
     <desc lang="en">Soul Radio</desc>
   </programme>
-  <programme start="20220303000000 +0800" stop="20220303000000 +0800" channel="SOUL">
+  <programme start="20220303000000 +0800" stop="20220304000000 +0800" channel="SOUL">
     <title lang="en">Soul Radio</title>
     <desc lang="en">Soul Radio</desc>
   </programme>
-  <programme start="20220304000000 +0800" stop="20220304000000 +0800" channel="SOUL">
+  <programme start="20220304000000 +0800" stop="20220305000000 +0800" channel="SOUL">
     <title lang="en">Soul Radio</title>
     <desc lang="en">Soul Radio</desc>
   </programme>
-  <programme start="20220305000000 +0800" stop="202203050000000 +0800" channel="SOUL">
+  <programme start="20220305000000 +0800" stop="20220306000000 +0800" channel="SOUL">
     <title lang="en">Soul Radio</title>
     <desc lang="en">Soul Radio</desc>
   </programme>
