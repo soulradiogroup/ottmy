@@ -5248,7 +5248,7 @@
 
 
 
-  <programme start="20220228000000 +0800" stop="20220228060000 +0800" channel="BAYU">
+   <programme start="20220228000000 +0800" stop="20220228060000 +0800" channel="BAYU">
     <title lang="en">Musik Bayu Tanpa Henti</title>
     <desc lang="en">Alunan lagu-lagu terbaik Sabah menemani anda sepanjang malam tanpa henti.</desc>
   </programme>  
@@ -5269,7 +5269,7 @@
     <desc lang="en">Memainkan dedikasi serta lagu artis-artis Sabah pilihan anda menerusi e-mel (radiobayu@gmail.com).</desc>
   </programme>
   
-  
+
   <programme start="20220301000000 +0800" stop="20220301060000 +0800" channel="BAYU">
     <title lang="en">Musik Bayu Tanpa Henti</title>
     <desc lang="en">Alunan lagu-lagu terbaik Sabah menemani anda sepanjang malam tanpa henti.</desc>
@@ -5291,11 +5291,10 @@
     <desc lang="en">Memainkan dedikasi serta lagu artis-artis Sabah pilihan anda menerusi e-mel (radiobayu@gmail.com).</desc>
   </programme>
   
-  
   <programme start="20220302000000 +0800" stop="20220302060000 +0800" channel="BAYU">
     <title lang="en">Musik Bayu Tanpa Henti</title>
     <desc lang="en">Alunan lagu-lagu terbaik Sabah menemani anda sepanjang malam tanpa henti.</desc>
-  </programme>
+  </programme>  
   <programme start="20220302060000 +0800" stop="20220302100000 +0800" channel="BAYU">
     <title lang="en">Bayu Pagi</title>
     <desc lang="en">Memainkan lagu-lagu rancak terbaik dari Sabah.</desc>
@@ -5314,10 +5313,10 @@
   </programme>
   
   
-   <programme start="20220303000000 +0800" stop="20220303060000 +0800" channel="BAYU">
+  <programme start="20220303000000 +0800" stop="20220303060000 +0800" channel="BAYU">
     <title lang="en">Musik Bayu Tanpa Henti</title>
     <desc lang="en">Alunan lagu-lagu terbaik Sabah menemani anda sepanjang malam tanpa henti.</desc>
-  </programme> 
+  </programme>  
   <programme start="20220303060000 +0800" stop="20220303100000 +0800" channel="BAYU">
     <title lang="en">Bayu Pagi</title>
     <desc lang="en">Memainkan lagu-lagu rancak terbaik dari Sabah.</desc>
@@ -5358,11 +5357,11 @@
   </programme>
   
   
-   <programme start="20220305000000 +0800" stop="20220305060000 +0800" channel="BAYU">
+  <programme start="20220305000000 +0800" stop="20220305060000 +0800" channel="BAYU">
     <title lang="en">Musik Bayu Tanpa Henti</title>
     <desc lang="en">Alunan lagu-lagu terbaik Sabah menemani anda sepanjang malam tanpa henti.</desc>
-  </programme>
-  <programme start="20220303060000 +0800" stop="20220305100000 +0800" channel="BAYU">
+  </programme>  
+  <programme start="20220305060000 +0800" stop="20220305100000 +0800" channel="BAYU">
     <title lang="en">Bayu Pagi</title>
     <desc lang="en">Memainkan lagu-lagu rancak terbaik dari Sabah.</desc>
   </programme>
@@ -5370,21 +5369,21 @@
     <title lang="en">Rentak Bayu Anda</title>
     <desc lang="en">Pilihan lagu-lagu tempatan Sabah yang terbaik serta informasi terkini artis-artis Sabah.</desc>
   </programme>
-    <programme start="20220305150000 +0800" stop="20220305200000 +0800" channel="BAYU">
+  <programme start="20220305150000 +0800" stop="20220305200000 +0800" channel="BAYU">
     <title lang="en">Bayu Petang</title>
     <desc lang="en">Ceriakan petang anda bersama seleksi lagu-lagu terbaik Sabah.</desc>
   </programme>
-    <programme start="20220305200000 +0800" stop="20220306000000 +0800" channel="BAYU">
+  <programme start="20220305200000 +0800" stop="20220306000000 +0800" channel="BAYU">
     <title lang="en">Pilihan Bayu Malam</title>
     <desc lang="en">Memainkan dedikasi serta lagu artis-artis Sabah pilihan anda menerusi e-mel (radiobayu@gmail.com).</desc>
   </programme>
   
   
-  <programme start="20220300000000 +0800" stop="202203060600000 +0800" channel="BAYU">
+  <programme start="20220306000000 +0800" stop="20220306060000 +0800" channel="BAYU">
     <title lang="en">Musik Bayu Tanpa Henti</title>
     <desc lang="en">Alunan lagu-lagu terbaik Sabah menemani anda sepanjang malam tanpa henti.</desc>
-  </programme>
-  <programme start="2022030600000 +0800" stop="20220306100000 +0800" channel="BAYU">
+  </programme>  
+  <programme start="20220306060000 +0800" stop="20220306100000 +0800" channel="BAYU">
     <title lang="en">Bayu Pagi</title>
     <desc lang="en">Memainkan lagu-lagu rancak terbaik dari Sabah.</desc>
   </programme>
@@ -5403,7 +5402,8 @@
   
   
   
-    <programme start="20220228000000 +0800" stop="20220228060000 +0800" channel="KENYALANG">
+  
+  <programme start="20220228000000 +0800" stop="20220228060000 +0800" channel="KENYALANG">
     <title lang="en">Express Kenyalang</title>
     <desc lang="en">Lagu-lagu Sarawak tanpa henti.</desc>
   </programme>  
@@ -5421,13 +5421,31 @@
   </programme>
   
   
-  <programme start="20220301000000 +0800" stop="20220301060000 +0800" channel="KENYALANG">
+   <programme start="20220228000000 +0800" stop="20220228060000 +0800" channel="KENYALANG">
     <title lang="en">Express Kenyalang</title>
     <desc lang="en">Lagu-lagu Sarawak tanpa henti.</desc>
   </programme>  
-  <programme start="20220301060000 +0800" stop="20220301100000 +0800" channel="KENYALANG">
+  <programme start="20220228060000 +0800" stop="20220228100000 +0800" channel="KENYALANG">
     <title lang="en">Pilihan Riuh Pagi Kenyalang</title>
     <desc lang="en">Memainkan lagu-lagu buatan Sarawak dan juga informasi terkini dalam negeri.</desc>
+  </programme>
+  <programme start="20220228100000 +0800" stop="20220228200000 +0800" channel="KENYALANG">
+    <title lang="en">Zon Tempatan</title>
+    <desc lang="en">Memainkan lagu-lagu buatan Sarawak dan juga informasi terkini dalam negeri.</desc>
+  </programme>
+  <programme start="20220228200000 +0800" stop="20220301000000 +0800" channel="KENYALANG">
+    <title lang="en">Pilihan Terbaik Sape dan Iban</title>
+    <desc lang="en">Memainkan lagu-lagu terbaik Sape dan Iban.</desc>
+  </programme>
+  
+
+  <programme start="20220301000000 +0800" stop="20220301060000 +0800" channel="KENYALANG">
+    <title lang="en">Pilihan Riuh Pagi Kenyalang</title>
+    <desc lang="en">Memainkan lagu-lagu buatan Sarawak dan juga informasi terkini dalam negeri.</desc>
+  </programme>  
+  <programme start="20220301060000 +0800" stop="20220301100000 +0800" channel="KENYALANG">
+    <title lang="en">KENYALANG Pagi</title>
+    <desc lang="en">Memainkan lagu-lagu rancak terbaik dari Sabah.</desc>
   </programme>
   <programme start="20220301100000 +0800" stop="20220301200000 +0800" channel="KENYALANG">
     <title lang="en">Zon Tempatan</title>
@@ -5438,11 +5456,10 @@
     <desc lang="en">Memainkan lagu-lagu terbaik Sape dan Iban.</desc>
   </programme>
   
-  
   <programme start="20220302000000 +0800" stop="20220302060000 +0800" channel="KENYALANG">
     <title lang="en">Express Kenyalang</title>
     <desc lang="en">Lagu-lagu Sarawak tanpa henti.</desc>
-  </programme>
+  </programme>  
   <programme start="20220302060000 +0800" stop="20220302100000 +0800" channel="KENYALANG">
     <title lang="en">Pilihan Riuh Pagi Kenyalang</title>
     <desc lang="en">Memainkan lagu-lagu buatan Sarawak dan juga informasi terkini dalam negeri.</desc>
@@ -5457,10 +5474,10 @@
   </programme>
   
   
-   <programme start="20220303000000 +0800" stop="20220303060000 +0800" channel="KENYALANG">
+  <programme start="20220303000000 +0800" stop="20220303060000 +0800" channel="KENYALANG">
     <title lang="en">Express Kenyalang</title>
     <desc lang="en">Lagu-lagu Sarawak tanpa henti.</desc>
-  </programme> 
+  </programme>  
   <programme start="20220303060000 +0800" stop="20220303100000 +0800" channel="KENYALANG">
     <title lang="en">Pilihan Riuh Pagi Kenyalang</title>
     <desc lang="en">Memainkan lagu-lagu buatan Sarawak dan juga informasi terkini dalam negeri.</desc>
@@ -5493,11 +5510,11 @@
   </programme>
   
   
-   <programme start="20220305000000 +0800" stop="20220305060000 +0800" channel="KENYALANG">
+  <programme start="20220305000000 +0800" stop="20220305060000 +0800" channel="KENYALANG">
     <title lang="en">Express Kenyalang</title>
     <desc lang="en">Lagu-lagu Sarawak tanpa henti.</desc>
-  </programme>
-  <programme start="20220303060000 +0800" stop="20220305100000 +0800" channel="KENYALANG">
+  </programme>  
+  <programme start="20220305060000 +0800" stop="20220305100000 +0800" channel="KENYALANG">
     <title lang="en">Pilihan Riuh Pagi Kenyalang</title>
     <desc lang="en">Memainkan lagu-lagu buatan Sarawak dan juga informasi terkini dalam negeri.</desc>
   </programme>
@@ -5505,17 +5522,17 @@
     <title lang="en">Zon Tempatan</title>
     <desc lang="en">Memainkan lagu-lagu buatan Sarawak dan juga informasi terkini dalam negeri.</desc>
   </programme>
-    <programme start="20220305200000 +0800" stop="20220306000000 +0800" channel="KENYALANG">
+  <programme start="20220305200000 +0800" stop="20220306000000 +0800" channel="KENYALANG">
     <title lang="en">Pilihan Terbaik Sape dan Iban</title>
     <desc lang="en">Memainkan lagu-lagu terbaik Sape dan Iban.</desc>
   </programme>
   
   
-  <programme start="20220300000000 +0800" stop="202203060600000 +0800" channel="KENYALANG">
+  <programme start="20220306000000 +0800" stop="20220306060000 +0800" channel="KENYALANG">
     <title lang="en">Express Kenyalang</title>
     <desc lang="en">Lagu-lagu Sarawak tanpa henti.</desc>
-  </programme>
-  <programme start="2022030600000 +0800" stop="20220306100000 +0800" channel="KENYALANG">
+  </programme>  
+  <programme start="20220306060000 +0800" stop="20220306100000 +0800" channel="KENYALANG">
     <title lang="en">Pilihan Riuh Pagi Kenyalang</title>
     <desc lang="en">Memainkan lagu-lagu buatan Sarawak dan juga informasi terkini dalam negeri.</desc>
   </programme>
@@ -5907,11 +5924,11 @@
     <title lang="en">Hello Permata</title>
     <desc lang="en">Hello Permata</desc>
   </programme>
-  <programme start="20220302120000 +0800" stop="20220303020000 +0800" channel="JOHORFM">
+  <programme start="20220302120000 +0800" stop="20220302180000 +0800" channel="JOHORFM">
     <title lang="en">Yok Ngeteh!</title>
     <desc lang="en">Yok Ngeteh!</desc>
   </programme>
-  <programme start="20220303180000 +0800" stop="20220303000000 +0800" channel="JOHORFM">
+  <programme start="20220302180000 +0800" stop="20220303000000 +0800" channel="JOHORFM">
     <title lang="en">Memori Malam</title>
     <desc lang="en">Memori Malam</desc>
   </programme>
@@ -6175,7 +6192,7 @@
     <title lang="en">Alunan Nurani</title>
     <desc lang="en">Alunan Nurani</desc>
   </programme>
-  <programme start="20220301210000 +0800" stop="20220301235900 +0800" channel="NEGERIFM">
+  <programme start="20220301210000 +0800" stop="20220302000000 +0800" channel="NEGERIFM">
     <title lang="en">Ritma Malam</title>
     <desc lang="en">Ritma Malam</desc>
   </programme>
@@ -6728,7 +6745,7 @@
     <title lang="en">MH 10-2</title>
     <desc lang="en">MH 10-2</desc>
   </programme>
-  <programme start="20220301140000 +0800" stop="20220301000000 +0800" channel="KEDAHFM">
+  <programme start="20220301140000 +0800" stop="20220301180000 +0800" channel="KEDAHFM">
     <title lang="en">MH 2-6</title>
     <desc lang="en">MH 2-6</desc>
   </programme>
@@ -6794,7 +6811,7 @@
     <title lang="en">MH 10-2</title>
     <desc lang="en">MH 10-2</desc>
   </programme>
-  <programme start="20220304140000 +0800" stop="20220304000000 +0800" channel="KEDAHFM">
+  <programme start="20220304140000 +0800" stop="20220304180000 +0800" channel="KEDAHFM">
     <title lang="en">MH 2-6</title>
     <desc lang="en">MH 2-6</desc>
   </programme>
@@ -6913,11 +6930,11 @@
     <title lang="en">Zon 10-2</title>
     <desc lang="en">Zon 10-2</desc>
   </programme>
-  <programme start="20220302140000 +0800" stop="20220303020000 +0800" channel="KELANTANFM">
+  <programme start="20220302140000 +0800" stop="20220302180000 +0800" channel="KELANTANFM">
     <title lang="en">Akok</title>
     <desc lang="en">Akok</desc>
   </programme>
-  <programme start="20220303020000 +0800" stop="20220302210000 +0800" channel="KELANTANFM">
+  <programme start="20220302180000 +0800" stop="20220302210000 +0800" channel="KELANTANFM">
     <title lang="en">Selekta</title>
     <desc lang="en">Selekta</desc>
   </programme>
@@ -7040,11 +7057,11 @@
     <title lang="en">Zon Aktif</title>
     <desc lang="en">Zon Aktif</desc>
   </programme>
-  <programme start="20220228100000 +0800" stop="20220228120000 +0800" channel="PAHANGFM">
+  <programme start="20220228100000 +0800" stop="20220228140000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Pesona</title>
     <desc lang="en">Zon Pesona</desc>
   </programme>
-  <programme start="20220228120000 +0800" stop="20220228180000 +0800" channel="PAHANGFM">
+  <programme start="20220228140000 +0800" stop="20220228180000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Apa Khabar Weh!</title>
     <desc lang="en">Zon Apa Khabar Weh!</desc>
   </programme>
@@ -7066,11 +7083,11 @@
     <title lang="en">Zon Aktif</title>
     <desc lang="en">Zon Aktif</desc>
   </programme>
-  <programme start="20220301100000 +0800" stop="20220301120000 +0800" channel="PAHANGFM">
+  <programme start="20220301100000 +0800" stop="20220301140000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Pesona</title>
     <desc lang="en">Zon Pesona</desc>
   </programme>
-  <programme start="20220301120000 +0800" stop="20220301180000 +0800" channel="PAHANGFM">
+  <programme start="20220301140000 +0800" stop="20220301180000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Apa Khabar Weh!</title>
     <desc lang="en">Zon Apa Khabar Weh!</desc>
   </programme>
@@ -7092,11 +7109,11 @@
     <title lang="en">Zon Aktif</title>
     <desc lang="en">Zon Aktif</desc>
   </programme>
-  <programme start="20220302100000 +0800" stop="20220302120000 +0800" channel="PAHANGFM">
+  <programme start="20220302100000 +0800" stop="20220302140000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Pesona</title>
     <desc lang="en">Zon Pesona</desc>
   </programme>
-  <programme start="20220302120000 +0800" stop="20220302180000 +0800" channel="PAHANGFM">
+  <programme start="20220302140000 +0800" stop="20220302180000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Apa Khabar Weh!</title>
     <desc lang="en">Zon Apa Khabar Weh!</desc>
   </programme>
@@ -7118,11 +7135,11 @@
     <title lang="en">Zon Aktif</title>
     <desc lang="en">Zon Aktif</desc>
   </programme>
-  <programme start="20220303100000 +0800" stop="20220303120000 +0800" channel="PAHANGFM">
+  <programme start="20220303100000 +0800" stop="20220303140000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Pesona</title>
     <desc lang="en">Zon Pesona</desc>
   </programme>
-  <programme start="20220303120000 +0800" stop="20220303180000 +0800" channel="PAHANGFM">
+  <programme start="20220303140000 +0800" stop="20220303180000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Apa Khabar Weh!</title>
     <desc lang="en">Zon Apa Khabar Weh!</desc>
   </programme>
@@ -7144,11 +7161,11 @@
     <title lang="en">Zon Aktif</title>
     <desc lang="en">Zon Aktif</desc>
   </programme>
-  <programme start="20220304100000 +0800" stop="20220304120000 +0800" channel="PAHANGFM">
+  <programme start="20220304100000 +0800" stop="20220304140000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Pesona</title>
     <desc lang="en">Zon Pesona</desc>
   </programme>
-  <programme start="20220304120000 +0800" stop="20220304180000 +0800" channel="PAHANGFM">
+  <programme start="20220304140000 +0800" stop="20220304180000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Apa Khabar Weh!</title>
     <desc lang="en">Zon Apa Khabar Weh!</desc>
   </programme>
@@ -7170,11 +7187,11 @@
     <title lang="en">Zon Aktif</title>
     <desc lang="en">Zon Aktif</desc>
   </programme>
-  <programme start="20220305100000 +0800" stop="20220305120000 +0800" channel="PAHANGFM">
+  <programme start="20220305100000 +0800" stop="20220305140000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Pesona</title>
     <desc lang="en">Zon Pesona</desc>
   </programme>
-  <programme start="20220305120000 +0800" stop="20220305180000 +0800" channel="PAHANGFM">
+  <programme start="20220305140000 +0800" stop="20220305180000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Apa Khabar Weh!</title>
     <desc lang="en">Zon Apa Khabar Weh!</desc>
   </programme>
@@ -7196,11 +7213,11 @@
     <title lang="en">Zon Aktif</title>
     <desc lang="en">Zon Aktif</desc>
   </programme>
-  <programme start="20220306100000 +0800" stop="20220306120000 +0800" channel="PAHANGFM">
+  <programme start="20220306100000 +0800" stop="20220306140000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Pesona</title>
     <desc lang="en">Zon Pesona</desc>
   </programme>
-  <programme start="20220306120000 +0800" stop="20220306180000 +0800" channel="PAHANGFM">
+  <programme start="20220306140000 +0800" stop="20220306180000 +0800" channel="PAHANGFM">
     <title lang="en">Zon Apa Khabar Weh!</title>
     <desc lang="en">Zon Apa Khabar Weh!</desc>
   </programme>
@@ -7462,11 +7479,11 @@
     <title lang="en">Ekspresi</title>
     <desc lang="en">Ekspresi</desc>
   </programme>
-  <programme start="20220302140000 +0800" stop="20220303020000 +0800" channel="SABAHFM">
+  <programme start="20220302140000 +0800" stop="20220302180000 +0800" channel="SABAHFM">
     <title lang="en">Bah Ngam Lah Tu</title>
     <desc lang="en">Bah Ngam Lah Tu</desc>
   </programme>
-  <programme start="20220303020000 +0800" stop="20220302210000 +0800" channel="SABAHFM">
+  <programme start="20220302180000 +0800" stop="20220302210000 +0800" channel="SABAHFM">
     <title lang="en">Simfoni</title>
     <desc lang="en">Simfoni</desc>
   </programme>
@@ -7565,6 +7582,8 @@
     <title lang="en">Gatra</title>
     <desc lang="en">Gatra</desc>
   </programme>
+  
+  
   <programme start="20220301000000 +0800" stop="20220301060000 +0800" channel="SARAWAKFM">
     <title lang="en">Layan</title>
     <desc lang="en">Layan</desc>
@@ -7577,7 +7596,7 @@
     <title lang="en">Ekspresi</title>
     <desc lang="en">Ekspresi</desc>
   </programme>
-  <programme start="20220301140000 +0800" stop="20220301180000 +0800" channel="SARAWAKFM">
+  <programme start="20220301140000 +0800" stop="20220301170000 +0800" channel="SARAWAKFM">
     <title lang="en">Ritma</title>
     <desc lang="en">Ritma</desc>
   </programme>
@@ -7585,10 +7604,12 @@
     <title lang="en">Simfoni</title>
     <desc lang="en">Simfoni</desc>
   </programme>
-  <programme start="20220301210000 +0800" stop="20220301235900 +0800" channel="SARAWAKFM">
+  <programme start="20220301210000 +0800" stop="20220302000000 +0800" channel="SARAWAKFM">
     <title lang="en">Gatra</title>
     <desc lang="en">Gatra</desc>
   </programme>
+  
+  
   <programme start="20220302000000 +0800" stop="20220302060000 +0800" channel="SARAWAKFM">
     <title lang="en">Layan</title>
     <desc lang="en">Layan</desc>
@@ -7601,7 +7622,7 @@
     <title lang="en">Ekspresi</title>
     <desc lang="en">Ekspresi</desc>
   </programme>
-  <programme start="20220302140000 +0800" stop="20220303060000 +0800" channel="SARAWAKFM">
+  <programme start="20220302140000 +0800" stop="20220302170000 +0800" channel="SARAWAKFM">
     <title lang="en">Ritma</title>
     <desc lang="en">Ritma</desc>
   </programme>
@@ -7613,6 +7634,8 @@
     <title lang="en">Gatra</title>
     <desc lang="en">Gatra</desc>
   </programme>
+  
+  
   <programme start="20220303000000 +0800" stop="20220303060000 +0800" channel="SARAWAKFM">
     <title lang="en">Layan</title>
     <desc lang="en">Layan</desc>
@@ -7625,7 +7648,7 @@
     <title lang="en">Ekspresi</title>
     <desc lang="en">Ekspresi</desc>
   </programme>
-  <programme start="20220303140000 +0800" stop="20220303180000 +0800" channel="SARAWAKFM">
+  <programme start="20220303140000 +0800" stop="20220303170000 +0800" channel="SARAWAKFM">
     <title lang="en">Ritma</title>
     <desc lang="en">Ritma</desc>
   </programme>
@@ -7637,6 +7660,8 @@
     <title lang="en">Gatra</title>
     <desc lang="en">Gatra</desc>
   </programme>
+  
+  
   <programme start="20220304000000 +0800" stop="20220304060000 +0800" channel="SARAWAKFM">
     <title lang="en">Layan</title>
     <desc lang="en">Layan</desc>
@@ -7649,7 +7674,7 @@
     <title lang="en">Ekspresi</title>
     <desc lang="en">Ekspresi</desc>
   </programme>
-  <programme start="20220304140000 +0800" stop="20220304180000 +0800" channel="SARAWAKFM">
+  <programme start="20220304140000 +0800" stop="20220304170000 +0800" channel="SARAWAKFM">
     <title lang="en">Ritma</title>
     <desc lang="en">Ritma</desc>
   </programme>
@@ -7661,6 +7686,8 @@
     <title lang="en">Gatra</title>
     <desc lang="en">Gatra</desc>
   </programme>
+  
+  
   <programme start="20220305000000 +0800" stop="20220305060000 +0800" channel="SARAWAKFM">
     <title lang="en">Layan</title>
     <desc lang="en">Layan</desc>
@@ -7673,7 +7700,7 @@
     <title lang="en">Ekspresi</title>
     <desc lang="en">Ekspresi</desc>
   </programme>
-  <programme start="20220305140000 +0800" stop="20220305180000 +0800" channel="SARAWAKFM">
+  <programme start="20220305140000 +0800" stop="20220305170000 +0800" channel="SARAWAKFM">
     <title lang="en">Ritma</title>
     <desc lang="en">Ritma</desc>
   </programme>
@@ -7685,6 +7712,8 @@
     <title lang="en">Gatra</title>
     <desc lang="en">Gatra</desc>
   </programme>
+  
+  
   <programme start="20220306000000 +0800" stop="20220306060000 +0800" channel="SARAWAKFM">
     <title lang="en">Layan</title>
     <desc lang="en">Layan</desc>
@@ -7697,7 +7726,7 @@
     <title lang="en">Ekspresi</title>
     <desc lang="en">Ekspresi</desc>
   </programme>
-  <programme start="20220306140000 +0800" stop="20220306180000 +0800" channel="SARAWAKFM">
+  <programme start="20220306140000 +0800" stop="20220306170000 +0800" channel="SARAWAKFM">
     <title lang="en">Ritma</title>
     <desc lang="en">Ritma</desc>
   </programme>
@@ -7728,15 +7757,15 @@
     <title lang="en">Destinasi</title>
     <desc lang="en">Destinasi</desc>
   </programme>
-  
-  
   <programme start="20220228190000 +0800" stop="20220301000000 +0800" channel="LABUANFM">
     <title lang="en">LABUAN FM Suara Pesisir Anda</title>
     <desc lang="en">LABUAN FM Suara Pesisir Anda</desc>
   </programme>
+  
+  
   <programme start="20220301000000 +0800" stop="20220301070000 +0800" channel="LABUANFM">
-    <title lang="en">LABUANFM</title>
-    <desc lang="en">Suara Pesisir Anda</desc>
+    <title lang="en">LABUAN FM Suara Pesisir Anda</title>
+    <desc lang="en">LABUAN FM Suara Pesisir Anda</desc>
   </programme>  
   <programme start="20220301070000 +0800" stop="20220301110000 +0800" channel="LABUANFM">
     <title lang="en">Salam Padiaan</title>
@@ -7750,15 +7779,14 @@
     <title lang="en">Destinasi</title>
     <desc lang="en">Destinasi</desc>
   </programme>
-  
-  
-  <programme start="20220301190000 +0800" stop="20220301235900 +0800" channel="LABUANFM">
+  <programme start="20220301190000 +0800" stop="220220302000000 +0800" channel="LABUANFM">
     <title lang="en">LABUAN FM Suara Pesisir Anda</title>
     <desc lang="en">LABUAN FM Suara Pesisir Anda</desc>
   </programme>
+  
   <programme start="20220302000000 +0800" stop="20220302070000 +0800" channel="LABUANFM">
-    <title lang="en">LABUANFM</title>
-    <desc lang="en">Suara Pesisir Anda</desc>
+    <title lang="en">LABUAN FM Suara Pesisir Anda</title>
+    <desc lang="en">LABUAN FM Suara Pesisir Anda</desc>
   </programme>  
   <programme start="20220302070000 +0800" stop="20220302110000 +0800" channel="LABUANFM">
     <title lang="en">Salam Padiaan</title>
@@ -7779,8 +7807,8 @@
     <desc lang="en">LABUAN FM Suara Pesisir Anda</desc>
   </programme>
   <programme start="20220303000000 +0800" stop="20220303070000 +0800" channel="LABUANFM">
-    <title lang="en">LABUANFM</title>
-    <desc lang="en">Suara Pesisir Anda</desc>
+    <title lang="en">LABUAN FM Suara Pesisir Anda</title>
+    <desc lang="en">LABUAN FM Suara Pesisir Anda</desc>
   </programme>  
   <programme start="20220303070000 +0800" stop="20220303110000 +0800" channel="LABUANFM">
     <title lang="en">Salam Padiaan</title>
