@@ -47,6 +47,3 @@ Playlist radio.
 | LABUAN FM | Radio Televisyen Malaysia | Malay | AAC | ✘ | RTM Klik | ✘ | Official Website
 
 
-
-
-| Nama Radio | Pemilik | Kategory | Kualiti | Lain Lain Platform | Apps | Youtube | Sumber |
