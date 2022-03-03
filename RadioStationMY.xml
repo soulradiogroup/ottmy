@@ -78,6 +78,31 @@
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/1radiowhite.png" />
     <url>https://www.soulradio.wix.com/home</url>
   </channel>
+    <channel id="MYFM">
+    <display-name lang="en">MY</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/my.png" />
+    <url>http://www.my.com.my</url>
+	</channel>
+  <channel id="8FM">
+    <display-name lang="en">8FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/8fm.png" />
+    <url>https://www.8fm.audio</url>
+  </channel>
+  <channel id="MELODY">
+    <display-name lang="en">MELODY</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/melody.png" />
+    <url>https://www.melody.my</url>
+  </channel>
+  <channel id="AIFM">
+    <display-name lang="en">AI FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/aifm.png" />
+    <url>https://www.aifm.rtm.gov.my</url>
+  </channel>
+  <channel id="988">
+    <display-name lang="en">988</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/988.png" />
+    <url>https://www.988.com.my/</url>
+  </channel>
   <channel id="HITZ">
     <display-name lang="en">HITZ</display-name>
     <icon src="https://static.wixstatic.com/media/0064cc_97e1fc97d97c47f49eed9151029452a5~mv2.png" />
@@ -93,6 +118,11 @@
     <icon src="https://static.wixstatic.com/media/0064cc_97e1fc97d97c47f49eed9151029452a5~mv2.png" />
     <url>https://www.mix.my</url>
   </channel>
+    <channel id="BFM">
+    <display-name lang="en">B FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/bfm.png" />
+    <url>https://www.bfm.com.my</url>
+  </channel>
   <channel id="TRAXX">
     <display-name lang="en">TRAXX FM</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" />
@@ -102,6 +132,16 @@
     <display-name lang="en">Station Plus Radio</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/stationplusradio.png" />
     <url>https://www.soulradio.wix.com/home</url>
+  </channel>
+    <channel id="RAAGA">
+    <display-name lang="en">RAAGA</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/raaga.png" />
+    <url>https://www.raaga.my</url>
+  </channel>
+  <channel id="MINNAL">
+    <display-name lang="en">MINNAL FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/minnalfm.png" />
+    <url>https://www.minnalfm.rtm.gov.my</url>
   </channel>
     <channel id="SOUL">
     <display-name lang="en">Soul Radio</display-name>
@@ -228,451 +268,88 @@
     <icon src="https://static.wixstatic.com/media/0064cc_25b507027db94c65923a4040a16d7bb9~mv2.png" />
     <url>https://labuanfm.rtm.gov.my/</url>
   </channel>
-
-
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="ERA">
-    <title lang="en">ERA Muzik Hit Terkini.</title>
-    <desc lang="en">ERA Muzik Hit Terkini.</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="ERA">
-    <title lang="en">ERA Muzik Hit Terkini.</title>
-    <desc lang="en">ERA Muzik Hit Terkini.</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="HOTFM">
-     <title lang="en">HOT FM Kini Lebih Muzik Yang Hangat</title>
-     <desc lang="en">HOT FM Kini Lebih Muzik Yang Hangat</desc>
-    </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="HOTFM">
-    <title lang="en">HOT FM Kini Lebih Muzik Yang Hangat</title>
-    <desc lang="en">HOT FM Kini Lebih Muzik Yang Hangat</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="SURIAFM">
-    <title lang="en">SURIA Segalanya Hiburan</title>
-    <desc lang="en">SURIA Segalanya Hiburan</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="SURIAFM">
-    <title lang="en">SURIA Segalanya Hiburan</title>
-    <desc lang="en">SURIA Segalanya Hiburan</desc>
-  </programme>
-	
-   <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="SINAR">
-    <title lang="en">SINAR Menyinari Hidupmu</title>
-    <desc lang="en">SINAR Menyinari Hidupmu</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="SINAR">
-    <title lang="en">SINAR Menyinari Hidupmu</title>
-    <desc lang="en">SINAR Menyinari Hidupmu</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="BULETINFM">
-    <title lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</title>
-    <desc lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="BULETINFM">
-    <title lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</title>
-    <desc lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</desc>
-  </programme>
-  
-	
-   <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="GEGAR">
-    <title lang="en">GEGAR Pilihan #1 Pantai Timur</title>
-    <desc lang="en">GEGAR Pilihan #1 Pantai Timur</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="GEGAR">
-    <title lang="en">GEGAR Pilihan #1 Pantai Timur</title>
-    <desc lang="en">GEGAR Pilihan #1 Pantai Timur</desc>
-  </programme>
-	
-	
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="MOLEKFM">
-    <title lang="en">MOLEK FM Gu Pantai Timur</title>
-    <desc lang="en">MOLEK FM Gu Pantai Timur</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="MOLEKFM">
-    <title lang="en">MOLEK FM Gu Pantai Timur</title>
-    <desc lang="en">MOLEK FM Gu Pantai Timur</desc>
-  </programme>
-	
-	  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="MANISFM">
-    <title lang="en">MANIS FM Gaya Pantai Timur</title>
-    <desc lang="en">MANIS FM Gaya Pantai Timur</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="MANISFM">
-    <title lang="en">MANIS FM Gaya Pantai Timur</title>
-    <desc lang="en">MANIS FM Gaya Pantai Timur</desc>
-  </programme>
-
-
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="BESTFM">
-    <title lang="en">BEST FM Terbaik Untuk Harimu</title>
-    <desc lang="en">BEST FM Terbaik Untuk Harimu</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="BESTFM">
-    <title lang="en">BEST FM Terbaik Untuk Harimu</title>
-    <desc lang="en">BEST FM Terbaik Untuk Harimu</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="RIA">
-    <title lang="en">RIA 89.7FM Hiburan Tahap Optima</title>
-    <desc lang="en">RIA 89.7FM Hiburan Tahap Optima</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="RIA">
-    <title lang="en">RIA 89.7FM Hiburan Tahap Optima</title>
-    <desc lang="en">RIA 89.7FM Hiburan Tahap Optima</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="WARNA">
-    <title lang="en">WARNA 94.2FM Serentak Semasa</title>
-    <desc lang="en">WARNA 94.2FM Serentak Semasa</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="WARNA">
-    <title lang="en">WARNA 94.2FM Serentak Semasa</title>
-    <desc lang="en">WARNA 94.2FM Serentak Semasa</desc>
-  </programme>
-
-
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="RAKITA">
-    <title lang="en">RAKITA Muzik Paling Lit</title>
-    <desc lang="en">RAKITA Muzik Paling Lit</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="RAKITA">
-    <title lang="en">RAKITA Muzik Paling Lit</title>
-    <desc lang="en">RAKITA Muzik Paling Lit</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="NASFM">
-    <title lang="en">NASIONAL FM Sentiasa Di Hati</title>
-    <desc lang="en">NASIONAL FM Sentiasa Di Hati</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="NASFM">
-    <title lang="en">NASIONAL FM Sentiasa Di Hati</title>
-    <desc lang="en">NASIONAL FM Sentiasa Di Hati</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="KLASIK">
-    <title lang="en">RADIO KLASIK Menggamit Kenangan</title>
-    <desc lang="en">RADIO KLASIK Menggamit Kenangan</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="KLASIK">
-    <title lang="en">RADIO KLASIK Menggamit Kenangan</title>
-    <desc lang="en">RADIO KLASIK Menggamit Kenangan</desc>
-  </programme>
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="1MUZIK">
-    <title lang="en">Hashtag One Radio</title>
-    <desc lang="en">Hashtag One Radio</desc>
-  </programme>
- <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="1MUZIK">
-    <title lang="en">Hashtag One Radio</title>
-    <desc lang="en">Hashtag One Radio</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="HITZ">
-    <title lang="en">HITZ All The Hitz All The Time</title>
-    <desc lang="en">HITZ All The Hitz All The Time</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="HITZ">
-    <title lang="en">HITZ All The Hitz All The Time</title>
-    <desc lang="en">HITZ All The Hitz All The Time</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="FLYFM">
-    <title lang="en">FLY FM The All New Fly FM, Now With Douglas Lim and Juanita In The Morning and the Music YOU Want All Day</title>
-    <desc lang="en">FLY FM The All New Fly FM, Now With Douglas Lim and Juanita In The Morning and the Music YOU Want All Day</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="FLYFM">
-    <title lang="en">FLY FM The All New Fly FM, Now With Douglas Lim and Juanita In The Morning and the Music YOU Want All Day</title>
-    <desc lang="en">FLY FM The All New Fly FM, Now With Douglas Lim and Juanita In The Morning and the Music YOU Want All Day</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="MIX">
-    <title lang="en">MIX Today's Best Music</title>
-    <desc lang="en">MIX Today's Best Music</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="MIX">
-    <title lang="en">MIX Today's Best Music</title>
-    <desc lang="en">MIX Today's Best Music</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="TRAXX">
-    <title lang="en">TRAXX FM Experience the Excitement</title>
-    <desc lang="en">TRAXX FM Experience the Excitement</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="TRAXX">
-    <title lang="en">TRAXX FM Experience the Excitement</title>
-    <desc lang="en">TRAXX FM Experience the Excitement</desc>
-  </programme>
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="STATIONPLUS">
-    <title lang="en">Station Plus Radio</title>
-    <desc lang="en">Station Plus Radio</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="STATIONPLUS">
-    <title lang="en">Station Plus Radio</title>
-    <desc lang="en">Station Plus Radio</desc>
-  </programme>
-
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="SOUL">
-    <title lang="en">SOUL RADIO Hayatilah Disini</title>
-    <desc lang="en">SOUL RADIO Hayatilah Disini</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="SOUL">
-    <title lang="en">SOUL RADIO Hayatilah Disini</title>
-    <desc lang="en">SOUL RADIO Hayatilah Disini</desc>
-  </programme>
-  
-
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="NAMASTE">
-    <title lang="en">Namaste Radio</title>
-    <desc lang="en">Radio Hindi Anda</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="NAMASTE">
-    <title lang="en">Namaste Radio</title>
-    <desc lang="en">Radio Hindi Anda</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="ROCK">
-    <title lang="en">CLASSIC ROCK Classic rock favourites all day</title>
-    <desc lang="en">CLASSIC ROCK Classic rock favourites all day</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="ROCK">
-    <title lang="en">CLASSIC ROCK Classic rock favourites all day</title>
-    <desc lang="en">CLASSIC ROCK Classic rock favourites all day</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="GOLD">
-    <title lang="en">GOLD Classic rock favourites all day</title>
-    <desc lang="en">GOLD Classic rock favourites all day</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="GOLD">
-    <title lang="en">GOLD Classic rock favourites all day</title>
-    <desc lang="en">GOLD Classic rock favourites all day</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="OPUS">
-    <title lang="en">OPUS The Best In Classical</title>
-    <desc lang="en">OPUS The Best In Classical</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="OPUS">
-    <title lang="en">OPUS The Best In Classical</title>
-    <desc lang="en">OPUS The Best In Classical</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="INDIA">
-    <title lang="en">INDIA BEAT Hot Hindi Hits</title>
-    <desc lang="en">INDIA BEAT Hot Hindi Hits</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="INDIA">
-    <title lang="en">INDIA BEAT Hot Hindi Hits</title>
-    <desc lang="en">INDIA BEAT Hot Hindi Hits</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="JAZZ">
-    <title lang="en">JAZZ Jazz for every mood</title>
-    <desc lang="en">JAZZ Jazz for every mood</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="JAZZ">
-    <title lang="en">JAZZ Jazz for every mood</title>
-    <desc lang="en">JAZZ Jazz for every mood</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="OSAI">
-    <title lang="en">OSAI The Best In Classical</title>
-    <desc lang="en">OSAI The Best In Classical</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="OSAI">
-    <title lang="en">OSAI The Best In Classical</title>
-    <desc lang="en">OSAI The Best In Classical</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="BAYU">
-    <title lang="en">BAYU Seleksi lagu-lagu terbaik Sabah</title>
-    <desc lang="en">BAYU Seleksi lagu-lagu terbaik Sabah</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="BAYU">
-    <title lang="en">BAYU Seleksi lagu-lagu terbaik Sabah</title>
-    <desc lang="en">BAYU Seleksi lagu-lagu terbaik Sabah</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="KENYALANG">
-    <title lang="en">KENYALANG Memainkan lagu-lagu buatan Sarawak</title>
-    <desc lang="en">KENYALANG Memainkan lagu-lagu buatan Sarawak</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="KENYALANG">
-    <title lang="en">KENYALANG Memainkan lagu-lagu buatan Sarawak</title>
-    <desc lang="en">KENYALANG Memainkan lagu-lagu buatan Sarawak</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="KLFM">
-    <title lang="en">KLFM Rentak Interaktif Kota</title>
-    <desc lang="en">KLFM Rentak Interaktif Kota</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="KLFM">
-    <title lang="en">KLFM Rentak Interaktif Kota</title>
-    <desc lang="en">KLFM Rentak Interaktif Kota</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="SELANGORFM">
-    <title lang="en">SELANGOR FM Pilihan Tepat</title>
-    <desc lang="en">SELANGOR FM Pilihan Tepat</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="SELANGORFM">
-    <title lang="en">SELANGOR FM Pilihan Tepat</title>
-    <desc lang="en">SELANGOR FM Pilihan Tepat</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="JOHORFM">
-    <title lang="en">JOHOR FM Permata Selatan</title>
-    <desc lang="en">JOHOR FM Permata Selatan</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="JOHORFM">
-    <title lang="en">JOHOR FM Permata Selatan</title>
-    <desc lang="en">JOHOR FM Permata Selatan</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="MELAKAFM">
-    <title lang="en">MELAKA FM Mempesonakan</title>
-    <desc lang="en">MELAKA FM Mempesonakan</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="MELAKAFM">
-    <title lang="en">MELAKA FM Mempesonakan</title>
-    <desc lang="en">MELAKA FM Mempesonakan</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="NEGERIFM">
-    <title lang="en">NEGERI FM Ingat Sampai Bila Bila</title>
-    <desc lang="en">NEGERI FM Ingat Sampai Bila Bila</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="NEGERIFM">
-    <title lang="en">NEGERI FM Ingat Sampai Bila Bila</title>
-    <desc lang="en">NEGERI FM Ingat Sampai Bila Bila</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="PERAKFM">
-    <title lang="en">PERAK FM Untuk Kome Aje</title>
-    <desc lang="en">PERAK FM Untuk Kome Aje</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="PERAKFM">
-    <title lang="en">PERAK FM Untuk Kome Aje</title>
-    <desc lang="en">PERAK FM Untuk Kome Aje</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="MUTIARAFM">
-    <title lang="en">MUTIARA FM Segalanya Untukmu</title>
-    <desc lang="en">MUTIARA FM Segalanya Untukmu</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="MUTIARAFM">
-    <title lang="en">MUTIARA FM Segalanya Untukmu</title>
-    <desc lang="en">MUTIARA FM Segalanya Untukmu</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="PERLISFM">
-    <title lang="en">PERLIS FM Sensasi Denganku</title>
-    <desc lang="en">PERLIS FM Sensasi Denganku</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="PERLISFM">
-    <title lang="en">PERLIS FM Sensasi Denganku</title>
-    <desc lang="en">PERLIS FM Sensasi Denganku</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="KEDAHFM">
-    <title lang="en">KEDAH FM Mesra Harmoni</title>
-    <desc lang="en">KEDAH FM Mesra Harmoni</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="KEDAHFM">
-    <title lang="en">KEDAH FM Mesra Harmoni</title>
-    <desc lang="en">KEDAH FM Mesra Harmoni</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="KELANTANFM">
-    <title lang="en">KELANTAN FM Penuhi Cita Rasa Anda</title>
-    <desc lang="en">KELANTAN FM Penuhi Cita Rasa Anda</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="KELANTANFM">
-    <title lang="en">KELANTAN FM Penuhi Cita Rasa Anda</title>
-    <desc lang="en">KELANTAN FM Penuhi Cita Rasa Anda</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="PAHANGFM">
-    <title lang="en">PAHANG FM Satu Pilihan</title>
-    <desc lang="en">PAHANG FM Satu Pilihan</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="PAHANGFM">
-    <title lang="en">PAHANG FM Satu Pilihan</title>
-    <desc lang="en">PAHANG FM Satu Pilihan</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="TERENGGANUFM">
-    <title lang="en">TERENGGANU FM Mesra Ceria</title>
-    <desc lang="en">TERENGGANU FM Mesra Ceria</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="TERENGGANUFM">
-    <title lang="en">TERENGGANU FM Mesra Ceria</title>
-    <desc lang="en">TERENGGANU FM Mesra Ceria</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="SABAHFM">
-    <title lang="en">SABAH FM Bagus Bah</title>
-    <desc lang="en">SABAH FM Bagus Bah</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="SABAHFM">
-    <title lang="en">SABAH FM Bagus Bah</title>
-    <desc lang="en">SABAH FM Bagus Bah</desc>>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="SARAWAKFM">
-    <title lang="en">SARAWAK FM Sehati Sejiwa</title>
-    <desc lang="en">SARAWAK FM Sehati Sejiwa</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="SARAWAKFM">
-    <title lang="en">SARAWAK FM Sehati Sejiwa</title>
-    <desc lang="en">SARAWAK FM Sehati Sejiwa</desc>
-  </programme>
-  
-  
-  <programme start="20220226000000 +0800" stop="20220227000000 +0800" channel="LABUANFM">
-    <title lang="en">LABUAN FM Suara Pesisir Anda</title>
-    <desc lang="en">LABUAN FM Suara Pesisir Anda</desc>
-  </programme>
-  <programme start="20220227000000 +0800" stop="20220228000000 +0800" channel="LABUANFM">
-    <title lang="en">LABUAN FM Suara Pesisir Anda</title>
-    <desc lang="en">LABUAN FM Suara Pesisir Anda</desc>
+    <channel id="LANGKAWIFM">
+    <display-name lang="en">LANGKAWI FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/Langkawifm.png" />
+    <url>https://www.langkawifm.rtm.gov.my</url>
+  </channel>
+    <channel id="BINTULUFM">
+    <display-name lang="en">BINTULU FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/bintulufm.png" />
+    <url>https://www.bintulufm.rtm.gov.my</url>
+  </channel>
+  <channel id="KENINGAUFM">
+    <display-name lang="en">KENINGAU FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/keningaufm.png" />
+    <url>https://www.keningaufm.rtm.gov.my</url>
+  </channel>
+  <channel id="LIMBANGFM">
+    <display-name lang="en">LIMBANG FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/limbangfm.png" />
+    <url>https://www.limbangfm.rtm.gov.my</url>
+  </channel>
+	<channel id="MIRIFM">
+    <display-name lang="en">MIRI FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/mirifm.png" />
+    <url>https://mirifmfm.rtm.gov.my/</url>
+  </channel>
+  <channel id="REDFM">
+    <display-name lang="en">RED FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/redfm.png" />
+    <url>https://redfm.rtm.gov.my/</url>
+  </channel>
+    <channel id="SABAHVFM">
+    <display-name lang="en">SABAH V FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/sabahv.png" />
+    <url>https://www.soulradio.wix.com/home</url>
+  </channel>
+  <channel id="SIBUFM">
+    <display-name lang="en">SIBU FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/sibufm.png" />
+    <url>https://www.sibufm.rtm.gov.my</url>
+  </channel>
+    <channel id="SRIAMANFM">
+    <display-name lang="en">SRI AMAN FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/sriaman.png" />
+    <url>https://www.flyfm.audio</url>
+  </channel>
+  <channel id="TAWAUFM">
+    <display-name lang="en">TAWAU FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/tawaufm.png" />
+    <url>https://www.tawaufm.rtm.gov.my</url>
+  </channel>
+  <channel id="BIDAYUH">
+    <display-name lang="en">WAI FM BIDAYUH</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/waifibidayuh.png" />
+    <url>https://waifmbidayuh.rtm.gov.my/</url>
+  </channel>
+  <channel id="IBAN">
+    <display-name lang="en">WAI FM IBAN</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/waifmiban.png" />
+    <url>https://waifmiban.rtm.gov.my/</url>
+  </channel>
+    <channel id="SANDAKANFM">
+    <display-name lang="en">SANDAKAN FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/Sandakanfm.png" />
+    <url>https://www.sandakanfm.rtm.gov.my</url>
+    </channel>
+  
+  
+  <programme start="20220303000000 +0800" stop="20220304000000 +0800" channel="CHN">
+    <title lang="en">AKAN DATANG</title>
+    <desc lang="en">Akan Datang.</desc>
+  </programme>
+    <programme start="20220304000000 +0800" stop="20220305000000 +0800" channel="CHN">
+    <title lang="en">AKAN DATANG</title>
+    <desc lang="en">Akan Datang.</desc>
+  </programme>
+    <programme start="20220305000000 +0800" stop="20220306000000 +0800" channel="CHN">
+    <title lang="en">AKAN DATANG</title>
+    <desc lang="en">Akan Datang.</desc>
+  </programme>
+    <programme start="20220306000000 +0800" stop="20220307000000 +0800" channel="CHN">
+    <title lang="en">AKAN DATANG</title>
+    <desc lang="en">Akan Datang.</desc>
   </programme>
   
   
@@ -5066,11 +4743,11 @@
     <title lang="en">Midnight Jazz</title>
     <desc lang="en">Slow and blissful Jazz to fill your late nights.</desc>
   </programme>  
-  <programme start="20220301060000 +0800" stop="20220302000000 +0800" channel="JAZZ">
+  <programme start="20220301060000 +0800" stop="20220301200000 +0800" channel="JAZZ">
     <title lang="en">Sunrise to Sunset Jazz</title>
     <desc lang="en">Great Jazz to get you going for the day.</desc>
   </programme>
-  <programme start="20220302000000 +0800" stop="20220302000000 +0800" channel="JAZZ">
+  <programme start="20220301200000 +0800" stop="20220302000000 +0800" channel="JAZZ">
     <title lang="en">The Lounge</title>
     <desc lang="en">Cocktails. Dinner. Chill. Jazz.</desc>
   </programme>
@@ -5118,7 +4795,7 @@
   </programme>
   
   
-  <programme start="20220303000000 +0800" stop="20220305060000 +0800" channel="JAZZ">
+  <programme start="20220305000000 +0800" stop="20220305060000 +0800" channel="JAZZ">
     <title lang="en">Midnight Jazz</title>
     <desc lang="en">Slow and blissful Jazz to fill your late nights.</desc>
   </programme>
@@ -5144,6 +4821,7 @@
     <title lang="en">The Lounge</title>
     <desc lang="en">Cocktails. Dinner. Chill. Jazz.</desc>
   </programme>
+
 
 
 
@@ -5420,32 +5098,14 @@
     <desc lang="en">Memainkan lagu-lagu terbaik Sape dan Iban.</desc>
   </programme>
   
-  
-   <programme start="20220228000000 +0800" stop="20220228060000 +0800" channel="KENYALANG">
+
+  <programme start="20220301000000 +0800" stop="20220301060000 +0800" channel="KENYALANG">
     <title lang="en">Express Kenyalang</title>
     <desc lang="en">Lagu-lagu Sarawak tanpa henti.</desc>
   </programme>  
-  <programme start="20220228060000 +0800" stop="20220228100000 +0800" channel="KENYALANG">
-    <title lang="en">Pilihan Riuh Pagi Kenyalang</title>
-    <desc lang="en">Memainkan lagu-lagu buatan Sarawak dan juga informasi terkini dalam negeri.</desc>
-  </programme>
-  <programme start="20220228100000 +0800" stop="20220228200000 +0800" channel="KENYALANG">
-    <title lang="en">Zon Tempatan</title>
-    <desc lang="en">Memainkan lagu-lagu buatan Sarawak dan juga informasi terkini dalam negeri.</desc>
-  </programme>
-  <programme start="20220228200000 +0800" stop="20220301000000 +0800" channel="KENYALANG">
-    <title lang="en">Pilihan Terbaik Sape dan Iban</title>
-    <desc lang="en">Memainkan lagu-lagu terbaik Sape dan Iban.</desc>
-  </programme>
-  
-
-  <programme start="20220301000000 +0800" stop="20220301060000 +0800" channel="KENYALANG">
-    <title lang="en">Pilihan Riuh Pagi Kenyalang</title>
-    <desc lang="en">Memainkan lagu-lagu buatan Sarawak dan juga informasi terkini dalam negeri.</desc>
-  </programme>  
   <programme start="20220301060000 +0800" stop="20220301100000 +0800" channel="KENYALANG">
-    <title lang="en">KENYALANG Pagi</title>
-    <desc lang="en">Memainkan lagu-lagu rancak terbaik dari Sabah.</desc>
+    <title lang="en">Pilihan Riuh Pagi Kenyalang</title>
+    <desc lang="en">Memainkan lagu-lagu buatan Sarawak dan juga informasi terkini dalam negeri.</desc>
   </programme>
   <programme start="20220301100000 +0800" stop="20220301200000 +0800" channel="KENYALANG">
     <title lang="en">Zon Tempatan</title>
@@ -5455,6 +5115,7 @@
     <title lang="en">Pilihan Terbaik Sape dan Iban</title>
     <desc lang="en">Memainkan lagu-lagu terbaik Sape dan Iban.</desc>
   </programme>
+  
   
   <programme start="20220302000000 +0800" stop="20220302060000 +0800" channel="KENYALANG">
     <title lang="en">Express Kenyalang</title>
