@@ -138,6 +138,8 @@ http://astro4.rastream.com:80/kenyalang
 
 
 
+
+
 #EXTINF:-1 group-title="Radio Negeri" tvg-id="KLFM" tvg-chno="KLFM" tvg-logo="https://static.wixstatic.com/media/0064cc_bf449a9bea314c7f99f38e8ef7644711~mv2.png",KLFM - Rentak Interaktif Kota
 https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/chunklist.m3u8
 
@@ -177,7 +179,7 @@ https://terengganufmmobile.secureswiftcontent.com/rtm-ch033/rtm-ch033/chunklist.
 #EXTINF:-1 group-title="Radio Negeri" tvg-id="SABAHFM" tvg-chno="SABAHFM" tvg-logo="https://static.wixstatic.com/media/0064cc_d7e6288891074263a34ad47ff4dcf145~mv2.png",SABAH FM - Bagus Bah
 https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/chunklist.m3u8
 
-#EXTINF:-1 group-title="Radio Negeri" tvg-id="CHN" tvg-chno="SABAHV" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/sabahv.png",SABAH V FM - V Good
+#EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="SABAHV" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/sabahv.png",SABAH V FM - V Good
 https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/chunklist.m3u8
 
 #EXTINF:-1 group-title="Radio Negeri" tvg-id="SARAWAKFM" tvg-chno="SARAWAKFM" tvg-logo="https://static.wixstatic.com/media/0064cc_4ba48b6650d44ce1b5f9771234a4c54d~mv2.png",SARAWAK FM - Sehati Sejiwa
@@ -192,16 +194,16 @@ https://labuanfmmobile.secureswiftcontent.com/rtm-ch030/rtm-ch030/chunklist.m3u8
 #EXTINF:-1 group-title="Tempatan" tvg-id="CHN" tvg-chno="LANGKAWIFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Langkawifm.png",LANGKAWI FM - Ya! Untukmu!
 https://langkawifmmobile.secureswiftcontent.com/rtm-ch037/rtm-ch037/chunklist.m3u8
 
-#EXTINF:-1 group-title="Tempatan" tvg-id="CHN" tvg-chno="WAIFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifmiban.png",WAI FM - Segulai Sejalai
+#EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="WAIFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifmiban.png",WAI FM - Segulai Sejalai
 https://waifmimobile.secureswiftcontent.com/rtm-ch025/rtm-ch025/chunklist.m3u8
 
-#EXTINF:-1 group-title="Tempatan" tvg-id="CHN" tvg-chno="IBAN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifmiban.png",WAI FM IBAN - Segulai Sejalai
+#EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="IBAN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifmiban.png",WAI FM IBAN - Segulai Sejalai
 https://waifmibanmobile.secureswiftcontent.com/rtm-ch042/rtm-ch042/chunklist.m3u8
 
-#EXTINF:-1 group-title="Tempatan" tvg-id="CHN" tvg-chno="BIDAYUH" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifibidayuh.png",WAI FM BIDAYUH - Gerak Bisamah
+#EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="BIDAYUH" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifibidayuh.png",WAI FM BIDAYUH - Gerak Bisamah
 https://waifmbmobile.secureswiftcontent.com/rtm-ch029/rtm-ch029/chunklist.m3u8
 
-#EXTINF:-1 group-title="Tempatan" tvg-id="CHN" tvg-chno="REDFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/redfm.png", RED FM - For Variety
+#EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="REDFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/redfm.png", RED FM - For Variety
 https://redfmmobile.secureswiftcontent.com/rtm-ch043/rtm-ch043/chunklist.m3u8
 
 #EXTINF:-1 group-title="Tempatan" tvg-id="CHN" tvg-chno="LIMBANGFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/limbangfm.png", LIMBANG FM - Pasti Dihati
@@ -222,8 +224,9 @@ https://sibufmmobile.secureswiftcontent.com/rtm-ch050/rtm-ch050/chunklist.m3u8
 #EXTINF:-1 group-title="Tempatan" tvg-id="CHN" tvg-chno="SANDAKANFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Sandakanfm.png",SANDAKAN FM - Bersamamu
 https://sandakanfmmobile.secureswiftcontent.com/rtm-ch051/rtm-ch051/chunklist.m3u8
 
-#EXTINF:-1 group-title="Tempatan" tvg-id="CHN" tvg-chno="TAWAUFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/tawaufm.png",TAWAU FM - Pilihan Anda
+#EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="TAWAUFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/tawaufm.png",TAWAU FM - Pilihan Anda
 https://tawaufmmobile.secureswiftcontent.com/rtm-ch052/rtm-ch052/chunklist.m3u8
 
-#EXTINF:-1 group-title="Tempatan" tvg-id="CHN" tvg-chno="KENINGAUFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/keningaufm.png",KENINGAU FM - Hebat Syoknya
+#EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="KENINGAUFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/keningaufm.png",KENINGAU FM - Hebat Syoknya
 https://keningaufmmobile.secureswiftcontent.com/rtm-ch053/rtm-ch053/chunklist.m3u8
+
