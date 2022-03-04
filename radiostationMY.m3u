@@ -26,7 +26,7 @@ http://mediaprima.rastream.com/mediaprima-molekfm
 https://n12.rcs.revma.com/nzgauqq1v7zuv
 
 #EXTINF:-1 group-title="Malay" tvg-id="BESTFM" tvg-chno="BESTFM" tvg-logo="https://bestfm.com.my/wp-content/uploads/2020/02/bestfm_headerlogo_retina.png",BEST FM - Terbaik Untuk Harimu
-http://s8.voscast.com:8686/
+http://s8.voscast.com:8686/;stream.mp3
 
 #EXTINF:-1 group-title="Malay" tvg-id="RIA" tvg-chno="RIA" tvg-logo="https://static.wixstatic.com/media/0064cc_477e93f8bd03427f804878cad8b744db~mv2.png",Ria 89.7FM - Hiburan Tahap Optima
 https://19183.live.streamtheworld.com/RIA897FM_PREM.aac
