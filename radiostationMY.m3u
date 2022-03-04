@@ -61,13 +61,48 @@ http://astro2.rastream.com:80/mix
 #EXTINF:-1 group-title="English" tvg-id="TRAXX" tvg-chno="TRAXX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png",TRAXX FM - Experience the Excitement
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
 
-#EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="BFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/bfm.png",BFM 89.9 - The Business Station
-https://22253.live.streamtheworld.com/BFMAAC.aac?dist=tunein&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjQ2Mjg5NTE0LCJ0ZC1yZWciOmZhbHNlfQ.rjzYO8_XGk8bNXmQhUYiXky8YAOTBMqHL3Tji5XCu-c
+#EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="987" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/987.png",987 FM - Singapore's #1 Hit Music Station!
+https://19183.live.streamtheworld.com/987FM_PREM.aac
+
+
 
 #EXTINF:-1 group-title="English" tvg-id="STATIONPLUS" tvg-chno="STATIONPLUS" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Stationplus_Radio_white-.png",Station Plus Radio - Your Best Music
 http://stream.zeno.fm/77k2edq19ehvv
 
+#EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="CLASS95" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Class95.png",CLASS 95 - The Best Mix Of Music
+https://keningaufmmobile.secureswiftcontent.com/rtm-ch053/rtm-ch053/chunklist.m3u8
 
+#EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="GOLD905" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Gold905.png",GOLD 905 - Sounds Good, Feels Good
+https://22403.live.streamtheworld.com/GOLD905_PREM.aac
+
+#EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="ONE913" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/one%20fm%20sg.png",ONE 913FM - Good Times, Greatest Hits
+https://23683.live.streamtheworld.com/ONE_FM_913AAC.aac
+
+#EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="KISS92" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/kiss92fm.png",KISS 92FM - All The Great Songs In One Place!
+https://22253.live.streamtheworld.com/KISS_92AAC.aac
+
+
+
+
+#EXTINF:-1 group-title="Business " tvg-id="CHN" tvg-chno="BFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/bfm.png",BFM 89.9 - The Business Station
+https://22253.live.streamtheworld.com/BFMAAC.aac?dist=tunein&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjQ2Mjg5NTE0LCJ0ZC1yZWciOmZhbHNlfQ.rjzYO8_XGk8bNXmQhUYiXky8YAOTBMqHL3Tji5XCu-c
+
+#EXTINF:-1 group-title="Business" tvg-id="CHN" tvg-chno="MONEY983" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/moneyfm.png", MONEY 983FM - Stay Ahead
+https://23683.live.streamtheworld.com/MONEY_893AAC.aac
+
+
+
+
+
+
+#EXTINF:-1 group-title="News" tvg-id="CHN" tvg-chno="AWANI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",#1 24-hour News Channel in Malaysia
+https://awanitv.akamaized.net/hls/live/2018478/Radio/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="CHN" tvg-chno="CNA938" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/CNA938.png",CNA938 - Singapore’s dedicated news and information radio station
+https://22903.live.streamtheworld.com/938NOW_PREM.aac
+
+#EXTINF:-1 group-title="News" tvg-id="CHN" tvg-chno="CAPITAL958" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/capital958.png", CAPITAL 958 - Information Channel 1
+https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 
 
 
@@ -86,6 +121,21 @@ http://23683.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1 group-title="Chinese" tvg-id="CHN" tvg-chno="AIFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/aifm.png",AI FM - Love, Freedom
 https://aifmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
 
+#EXTINF:-1 group-title="Chinese" tvg-id="CHN" tvg-chno="YES933" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/yes933.png",YES 933 - Singapore's #1 Mandarin Hit Music Station!
+https://23253.live.streamtheworld.com/YES933_PREM.aac
+
+#EXTINF:-1 group-title="Chinese" tvg-id="CHN" tvg-chno="LOVE972" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/love972fm.png",LOVE 972 - Enjoy life, feel the music
+https://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
+
+#EXTINF:-1 group-title="Chinese" tvg-id="CHN" tvg-chno="HAO963" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/haofm.png",HAO 963FM - Good Song, Good FM
+https://23683.live.streamtheworld.com/HAO_963AAC.aac
+
+#EXTINF:-1 group-title="Chinese" tvg-id="CHN" tvg-chno="UFM1003" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ufm.png",UFM 1003 FM - U Choose a Good Song, You Must Listen to it!
+https://23683.live.streamtheworld.com/UFM_1003AAC.aac
+
+
+
+
 
 
 #EXTINF:-1 group-title="Tamil" tvg-id="CHN" tvg-chno="RAAGA" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/raaga.png",RAAGA - Raaga - Aaha... Sirantha Isai!
@@ -93,6 +143,9 @@ http://astro3.rastream.com/raaga
 
 #EXTINF:-1 group-title="Tamil" tvg-id="CHN" tvg-chno="MINNAL" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/minnalfm.png",MINNAL FM - New, Sweetness
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-id="CHN" tvg-chno="OLI968" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/oli968.png",OLI 968 - The only Indian station
+https://22893.live.streamtheworld.com/OLI968FM_PREM.aac
 
 
 
@@ -133,6 +186,9 @@ http://astro4.rastream.com:80/bayu
 
 #EXTINF:-1 group-title="Variety" tvg-id="KENYALANG" tvg-chno="KENYALANG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png",KENYALANG - Memainkan lagu-lagu buatan Sarawak
 http://astro4.rastream.com:80/kenyalang
+
+#EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="SYMPHONY924" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Symphony.png", SYMPHONY924 - Only The Finest Music
+https://14033.live.streamtheworld.com/SYMPHONY924_PREM.aac
 
 
 
@@ -229,4 +285,9 @@ https://tawaufmmobile.secureswiftcontent.com/rtm-ch052/rtm-ch052/chunklist.m3u8
 
 #EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="KENINGAUFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/keningaufm.png",KENINGAU FM - Hebat Syoknya
 https://keningaufmmobile.secureswiftcontent.com/rtm-ch053/rtm-ch053/chunklist.m3u8
+
+
+
+
+
 
