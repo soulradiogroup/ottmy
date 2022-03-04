@@ -21,7 +21,7 @@
   <channel id="SINAR">
     <display-name lang="en">SINAR</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" />
-    <url>https://www.sinar,my</url>
+    <url>https://www.sinar.my</url>
   </channel>
   <channel id="BULETINFM">
     <display-name lang="en">BULETIN FM</display-name>
@@ -366,7 +366,7 @@
 	<channel id="MIRIFM">
     <display-name lang="en">MIRI FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/mirifm.png" />
-    <url>https://mirifmfm.rtm.gov.my/</url>
+    <url>https://mirifm.rtm.gov.my/</url>
   </channel>
   <channel id="REDFM">
     <display-name lang="en">RED FM</display-name>
@@ -376,7 +376,7 @@
     <channel id="SABAHVFM">
     <display-name lang="en">SABAH V FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/sabahv.png" />
-    <url>https://www.soulradio.wix.com/home</url>
+    <url>https://www.sabahvfm.rtm.gov.my</url>
   </channel>
   <channel id="SIBUFM">
     <display-name lang="en">SIBU FM</display-name>
@@ -386,7 +386,7 @@
     <channel id="SRIAMANFM">
     <display-name lang="en">SRI AMAN FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/sriaman.png" />
-    <url>https://www.flyfm.audio</url>
+    <url>https://www.sriamanfm.rtm.gov.my</url>
   </channel>
   <channel id="TAWAUFM">
     <display-name lang="en">TAWAU FM</display-name>
@@ -584,7 +584,7 @@
     <title lang="en">#HITEra</title>
     <desc lang="en">#HITEra.</desc>
   </programme>
-  <programme start="20220305220000 +0800" stop="20220306230000 +0800" channel="ERA">
+  <programme start="20220305220000 +0800" stop="20220305230000 +0800" channel="ERA">
     <title lang="en">Hallyu ERA</title>
     <desc lang="en">Hallyu ERA.</desc>
   </programme>
@@ -622,7 +622,7 @@
     <title lang="en">#HitERA</title>
     <desc lang="en">#HitERA.</desc>
   </programme>
-  <programme start="2022030622000 +0800" stop="20220306230000 +0800" channel="ERA">
+  <programme start="20220306220000 +0800" stop="20220306230000 +0800" channel="ERA">
     <title lang="en">Hallyu ERA</title>
     <desc lang="en">Hallyu ERA.</desc>
   </programme>
@@ -728,7 +728,7 @@
     <title lang="en">Sembang Squad</title>
     <desc lang="en">Join Squad Sembang untuk berinteraksi, boleh dapat input serta hilangkan gundah gelisah.</desc>
   </programme>
-  <programme start="20220303190000 +0800" stop="20220302200000 +0800" channel="HOTFM">
+  <programme start="20220303190000 +0800" stop="20220303200000 +0800" channel="HOTFM">
     <title lang="en">Akasia @ Hot FM</title>
     <desc lang="en">Relax hour, dengarkan lagu-lagu OST yang membuai emosi.</desc>
   </programme>
@@ -1196,7 +1196,7 @@
  </programme>
   
   
-  <programme start="20220306000000 +0800" stop="202203060800000 +0800" channel="SINAR">
+  <programme start="20220306000000 +0800" stop="20220306080000 +0800" channel="SINAR">
     <title lang="en">SINAR Menyinari Hidupmu</title>
     <desc lang="en">SINAR Menyinari Hidupmu</desc>
   </programme>
@@ -1216,7 +1216,7 @@
     <title lang="en">SINARthon</title>
     <desc lang="en">SINARthon.</desc>
   </programme>
-  <programme start="2022030615000 +0800" stop="20220306190000 +0800" channel="SINAR">
+  <programme start="20220306150000 +0800" stop="20220306190000 +0800" channel="SINAR">
     <title lang="en">Hujung Minggu SINAR</title>
     <desc lang="en">Hujung Minggu SINAR.</desc>
   </programme>
@@ -1454,15 +1454,15 @@
     <title lang="en">Retro Show di Buletin FM</title>
     <desc lang="en">Rileks pada hujung minggu dengan lagu-lagu hit 80an dan 90an.</desc>
   </programme>
-  <programme start="20220220120000 +0800" stop="20220220190000 +0800" channel="BULETINFM">
+  <programme start="20220306120000 +0800" stop="20220306190000 +0800" channel="BULETINFM">
     <title lang="en">Sesi Ahad Buletin FM</title>
     <desc lang="en">Dedikasi dan pilihan lagu, di samping update berita semasa dan info terkini.</desc>
   </programme>
-  <programme start="20220220190000 +0800" stop="20220220200000 +0800" channel="BULETINFM">
+  <programme start="20220306190000 +0800" stop="20220306200000 +0800" channel="BULETINFM">
     <title lang="en">Tanyalah Ustaz</title>
     <desc lang="en">Sesi Ringkas dan santai menelusuri persoalan dan pertanyaan di dalam agama Islam bersama Ustaz Zarifi.</desc>
   </programme>
-  <programme start="20220220200000 +0800" stop="20220220220000 +0800" channel="BULETINFM">
+  <programme start="20220306200000 +0800" stop="20220306220000 +0800" channel="BULETINFM">
     <title lang="en">Spectator Sukan di Buletin FM</title>
     <desc lang="en">Hanif Miswan ulas dan kupas dengan lebih fokus tentang sukan tempatan dan luar negara.</desc>
   </programme>
@@ -1674,7 +1674,7 @@
     <title lang="en">SENJA PANTAI TIMUR</title>
     <desc lang="en">Layari laman web kami di GEGAR.my . Follow facebook GEGAR dan IG @GEGAR.my.</desc>
   </programme>
-  <programme start="20220306220000 +0800" stop="20220307000000 +0800" channel="GEGAR">
+  <programme start="20220306200000 +0800" stop="20220307000000 +0800" channel="GEGAR">
     <title lang="en">GEGAR MALAM</title>
     <desc lang="en">Selongkar realiti kehidupan masyarakat di dalam perhubungan di Gegar Malam bersama Rea. GEGAR MALAM, Pilihan #1 Pantai Timur.</desc>
   </programme>
@@ -2201,9 +2201,9 @@
   </programme>  
   
   
-  <programme start="20220305000000 +0800" stop="202203051000000 +0800" channel="BESTFM">
+  <programme start="20220305000000 +0800" stop="20220305100000 +0800" channel="BESTFM">
     <title lang="en">BEST FM Terbaik Untuk Harimu</title>
-    <desc lang="en">BEST FM Terbaik Untuk Harimu</desc>
+    <desc lang="en">BEST FM Terbaik Untuk Harimu.</desc>
   </programme>  
   <programme start="20220305100000 +0800" stop="20220305130000 +0800" channel="BESTFM">
     <title lang="en">Carta Best 30</title>
@@ -2227,7 +2227,7 @@
   </programme>
   
   
-  <programme start="20220306000000 +0800" stop="202203061000000 +0800" channel="BESTFM">
+  <programme start="20220306000000 +0800" stop="20220306100000 +0800" channel="BESTFM">
     <title lang="en">BEST FM Terbaik Untuk Harimu</title>
     <desc lang="en">BEST FM Terbaik Untuk Harimu</desc>
   </programme>  
@@ -3422,7 +3422,7 @@
     <title lang="en">Club Hitz</title>
     <desc lang="en">All the biggest club bangers engineered by Jakeman and Skeletor.</desc>
   </programme>
-  <programme start="20220303030000 +0800" stop="20220305060000 +0800" channel="HITZ">
+  <programme start="20220305030000 +0800" stop="20220305060000 +0800" channel="HITZ">
     <title lang="en">Back to Back hitz</title>
     <desc lang="en">No talk, all hitz until 6AM.</desc>
   </programme>
@@ -3457,7 +3457,7 @@
   
   
   
-  <programme start="2022030603000 +0800" stop="20220306060000 +0800" channel="HITZ">
+  <programme start="20220306030000 +0800" stop="20220306060000 +0800" channel="HITZ">
 	<title lang="en">Back to Back hitz</title>
     <desc lang="en">No talk, all hitz until 6AM.</desc>
   </programme>
@@ -3801,11 +3801,11 @@
   </programme>
   
   
-   <programme start="20220305030000 +0800" stop="20220303070000 +0800" channel="MIX">
+   <programme start="20220305030000 +0800" stop="20220305070000 +0800" channel="MIX">
     <title lang="en">MIX Today's Best Music</title>
     <desc lang="en">MIX Today's Best Music</desc>
   </programme>
-  <programme start="20220303070000 +0800" stop="20220305080000 +0800" channel="MIX">
+  <programme start="20220305070000 +0800" stop="20220305080000 +0800" channel="MIX">
     <title lang="en">Mix Today's Best Music</title>
     <desc lang="en">Enjoy 50-minutes of non-stop music.</desc>
   </programme>
@@ -3829,13 +3829,13 @@
     <title lang="en">The 2000s with Ashley</title>
     <desc lang="en">Taking you through music and pop culture of the 2000s.  Iconic and hidden gems.</desc>
   </programme>
-    <programme start="20220305200000 +0800" stop="20220603030000 +0800" channel="MIX">
+    <programme start="20220305200000 +0800" stop="20220306030000 +0800" channel="MIX">
     <title lang="en">Mix Today's Best Music</title>
     <desc lang="en">Enjoy 50-minutes of non-stop music.</desc>
   </programme>
   
   
-  <programme start="20220603030000 +0800" stop="20220306070000 +0800" channel="MIX">
+  <programme start="20220306030000 +0800" stop="20220306070000 +0800" channel="MIX">
     <title lang="en">MIX Today's Best Music</title>
     <desc lang="en">MIX Today's Best Music</desc>
   </programme>
@@ -4236,13 +4236,13 @@
     <title lang="en">Wake Up to Classic Rock</title>
     <desc lang="en">Wake up to Classic Rock's greatest songs.</desc>
   </programme>
-  <programme start="20220305100000 +0800" stop="2022030600000 +0800" channel="ROCK">
+  <programme start="20220305100000 +0800" stop="20220306000000 +0800" channel="ROCK">
     <title lang="en">Rock on with Classic Rock</title>
     <desc lang="en">Classic Rock Favorites.</desc>
   </programme>
   
   
-  <programme start="2022030600000 +0800" stop="20220306060000 +0800" channel="ROCK">
+  <programme start="20220306000000 +0800" stop="20220306060000 +0800" channel="ROCK">
     <title lang="en">Mid- Dawn Classic rock</title>
     <desc lang="en">Classic Rock Favorites.</desc>
   </programme>
@@ -4775,7 +4775,7 @@
   </programme>
   
   
-  <programme start="20220303000000 +0800" stop="20220305060000 +0800" channel="INDIA">
+  <programme start="20220305000000 +0800" stop="20220305060000 +0800" channel="INDIA">
     <title lang="en">India Beat</title>
     <desc lang="en">Best Of Hindi Music.</desc>
   </programme>
@@ -4976,7 +4976,7 @@
   </programme>
   
   
-  <programme start="20220303000000 +0800" stop="20220305060000 +0800" channel="OSAI">
+  <programme start="20220305000000 +0800" stop="20220305060000 +0800" channel="OSAI">
     <title lang="en">Osai</title>
     <desc lang="en">Playing all the best variety of Osai.</desc>
   </programme>
