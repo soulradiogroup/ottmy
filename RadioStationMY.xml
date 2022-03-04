@@ -64,11 +64,6 @@ https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch0
 #EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="987" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/987.png",987 FM - Singapore's #1 Hit Music Station!
 https://19183.live.streamtheworld.com/987FM_PREM.aac
 
-
-
-#EXTINF:-1 group-title="English" tvg-id="STATIONPLUS" tvg-chno="STATIONPLUS" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Stationplus_Radio_white-.png",Station Plus Radio - Your Best Music
-http://stream.zeno.fm/77k2edq19ehvv
-
 #EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="CLASS95" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Class95.png",CLASS 95 - The Best Mix Of Music
 https://keningaufmmobile.secureswiftcontent.com/rtm-ch053/rtm-ch053/chunklist.m3u8
 
@@ -81,10 +76,15 @@ https://23683.live.streamtheworld.com/ONE_FM_913AAC.aac
 #EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="KISS92" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/kiss92fm.png",KISS 92FM - All The Great Songs In One Place!
 https://22253.live.streamtheworld.com/KISS_92AAC.aac
 
+#EXTINF:-1 group-title="English" tvg-id="STATIONPLUS" tvg-chno="STATIONPLUS" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Stationplus_Radio_white-.png",Station Plus Radio - Your Best Music
+http://stream.zeno.fm/77k2edq19ehvv
 
 
 
-#EXTINF:-1 group-title="Business " tvg-id="CHN" tvg-chno="BFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/bfm.png",BFM 89.9 - The Business Station
+
+
+
+#EXTINF:-1 group-title="Business" tvg-id="CHN" tvg-chno="BFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/bfm.png",BFM 89.9 - The Business Station
 https://22253.live.streamtheworld.com/BFMAAC.aac?dist=tunein&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjQ2Mjg5NTE0LCJ0ZC1yZWciOmZhbHNlfQ.rjzYO8_XGk8bNXmQhUYiXky8YAOTBMqHL3Tji5XCu-c
 
 #EXTINF:-1 group-title="Business" tvg-id="CHN" tvg-chno="MONEY983" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/moneyfm.png", MONEY 983FM - Stay Ahead
@@ -103,6 +103,9 @@ https://22903.live.streamtheworld.com/938NOW_PREM.aac
 
 #EXTINF:-1 group-title="News" tvg-id="CHN" tvg-chno="CAPITAL958" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/capital958.png", CAPITAL 958 - Information Channel 1
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+
+
+
 
 
 
