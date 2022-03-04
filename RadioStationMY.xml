@@ -118,6 +118,81 @@
     <icon src="https://static.wixstatic.com/media/0064cc_97e1fc97d97c47f49eed9151029452a5~mv2.png" />
     <url>https://www.mix.my</url>
   </channel>
+    <channel id="987">
+    <display-name lang="en">987 FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/987.png" />
+    <url>https://www.melisten.sg/radio/987</url>
+  </channel>
+    <channel id="CNA">
+    <display-name lang="en">CNA938</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/CNA938.png" />
+    <url>https://www.melisten.sg/radio/cna938</url>
+  </channel>
+  <channel id="CLASS95">
+    <display-name lang="en">CLASS 95</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/Class95.png" />
+    <url>https://www.melisten.sg/radio/class-95</url>
+  </channel>
+  <channel id="GOLD905">
+    <display-name lang="en">GOLD 905</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/Gold905.png" />
+    <url>https://www.melisten.sg/radio/gold-905</url>
+  </channel>
+  <channel id="SYMPHONY924">
+    <display-name lang="en">SYMPHONY924</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/Symphony.png" />
+    <url>https://www.melisten.sg/radio/symphony-924</url>
+  </channel>
+  <channel id="CAPITAL958">
+    <display-name lang="en">CAPITAL 958</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/capital958.png" />
+    <url>https://www.melisten.sg/radio/capital-958</url>
+  </channel>
+  <channel id="HAO963">
+    <display-name lang="en">HAO 963FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/haofm.png" />
+    <url>http://www.963haofm.sg/</url>
+  </channel>
+  <channel id="KISS92">
+    <display-name lang="en">KISS 92FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/kiss92fm.png" />
+    <url>https://www.kiss92.sg/</url>
+  </channel>
+  <channel id="LOVE972">
+    <display-name lang="en">LOVE 972</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/love972fm.png" />
+    <url>https://www.melisten.sg/radio/love-972</url>
+  </channel>
+  <channel id="MONEY983">
+    <display-name lang="en">MONEY 983FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/moneyfm.png" />
+    <url>https://www.moneyfm893.sg</url>
+  </channel>
+  <channel id="OLI968">
+    <display-name lang="en">OLI 968</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/oli968.png" />
+    <url>https://www.melisten.sg/radio/oli-968</url>
+  </channel>
+  <channel id="ONE913">
+    <display-name lang="en">ONE 913FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/one%20fm%20sg.png" />
+    <url>https://www.onefm.sg/</url>
+  </channel>
+  <channel id="UFM1003">
+    <display-name lang="en">UFM 1003 FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/ufm.png" />
+    <url>https://www.ufm1003.sg/</url>
+  </channel>
+  <channel id="YES933">
+    <display-name lang="en">YES 933</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/yes933.png" />
+    <url>https://www.melisten.sg/radio/yes-933</url>
+  </channel>
+  <channel id="AWANI">
+    <display-name lang="en">ASTRO AWANI</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" />
+    <url>https://astroawani.com</url>
+  </channel>
     <channel id="BFM">
     <display-name lang="en">B FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/bfm.png" />
@@ -335,10 +410,7 @@
     </channel>
   
   
-  <programme start="20220303000000 +0800" stop="20220304000000 +0800" channel="CHN">
-    <title lang="en">AKAN DATANG</title>
-    <desc lang="en">Akan Datang.</desc>
-  </programme>
+
     <programme start="20220304000000 +0800" stop="20220305000000 +0800" channel="CHN">
     <title lang="en">AKAN DATANG</title>
     <desc lang="en">Akan Datang.</desc>
@@ -348,6 +420,14 @@
     <desc lang="en">Akan Datang.</desc>
   </programme>
     <programme start="20220306000000 +0800" stop="20220307000000 +0800" channel="CHN">
+    <title lang="en">AKAN DATANG</title>
+    <desc lang="en">Akan Datang.</desc>
+  </programme>
+    <programme start="20220307000000 +0800" stop="20220308000000 +0800" channel="CHN">
+    <title lang="en">AKAN DATANG</title>
+    <desc lang="en">Akan Datang.</desc>
+  </programme>
+    <programme start="20220308000000 +0800" stop="20220309000000 +0800" channel="CHN">
     <title lang="en">AKAN DATANG</title>
     <desc lang="en">Akan Datang.</desc>
   </programme>
@@ -448,7 +528,7 @@
     <title lang="en">Gempak Hit Era</title>
     <desc lang="en">Gempak Hit ERA.</desc>
   </programme>
-  <programme start="20220303160000 +0800" stop="20220303200000 +0800" channel="ERA">
+  <programme start="20220303160000 +0800" stop="20220302200000 +0800" channel="ERA">
     <title lang="en">ERA D'Boyz</title>
     <desc lang="en">ERA D'Boyz.</desc>
   </programme>
@@ -835,7 +915,7 @@
   </programme>
   
   
-  <programme start="20220303010000 +0800" stop="2022030360000 +0800" channel="SURIAFM">
+  <programme start="20220303010000 +0800" stop="20220303060000 +0800" channel="SURIAFM">
     <title lang="en">SURIA Segalanya Hiburan</title>
     <desc lang="en">SURIA Segalanya Hiburan</desc>
   </programme>  
@@ -865,7 +945,7 @@
   </programme>
   
   
-  <programme start="20220304010000 +0800" stop="2022030460000 +0800" channel="SURIAFM">
+  <programme start="20220304010000 +0800" stop="20220304060000 +0800" channel="SURIAFM">
     <title lang="en">SURIA Segalanya Hiburan</title>
     <desc lang="en">SURIA Segalanya Hiburan</desc>
   </programme>  
