@@ -248,10 +248,10 @@ https://labuanfmmobile.secureswiftcontent.com/rtm-ch030/rtm-ch030/chunklist.m3u8
 #EXTINF:-1 group-title="Tempatan" tvg-id="CHN" tvg-chno="LANGKAWIFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Langkawifm.png",LANGKAWI FM - Ya! Untukmu!
 https://langkawifmmobile.secureswiftcontent.com/rtm-ch037/rtm-ch037/chunklist.m3u8
 
-#EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="WAIFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifmiban.png",WAI FM - Segulai Sejalai
+#EXTINF:-1 group-title="Variety" tvg-id="IBAN" tvg-chno="WAIFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifmiban.png",WAI FM - Segulai Sejalai
 https://waifmimobile.secureswiftcontent.com/rtm-ch025/rtm-ch025/chunklist.m3u8
 
-#EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="IBAN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifmiban.png",WAI FM IBAN - Segulai Sejalai
+#EXTINF:-1 group-title="Variety" tvg-id="IBAN" tvg-chno="IBAN" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifmiban.png",WAI FM IBAN - Segulai Sejalai
 https://waifmibanmobile.secureswiftcontent.com/rtm-ch042/rtm-ch042/chunklist.m3u8
 
 #EXTINF:-1 group-title="Variety" tvg-id="CHN" tvg-chno="BIDAYUH" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifibidayuh.png",WAI FM BIDAYUH - Gerak Bisamah
