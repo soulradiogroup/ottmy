@@ -67,7 +67,7 @@ https://19183.live.streamtheworld.com/987FM_PREM.aac
 #EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="CLASS95" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Class95.png",CLASS 95 - The Best Mix Of Music
 https://keningaufmmobile.secureswiftcontent.com/rtm-ch053/rtm-ch053/chunklist.m3u8
 
-#EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="GOLD905" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Gold905.png",GOLD 905 - Sounds Good, Feels Good
+#EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="GOLD905" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Gold905.png", GOLD 905 - Sounds Good, Feels Good
 https://22403.live.streamtheworld.com/GOLD905_PREM.aac
 
 #EXTINF:-1 group-title="English" tvg-id="CHN" tvg-chno="ONE913" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/one%20fm%20sg.png",ONE 913FM - Good Times, Greatest Hits
@@ -93,7 +93,7 @@ https://23683.live.streamtheworld.com/MONEY_893AAC.aac
 
 
 
-#EXTINF:-1 group-title="News" tvg-id="CHN" tvg-chno="AWANI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",#1 24-hour News Channel in Malaysia
+#EXTINF:-1 group-title="News" tvg-id="AWANI" tvg-chno="AWANI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",ASTRO AWANI - #1 24-hour News Channel in Malaysia
 https://awanitv.akamaized.net/hls/live/2018478/Radio/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="CHN" tvg-chno="CNA938" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/CNA938.png",CNA938 - Singapore’s dedicated news and information radio station
@@ -116,7 +116,7 @@ http://astro3.rastream.com/melody
 #EXTINF:-1 group-title="Chinese" tvg-id="CHN" tvg-chno="988" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/988.png",988 - Persistence. Dare to speak
 http://23683.live.streamtheworld.com/988_FMAAC.aac
 
-#EXTINF:-1 group-title="Chinese" tvg-id="CHN" tvg-chno="AIFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/aifm.png",AI FM - Love, Freedom
+#EXTINF:-1 group-title="Chinese" tvg-id="CHN" tvg-chno="AIFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/aifm.png", AI FM - Love, Freedom
 https://aifmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
 
 #EXTINF:-1 group-title="Chinese" tvg-id="CHN" tvg-chno="YES933" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/yes933.png",YES 933 - Singapore's #1 Mandarin Hit Music Station!
