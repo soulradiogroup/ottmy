@@ -96,7 +96,7 @@ https://23683.live.streamtheworld.com/MONEY_893AAC.aac
 #EXTINF:-1 group-title="News" tvg-id="AWANI" tvg-chno="AWANI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",ASTRO AWANI - #1 24-hour News Channel in Malaysia
 https://awanitv.akamaized.net/hls/live/2018478/Radio/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="CHN" tvg-chno="CNA938" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/CNA938.png",CNA938 - Singapore’s dedicated news and information radio station
+#EXTINF:-1 group-title="News" tvg-id="CNA938" tvg-chno="CNA938" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/CNA938.png",CNA938 - Singapore’s dedicated news and information radio station
 https://22903.live.streamtheworld.com/938NOW_PREM.aac
 
 #EXTINF:-1 group-title="News" tvg-id="CAPITAL958" tvg-chno="CAPITAL958" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/capital958.png", CAPITAL 958 - Information Channel 1
