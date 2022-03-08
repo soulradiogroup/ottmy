@@ -29,7 +29,7 @@
     <url>https://www.buletinfm.audio/</url>
   </channel>
   <channel id="GEGAR">
-    <display-name lang="en">GEGAR</display-name>
+    <display-name lang="en">GEGAR</display-name> 
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" />
     <url>https://www.gegar.my</url>
   </channel>
