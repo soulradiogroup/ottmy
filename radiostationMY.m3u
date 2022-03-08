@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" url-tvg="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" refresh="1440"
 
 
-#EXTINF:-1 group-title="Malay" tvg-id="ERA" tvg-chno="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA - Muzik Hit Terbaik
+#EXTINF:-1 group-title="Malay" tvg-id="ERA" tvg-chno="ERA" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/erawhite.png",ERA - Muzik Hit Terbaik
 http://astro2.rastream.com:80/era
 
 #EXTINF:-1 group-title="Malay" tvg-id="HOTFM" tvg-chno="HOTFM" tvg-logo="https://static.wixstatic.com/media/0064cc_97e1fc97d97c47f49eed9151029452a5~mv2.png",HOT FM - Kini Lebih Muzik Yang Hangat
