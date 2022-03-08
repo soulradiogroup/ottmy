@@ -28,16 +28,16 @@ https://n12.rcs.revma.com/nzgauqq1v7zuv
 #EXTINF:-1 group-title="Malay" tvg-id="BESTFM" tvg-chno="BESTFM" tvg-logo="https://bestfm.com.my/wp-content/uploads/2020/02/bestfm_headerlogo_retina.png",BEST FM - Terbaik Untuk Harimu
 http://s8.voscast.com:8686/;stream.mp3
 
-#EXTINF:-1 group-title="Malay" tvg-id="RIA" tvg-chno="RIA" tvg-logo="https://static.wixstatic.com/media/0064cc_477e93f8bd03427f804878cad8b744db~mv2.png",Ria 89.7FM - Hiburan Tahap Optima
+#EXTINF:-1 group-title="Malay" tvg-id="RIA" tvg-chno="RIA" tvg-logo="https://static.wixstatic.com/media/0064cc_477e93f8bd03427f804878cad8b744db~mv2.png",RIA 897FM - Hiburan Tahap Optima
 https://19183.live.streamtheworld.com/RIA897FM_PREM.aac
 
-#EXTINF:-1 group-title="Malay" tvg-id="WARNA" tvg-chno="WARNA" tvg-logo="https://static.wixstatic.com/media/0064cc_00f45d40df87431bba7e635e6a01ec77~mv2.png",Warna 94.2FM - Serentak Semasa
+#EXTINF:-1 group-title="Malay" tvg-id="WARNA" tvg-chno="WARNA" tvg-logo="https://static.wixstatic.com/media/0064cc_00f45d40df87431bba7e635e6a01ec77~mv2.png",WARNA 942FM - Serentak Semasa
 http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
 
 #EXTINF:-1 group-title="Malay" tvg-id="RAKITA" tvg-chno="RAKITA" tvg-logo="https://rakita.my/images/new_logo.png",RAKITA - Muzik Paling Lit
 https://22253.live.streamtheworld.com/RAKITAAAC.aac
 
-#EXTINF:-1 group-title="Malay" tvg-id="NASFM" tvg-chno="NASFM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png",Nasional FM - Sentiasa Di Hati
+#EXTINF:-1 group-title="Malay" tvg-id="NASFM" tvg-chno="NASFM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png",NASIONAL FM - Sentiasa Di Hati
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 
 #EXTINF:-1 group-title="Malay" tvg-id="KLASIK" tvg-chno="KLASIK" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/radioklasik.png",RADIO KLASIK  -  Menggamit Kenangan
@@ -64,10 +64,10 @@ https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch0
 #EXTINF:-1 group-title="English" tvg-id="987" tvg-chno="987" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/987.png",987 FM - Singapore's #1 Hit Music Station!
 https://19183.live.streamtheworld.com/987FM_PREM.aac
 
-#EXTINF:-1 group-title="English" tvg-id="CLASS95" tvg-chno="CLASS95" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Class95.png",CLASS 95 - The Best Mix Of Music
+#EXTINF:-1 group-title="English" tvg-id="CLASS95" tvg-chno="CLASS95" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Class95.png",CLASS 95FM - The Best Mix Of Music
 https://19183.live.streamtheworld.com/CLASS95AAC_SC
 
-#EXTINF:-1 group-title="English" tvg-id="GOLD905" tvg-chno="GOLD905" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Gold905.png", GOLD 905 - Sounds Good, Feels Good
+#EXTINF:-1 group-title="English" tvg-id="GOLD905" tvg-chno="GOLD905" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Gold905.png", GOLD 905FM - Sounds Good, Feels Good
 https://22403.live.streamtheworld.com/GOLD905_PREM.aac
 
 #EXTINF:-1 group-title="English" tvg-id="ONE913" tvg-chno="ONE913" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/one%20fm%20sg.png",ONE 913FM - Good Times, Greatest Hits
@@ -82,7 +82,7 @@ http://stream.zeno.fm/77k2edq19ehvv
 
 
 
-#EXTINF:-1 group-title="Business" tvg-id="BFM" tvg-chno="BFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/bfm.png",BFM 89.9 - The Business Station
+#EXTINF:-1 group-title="Business" tvg-id="BFM" tvg-chno="BFM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/bfm.png",BFM 899 - The Business Station
 https://22253.live.streamtheworld.com/BFMAAC.aac?dist=tunein&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjQ2Mjg5NTE0LCJ0ZC1yZWciOmZhbHNlfQ.rjzYO8_XGk8bNXmQhUYiXky8YAOTBMqHL3Tji5XCu-c
 
 #EXTINF:-1 group-title="Business" tvg-id="MONEY983" tvg-chno="MONEY983" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/moneyfm.png", MONEY 983FM - Stay Ahead
@@ -96,10 +96,10 @@ https://23683.live.streamtheworld.com/MONEY_893AAC.aac
 #EXTINF:-1 group-title="News" tvg-id="AWANI" tvg-chno="AWANI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",ASTRO AWANI - #1 24-hour News Channel in Malaysia
 https://awanitv.akamaized.net/hls/live/2018478/Radio/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="CNA938" tvg-chno="CNA938" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/CNA938.png",CNA938 - Singapore’s dedicated news and information radio station
+#EXTINF:-1 group-title="News" tvg-id="CNA938" tvg-chno="CNA938" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/CNA938.png",CNA 938FM - Singapore’s dedicated news and information radio station
 https://22903.live.streamtheworld.com/938NOW_PREM.aac
 
-#EXTINF:-1 group-title="News" tvg-id="CAPITAL958" tvg-chno="CAPITAL958" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/capital958.png", CAPITAL 958 - Information Channel 1
+#EXTINF:-1 group-title="News" tvg-id="CAPITAL958" tvg-chno="CAPITAL958" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/capital958.png", CAPITAL 958FM - Information Channel 1
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 
 
@@ -128,7 +128,7 @@ https://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
 #EXTINF:-1 group-title="Chinese" tvg-id="HAO963" tvg-chno="HAO963" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/haofm.png",HAO 963FM - Good Song, Good FM
 https://23683.live.streamtheworld.com/HAO_963AAC.aac
 
-#EXTINF:-1 group-title="Chinese" tvg-id="UFM1003" tvg-chno="UFM1003" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ufm.png",UFM 1003 FM - U Choose a Good Song, You Must Listen to it!
+#EXTINF:-1 group-title="Chinese" tvg-id="UFM1003" tvg-chno="UFM1003" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ufm.png",UFM 1003FM - U Choose a Good Song, You Must Listen to it!
 https://23683.live.streamtheworld.com/UFM_1003AAC.aac
 
 
@@ -142,7 +142,7 @@ http://astro3.rastream.com/raaga
 #EXTINF:-1 group-title="Tamil" tvg-id="MINNAL" tvg-chno="MINNAL" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/minnalfm.png",MINNAL FM - New, Sweetness
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-id="OLI968" tvg-chno="OLI968" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/oli968.png",OLI 968 - The only Indian station
+#EXTINF:-1 group-title="Tamil" tvg-id="OLI968" tvg-chno="OLI968" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/oli968.png",OLI 968FM - The only Indian station
 https://22893.live.streamtheworld.com/OLI968FM_PREM.aac
 
 
@@ -185,7 +185,7 @@ http://astro4.rastream.com:80/bayu
 #EXTINF:-1 group-title="Variety" tvg-id="KENYALANG" tvg-chno="KENYALANG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png",KENYALANG - Memainkan lagu-lagu buatan Sarawak
 http://astro4.rastream.com:80/kenyalang
 
-#EXTINF:-1 group-title="Variety" tvg-id="SYMPHONY924" tvg-chno="SYMPHONY924" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Symphony.png", SYMPHONY924 - Only The Finest Music
+#EXTINF:-1 group-title="Variety" tvg-id="SYMPHONY924" tvg-chno="SYMPHONY924" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Symphony.png", SYMPHONY 924FM - Only The Finest Music
 https://14033.live.streamtheworld.com/SYMPHONY924_PREM.aac
 
 
