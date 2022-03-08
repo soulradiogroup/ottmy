@@ -49,12 +49,12 @@
     <url>https://www.bestfm.com.my</url>
   </channel>
   <channel id="RIA">
-    <display-name lang="en">RIA 89.7FM</display-name>
+    <display-name lang="en">RIA 897FM</display-name>
     <icon src="https://static.wixstatic.com/media/0064cc_477e93f8bd03427f804878cad8b744db~mv2.png" />
     <url>https://www.melisten.sg/radio/RIA-987/schedule</url>
   </channel>
   <channel id="WARNA">
-    <display-name lang="en">WARNA 94.2FM</display-name>
+    <display-name lang="en">WARNA 942FM</display-name>
     <icon src="https://static.wixstatic.com/media/0064cc_00f45d40df87431bba7e635e6a01ec77~mv2.png" />
     <url>https://www.melisten.sg/radio/warna-942/schedule</url>
   </channel>
@@ -74,7 +74,7 @@
     <url>https://radioklasik.rtm.gov.my/</url>
   </channel>
     <channel id="1MUZIK">
-    <display-name lang="en">Muzik #1</display-name>
+    <display-name lang="en">#1</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/1radiowhite.png" />
     <url>https://www.soulradio.wix.com/home</url>
   </channel>
@@ -124,27 +124,27 @@
     <url>https://www.melisten.sg/radio/987</url>
   </channel>
     <channel id="CNA938">
-    <display-name lang="en">CNA938</display-name>
+    <display-name lang="en">CNA 938FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/CNA938.png" />
     <url>https://www.melisten.sg/radio/cna938</url>
   </channel>
   <channel id="CLASS95">
-    <display-name lang="en">CLASS 95</display-name>
+    <display-name lang="en">CLASS 95FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/Class95.png" />
     <url>https://www.melisten.sg/radio/class-95</url>
   </channel>
   <channel id="GOLD905">
-    <display-name lang="en">GOLD 905</display-name>
+    <display-name lang="en">GOLD 905FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/Gold905.png" />
     <url>https://www.melisten.sg/radio/gold-905</url>
   </channel>
   <channel id="SYMPHONY924">
-    <display-name lang="en">SYMPHONY924</display-name>
+    <display-name lang="en">SYMPHONY 924FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/Symphony.png" />
     <url>https://www.melisten.sg/radio/symphony-924</url>
   </channel>
   <channel id="CAPITAL958">
-    <display-name lang="en">CAPITAL 958</display-name>
+    <display-name lang="en">CAPITAL 958FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/LOVE972.png" />
     <url>https://www.melisten.sg/radio/capital-958</url>
   </channel>
@@ -159,7 +159,7 @@
     <url>https://www.kiss92.sg/</url>
   </channel>
   <channel id="LOVE972">
-    <display-name lang="en">LOVE 972</display-name>
+    <display-name lang="en">LOVE 972FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/love972fm.png" />
     <url>https://www.melisten.sg/radio/love-972</url>
   </channel>
@@ -169,7 +169,7 @@
     <url>https://www.moneyfm893.sg</url>
   </channel>
   <channel id="OLI968">
-    <display-name lang="en">OLI 968</display-name>
+    <display-name lang="en">OLI 968FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/oli968.png" />
     <url>https://www.melisten.sg/radio/oli-968</url>
   </channel>
@@ -179,12 +179,12 @@
     <url>https://www.onefm.sg/</url>
   </channel>
   <channel id="UFM1003">
-    <display-name lang="en">UFM 1003 FM</display-name>
+    <display-name lang="en">UFM 1003FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/ufm.png" />
     <url>https://www.ufm1003.sg/</url>
   </channel>
   <channel id="YES933">
-    <display-name lang="en">YES 933</display-name>
+    <display-name lang="en">YES 933FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/yes933.png" />
     <url>https://www.melisten.sg/radio/yes-933</url>
   </channel>
@@ -194,7 +194,7 @@
     <url>https://astroawani.com</url>
   </channel>
     <channel id="BFM">
-    <display-name lang="en">B FM</display-name>
+    <display-name lang="en">BFM 899</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/bfm.png" />
     <url>https://www.bfm.com.my</url>
   </channel>
@@ -4986,11 +4986,11 @@
     <title lang="en">Workday Afternoon with Claressa Monteiro</title>
     <desc lang="en">Claressa Monteiro goes beyond the press release for some real answers with prominent business leaders, policy makers and entrepreneurs..</desc>
   </programme>
-    <programme start="20220311160000 +0800" stop="20220311219000 +0800" channel="MONEY983">
+    <programme start="20220311160000 +0800" stop="20220311190000 +0800" channel="MONEY983">
     <title lang="en">Prime Time with Timothy Go, Rachel Kelly &amp; Finance Presenter JP Ong</title>
     <desc lang="en">Stay current with the latest news, market movements in Singapore, Europe, and the US, and property investment insights in this ever-changing economy with Timothy Go, Rachel Kelly and JP Ong.</desc>
   </programme>
-  <programme start="20220311219000 +0800" stop="20220312000000 +0800" channel="MONEY983">
+  <programme start="20220311190000 +0800" stop="20220312000000 +0800" channel="MONEY983">
     <title lang="en">MONEY FM Stay Ahead</title>
     <desc lang="en">MONEY FM Stay Ahead.</desc>
   </programme>
