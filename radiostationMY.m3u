@@ -61,13 +61,13 @@ http://astro2.rastream.com:80/mix
 #EXTINF:-1 group-title="English" tvg-id="TRAXX" tvg-chno="TRAXX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png",TRAXX FM - Experience the Excitement
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
 
-#EXTINF:-1 group-title="English" tvg-id="987" tvg-chno="987" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/987white.png",987 FM - Singapore's #1 Hit Music Station!
+#EXTINF:-1 group-title="English" tvg-id="987" tvg-chno="987" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/987.png",987 FM - Singapore's #1 Hit Music Station!
 https://19183.live.streamtheworld.com/987FM_PREM.aac
 
 #EXTINF:-1 group-title="English" tvg-id="CLASS95" tvg-chno="CLASS95" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Class95.png",CLASS 95FM - The Best Mix Of Music
 https://19183.live.streamtheworld.com/CLASS95AAC_SC
 
-#EXTINF:-1 group-title="English" tvg-id="GOLD905" tvg-chno="GOLD905" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Gold905white.png", GOLD 905FM - Sounds Good, Feels Good
+#EXTINF:-1 group-title="English" tvg-id="GOLD905" tvg-chno="GOLD905" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Gold905.png", GOLD 905FM - Sounds Good, Feels Good
 https://22403.live.streamtheworld.com/GOLD905_PREM.aac
 
 #EXTINF:-1 group-title="English" tvg-id="ONE913" tvg-chno="ONE913" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/one%20fm%20sg.png",ONE 913FM - Good Times, Greatest Hits
@@ -76,7 +76,7 @@ https://23683.live.streamtheworld.com/ONE_FM_913AAC.aac
 #EXTINF:-1 group-title="English" tvg-id="KISS92" tvg-chno="KISS92" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/kiss92fm.png",KISS 92FM - All The Great Songs In One Place!
 https://22253.live.streamtheworld.com/KISS_92AAC.aac
 
-#EXTINF:-1 group-title="English" tvg-id="STATIONPLUS" tvg-chno="STATIONPLUS" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/stationplusradiowhite.png",Station Plus Radio - Your Best Music
+#EXTINF:-1 group-title="English" tvg-id="STATIONPLUS" tvg-chno="STATIONPLUS" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Stationplus_Radio_white-.png",Station Plus Radio - Your Best Music
 http://stream.zeno.fm/77k2edq19ehvv
 
 
