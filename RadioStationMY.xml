@@ -88,7 +88,7 @@
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/8fm.png" />
     <url>https://www.8fm.audio</url>
   </channel>
-  <channel id="MELODY"> 
+  <channel id="MELODY">
     <display-name lang="en">MELODY</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/melody.png" />
     <url>https://www.melody.my</url>
@@ -1244,8 +1244,8 @@
   
   
     <programme start="20220314000000 +0800" stop="20220314050000 +0800" channel="BULETINFM">
-    <title lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</title>
-    <desc lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</desc>
+    <title lang="en">BULETIN FM Isu Semasa dan Info Terkini</title>
+    <desc lang="en">BULETIN FM Isu Semasa dan Info Terkini</desc>
   </programme>
   <programme start="20220314050000 +0800" stop="20220314060000 +0800" channel="BULETINFM">
     <title lang="en">Tanyalah Ustaz</title>
@@ -1278,8 +1278,8 @@
 
   
   <programme start="20220315000000 +0800" stop="20220315050000 +0800" channel="BULETINFM">
-    <title lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</title>
-    <desc lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</desc>
+    <title lang="en">BULETIN FM Isu Semasa dan Info Terkini</title>
+    <desc lang="en">BULETIN FM Isu Semasa dan Info Terkini</desc>
   </programme>
  <programme start="20220315050000 +0800" stop="20220315060000 +0800" channel="BULETINFM">
     <title lang="en">Tanyalah Ustaz</title>
@@ -1312,8 +1312,8 @@
 
 
   <programme start="20220316000000 +0800" stop="20220316050000 +0800" channel="BULETINFM">
-    <title lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</title>
-    <desc lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</desc>
+    <title lang="en">BULETIN FM Isu Semasa dan Info Terkini</title>
+    <desc lang="en">BULETIN FM Isu Semasa dan Info Terkini</desc>
   </programme>
  <programme start="20220316050000 +0800" stop="20220316060000 +0800" channel="BULETINFM">
     <title lang="en">Tanyalah Ustaz</title>
@@ -1346,8 +1346,8 @@
 
 
   <programme start="20220317000000 +0800" stop="20220317050000 +0800" channel="BULETINFM">
-    <title lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</title>
-    <desc lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</desc>
+    <title lang="en">BULETIN FM Isu Semasa dan Info Terkini</title>
+    <desc lang="en">BULETIN FM Isu Semasa dan Info Terkini</desc>
   </programme>
  <programme start="20220317050000 +0800" stop="20220317060000 +0800" channel="BULETINFM">
     <title lang="en">Tanyalah Ustaz</title>
@@ -1380,8 +1380,8 @@
 
 
   <programme start="20220318000000 +0800" stop="20220318050000 +0800" channel="BULETINFM">
-    <title lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</title>
-    <desc lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</desc>
+    <title lang="en">BULETIN FM Isu Semasa dan Info Terkini</title>
+    <desc lang="en">BULETIN FM Isu Semasa dan Info Terkini</desc>
   </programme>
  <programme start="20220318050000 +0800" stop="20220318060000 +0800" channel="BULETINFM">
     <title lang="en">Tanyalah Ustaz</title>
@@ -1414,8 +1414,8 @@
 
 
   <programme start="20220319000000 +0800" stop="20220319050000 +0800" channel="BULETINFM">
-    <title lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</title>
-    <desc lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</desc>  
+    <title lang="en">BULETIN FM Isu Semasa dan Info Terkini</title>
+    <desc lang="en">BULETIN FM Isu Semasa dan Info Terkini</desc>  
   </programme>
   <programme start="20220319050000 +0800" stop="20220319060000 +0800" channel="BULETINFM">
     <title lang="en">Tanyalah Ustaz</title>
@@ -1446,13 +1446,13 @@
     <desc lang="en">Lagu-lagu 90an yang menjadi siulan sepanjang zaman menemani di setiap hujung minggu.</desc>
   </programme>
   <programme start="20220319220000 +0800" stop="20220320000000 +0800" channel="BULETINFM">
-    <title lang="en">Buletin FM Info Terkini &amp; Muzik Sepanjang Zaman</title>
-    <desc lang="en">Buletin FM Info Terkini &amp; Muzik Sepanjang Zaman</desc>  
+    <title lang="en">BULETIN FM Isu Semasa dan Info Terkini</title>
+    <desc lang="en">BULETIN FM Isu Semasa dan Info Terkini</desc>  
     </programme>
   
   <programme start="20220320000000 +0800" stop="20220320050000 +0800" channel="BULETINFM">
-    <title lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</title>
-    <desc lang="en">BULETIN FM Info Terkini &amp; Muzik Sepanjang Zaman</desc>  
+    <title lang="en">BULETIN FM Isu Semasa dan Info Terkini</title>
+    <desc lang="en">BULETIN FM Isu Semasa dan Info Terkini</desc>  
   </programme>
   <programme start="20220320050000 +0800" stop="20220320060000 +0800" channel="BULETINFM">
     <title lang="en">Tanyalah Ustaz</title>
