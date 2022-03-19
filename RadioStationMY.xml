@@ -7,7 +7,7 @@
     <display-name lang="en">ERA</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" />
     <url>http://www.astro.com.my</url>
-	</channel>
+</channel>
   <channel id="HOTFM">
     <display-name lang="en">HOT FM</display-name>
     <icon src="https://static.wixstatic.com/media/0064cc_97e1fc97d97c47f49eed9151029452a5~mv2.png" />
@@ -4320,7 +4320,7 @@
     <title lang="en">CLASS 95 The Best Mix of Music</title>
     <desc lang="en">CLASS 95 The Best Mix of Music</desc>
   </programme>   
-  <programme start="20220319060000 +0800" stop="20220319000000 +0800" channel="CLASS95">
+  <programme start="20220319060000 +0800" stop="20220319200000 +0800" channel="CLASS95">
     <title lang="en">Triple Play Weekend</title>
     <desc lang="en">Triple Play Weekend</desc>
   </programme>
@@ -4646,7 +4646,7 @@
     <title lang="en">KISS 92FM  All The Great Songs In One Place!</title>
     <desc lang="en">KISS 92FM  All The Great Songs In One Place!</desc>
   </programme>   
-  <programme start="20220319000000 +0800" stop="20220319180000 +0800" channel="KISS92">
+  <programme start="20220319120000 +0800" stop="20220319180000 +0800" channel="KISS92">
     <title lang="en">Saturday Afternoons</title>
     <desc lang="en">Charmaine Yee keeps you company with All the Great Songs in One Place.</desc>
   </programme>  
@@ -5820,7 +5820,7 @@
   
   
   <programme start="20220319000000 +0800" stop="20220319070000 +0800" channel="988">
-    <title lang="en">8FM Love Music, Cherish Life</title>
+    <title lang="en">988 Persistence. Dare to speak</title>
     <desc lang="en">988 Persistence. Dare to speak</desc>
   </programme>
   <programme start="20220319070000 +0800" stop="20220319100000 +0800" channel="988">
@@ -6294,7 +6294,7 @@
     <title lang="en">Raaga Hindi Power</title>
     <desc lang="en">Raaaga Hindi Power.</desc>
   </programme>  
-  <programme start="20220320000000 +0800" stop="20220320050000 +0800" channel="RAAGA">
+  <programme start="20220320020000 +0800" stop="20220320050000 +0800" channel="RAAGA">
     <title lang="en">Chillax @ RAAGA</title>
     <desc lang="en">Raaga Aaha... Sirantha Isai!</desc>
   </programme>  
@@ -6714,7 +6714,7 @@
     <title lang="en">Vaara Iruthi Ullaasam Kondattam</title>
     <desc lang="en">Vaara Iruthi Ullaasam Kondattam</desc>
   </programme>
-  <programme start="20220319200000 +0800" stop="20220319221000 +0800" channel="OLI968">
+  <programme start="20220319200000 +0800" stop="20220319210000 +0800" channel="OLI968">
     <title lang="en">For Your Listening Pleasure</title>
     <desc lang="en">Non-stop Tamil hits from the various eras.</desc>
   </programme>
