@@ -18,11 +18,16 @@ Playlist radio.
 | WARNA 942FM | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
 | RAKITA | Radio Kita | Malay | AAC | ✘ | ✘ | ✘ | Official Website
 | NASIONAL FM | Radio Televisyen Malaysia | Malay | AAC | ASTRO CH 869 / MYTV CH 701 | RTM Klik | ✘ | Official Website
-| RADIO KLASIK  | Radio Televisyen Malaysia | Malay | AAC | MYTV CH 705 | RTM Klik | ✘ | Official Website
+| RADIO KLASIK  | Radio Televisyen Malaysia | Malay | AAC | ASTRO CH 875 / MYTV CH 705 | RTM Klik | ✘ | Official Website
+| ASYIK FM  | Radio Televisyen Malaysia | Malay | AAC | MYTV CH 706 | RTM Klik | ✘ | Official Website
+| ERA SABAH| Astro Radio | Malay | AAC | ✘ | Syok  | ✔ | Official Website
+| ERA SARAWAK| Astro Radio | Malay | AAC | ✘ | Syok  | ✔ | Official Website
 | HITZ | Astro Radio | English | AAC | ASTRO CH 852 | Syok | ✔ | Official Website
 | FLY FM | Media Prima Audio | English | AAC | MYTV CH 723 | audio+ / Joox | ✔ | Official Website
 | MIX | Astro Radio | English | AAC | ASTRO CH 855 | Syok | ✔ | Official Website
 | TRAXX FM | Radio Televisyen Malaysia | English | AAC | ASTRO CH 872 / MYTV CH 702 | RTM Klik | ✘ | Official Website
+| HITZ SABAH | Astro Radio | English | AAC | ✘ | Syok | ✔ | Official Website
+| HITZ SARAWAK | Astro Radio | English | AAC | ✘ | Syok | ✔ | Official Website
 | 987FM  | Mediacorp | English | AAC | ✘ | MeListen | ✘ | Official Website
 | CLASS 95FM  | Mediacorp | English | AAC | ✘ | MeListen | ✘ | Official Website
 | GOLD 905FM  | Mediacorp | English | AAC | ✘ | MeListen | ✘ | Official Website
@@ -33,6 +38,8 @@ Playlist radio.
 | MELODY | Astro Radio | Mandarin | AAC | ASTRO CH 858 | Syok  | ✔ | Official Website
 | 988 FM | Star Media Group | Mandarin | AAC | Unifi TV CH 956 | Joox | ✘ | Official Website 
 | AI FM | Radio Televisyen Malaysia | Mandarin | AAC | ASTRO CH 874 / MYTV CH 704 | RTM Klik | ✘ | Official Website
+| MY SABAH | Astro Radio | Mandarin | AAC | ✘ | Syok  | ✔ | Official Website
+| MY SARAWAK | Astro Radio | Mandarin | AAC | ✘ | Syok  | ✔ | Official Website
 | YES 933FM  | Mediacorp | Mandarin | AAC | ✘ | MeListen | ✘ | Official Website
 | LOVE 972FM  | Mediacorp | Mandarin | AAC | ✘ | MeListen | ✘ | Official Website
 | HAO 963FM  | SPH Radio | Mandarin | AAC | ✘ | Awedio | ✘ | Official Website
@@ -82,3 +89,4 @@ Playlist radio.
 | RED FM | Radio Televisyen Malaysia | Variety | AAC | MYTV CH 707 | RTM Klik | ✘ | Official Website
 | TAWAU FM | Radio Televisyen Malaysia | Variety | AAC | MYTV CH 709 | RTM Klik | ✘ | Official Website
 | KENINGAU FM | Radio Televisyen Malaysia | Variety | AAC | ✘ | RTM Klik | ✘ | Official Website
+| KBS WORLD | Korean Broadcasting System | Variety | AAC | ✘ | Syok | ✘ | Official Website
