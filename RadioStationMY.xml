@@ -383,6 +383,11 @@
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/sibufm.png" />
     <url>https://www.sibufm.rtm.gov.my</url>
   </channel>
+  <channel id="SANDAKANFM">
+    <display-name lang="en">SANDAKAN FM</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/Sandakanfm.png" />
+    <url>https://www.sandakanfm.rtm.gov.my</url>
+  </channel>
     <channel id="SRIAMANFM">
     <display-name lang="en">SRI AMAN FM</display-name>
     <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/sriaman.png" />
