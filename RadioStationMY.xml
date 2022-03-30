@@ -7,7 +7,7 @@
     <display-name lang="en">ERA</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" />
     <url>http://www.astro.com.my</url>
-	</channel>
+  </channel>
   <channel id="HOTFM">
     <display-name lang="en">HOT FM</display-name>
     <icon src="https://static.wixstatic.com/media/0064cc_97e1fc97d97c47f49eed9151029452a5~mv2.png" />
@@ -448,10 +448,15 @@
     <icon src="https://github.com/digitaldotmy/image/raw/main/KBSWorld.png" />
     <url>https://www.syok.my</url>
   </channel>
+    <channel id="BOOMRADIO">
+    <display-name lang="en">BOOM RADIO</display-name>
+    <icon src="https://raw.githubusercontent.com/digitaldotmy/image/main/boomradio.png" />
+    <url>https://www.syok.my</url>
+  </channel>
   
   
 
-    <programme start="20220328000000 +0800" stop="20220329000000 +0800" channel="CHN">
+  <programme start="20220328000000 +0800" stop="20220329000000 +0800" channel="CHN">
     <title lang="en">AKAN DATANG</title>
     <desc lang="en">Akan Datang.</desc>
   </programme>
@@ -16224,6 +16229,187 @@
   <programme start="20220403200000 +0800" stop="20220404000000 +0800" channel="KBSWORLD">
     <title lang="en">K-Pop channel provided by KBS WORLD</title>
     <desc lang="en">K-Pop channel provided by KBS WORLD</desc>
+  </programme>
+  
+  
+  <programme start="20220328000000 +0800" stop="20220328060000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>  
+  <programme start="20220328060000 +0800" stop="20220328100000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220328100000 +0800" stop="20220328140000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220328140000 +0800" stop="20220328170000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220328170000 +0800" stop="20220328200000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220328200000 +0800" stop="20220329000000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  
+
+  <programme start="20220329000000 +0800" stop="20220329060000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>  
+  <programme start="20220329060000 +0800" stop="20220329100000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220329100000 +0800" stop="20220329140000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220329140000 +0800" stop="20220329170000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220329170000 +0800" stop="20220329200000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220329200000 +0800" stop="20220330000000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  
+  <programme start="20220330000000 +0800" stop="20220330060000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>  
+  <programme start="20220330060000 +0800" stop="20220330100000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220330100000 +0800" stop="20220330140000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220330140000 +0800" stop="20220330170000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220330170000 +0800" stop="20220330200000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220330200000 +0800" stop="20220331000000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  
+  
+  <programme start="20220331000000 +0800" stop="20220331060000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>  
+  <programme start="20220331060000 +0800" stop="20220331100000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220331100000 +0800" stop="20220331140000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220331140000 +0800" stop="20220331170000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220331170000 +0800" stop="20220331200000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220331200000 +0800" stop="20220401000000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  
+  
+  <programme start="20220401000000 +0800" stop="20220401060000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>  
+  <programme start="20220401060000 +0800" stop="20220401100000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220401100000 +0800" stop="20220401140000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220401140000 +0800" stop="20220401170000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220401170000 +0800" stop="20220401200000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220401200000 +0800" stop="20220402000000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  
+  
+  <programme start="20220402000000 +0800" stop="20220402060000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>  
+  <programme start="20220402060000 +0800" stop="20220402100000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220402100000 +0800" stop="20220402140000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220402140000 +0800" stop="20220402170000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220402170000 +0800" stop="20220402200000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220402200000 +0800" stop="20220403000000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  
+  
+  <programme start="20220403000000 +0800" stop="20220403060000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>  
+  <programme start="20220403060000 +0800" stop="20220403100000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220403100000 +0800" stop="20220403140000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220403140000 +0800" stop="20220403170000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220403170000 +0800" stop="20220403200000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
+  </programme>
+  <programme start="20220403200000 +0800" stop="20220404000000 +0800" channel="BOOMRADIO">
+    <title lang="en">BOOM RADIO Panas &amp; Pantas</title>
+    <desc lang="en">BOOM RADIO Panas &amp; Pantas</desc>
   </programme>
   
   
