@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" url-tvg="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" refresh="1440"
 
+
 #EXTINF:-1 tvg-chno="101" tvg-id="ERA" tvg-name="ERA - Muzik Hit Terkini" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Malay",ERA - Muzik Hit Terkini
 http://astro2.rastream.com:80/era
 #EXTINF:-1 tvg-chno="102" tvg-id="HOTFM" tvg-name="HOT FM - Kini Lebih Muzik Yang Hangat" tvg-logo="https://static.wixstatic.com/media/0064cc_97e1fc97d97c47f49eed9151029452a5~mv2.png" group-title="Malay",HOT FM - Kini Lebih Muzik Yang Hangat
@@ -8,7 +9,7 @@ http://mediaprima.rastream.com/mediaprima-hotfm
 https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 #EXTINF:-1 tvg-chno="104" tvg-id="SINAR" tvg-name="SINAR - Menyinari Hidupmu" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Malay",SINAR - Menyinari Hidupmu
 http://astro2.rastream.com:80/sinar
-#EXTINF:-1 tvg-chno="105" tvg-id="BULETINFM" tvg-name="BULETIN FM - BULETIN FM Isu Semasa dan Info Terkini" tvg-logo="https://static.wixstatic.com/media/0064cc_376a65d9cad84ba38aea9d74b25fcb24~mv2.png" group-title="Malay",BULETIN FM - Isu Semasa dan Info Terkini
+#EXTINF:-1 tvg-chno="105" tvg-id="BULETINFM" tvg-name="BULETIN FM - Isu Semasa dan Info Terkini" tvg-logo="https://static.wixstatic.com/media/0064cc_376a65d9cad84ba38aea9d74b25fcb24~mv2.png" group-title="Malay",BULETIN FM - Isu Semasa dan Info Terkini
 http://mediaprima.rastream.com/mediaprima-koolfm
 #EXTINF:-1 tvg-chno="106" tvg-id="GEGAR" tvg-name="GEGAR - Pilihan #1 Pantai Timur" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="Malay",GEGAR - Pilihan #1 Pantai Timur
 http://astro3.rastream.com:80/gegar
@@ -28,13 +29,21 @@ https://22253.live.streamtheworld.com/RAKITAAAC.aac
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="KLASIK" tvg-name="RADIO KLASIK  -  Menggamit Kenangan" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/radioklasik.png" group-title="Malay",RADIO KLASIK  -  Menggamit Kenangan
 https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
+#EXTINF:-1 tvg-id="ASYIKFM" tvg-name="ASYIK FM - Lain Dari Yang Lain" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Asyikfm.png" group-title="Malay",ASYIK FM - Lain Dari Yang Lain
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
 #EXTINF:-1 tvg-chno="115" tvg-id="ASYIKFM" tvg-name="ASYIK FM - Lain Dari Yang Lain" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Asyikfm.png" group-title="Malay",ASYIK FM - Lain Dari Yang Lain
 https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
+#EXTINF:-1 tvg-id="ERASABAH" tvg-name="ERA SABAH - Muzik Hit Terkini" tvg-logo="https://github.com/digitaldotmy/image/raw/main/ERASABAH.png" group-title="Malay",ERA SABAH - Muzik Hit Terkini
+https://astro2.rastream.com/amp-era-kk
 #EXTINF:-1 tvg-chno="116" tvg-id="ERASABAH" tvg-name="ERA SABAH - Muzik Hit Terkini" tvg-logo="https://github.com/digitaldotmy/image/raw/main/ERASABAH.png" group-title="Malay",ERA SABAH - Muzik Hit Terkini
 https://astro2.rastream.com/amp-era-kk
+#EXTINF:-1 tvg-id="ERASARAWAK" tvg-name="ERA SARAWAK - Muzik Hit Terkini" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERASARAWAK.png" group-title="Malay",ERA SARAWAK - Muzik Hit Terkini
+https://astro2.rastream.com/amp-era-kch
 #EXTINF:-1 tvg-chno="117" tvg-id="ERASARAWAK" tvg-name="ERA SARAWAK - Muzik Hit Terkini" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERASARAWAK.png" group-title="Malay",ERA SARAWAK - Muzik Hit Terkini
 https://astro2.rastream.com/amp-era-kch
-#EXTINF:-1 tvg-chno="118" tvg-id="1MUZIK" tvg-name="#1 - Muzik #1" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/1radiowhite.png" group-title="Malay",#1 - Muzik #1
+#EXTINF:-1 tvg-chno="118" tvg-id="BOOMRADIO" tvg-name="Boom Radio" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/boomradio.png" group-title="Malay",Boom Radio
+https://hls.rastream.com/astro-boom-radio
+#EXTINF:-1 tvg-chno="119" tvg-id="1MUZIK" tvg-name="#1 - Muzik #1" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/1radiowhite.png" group-title="Malay",#1 - Muzik #1
 http://stream.zeno.fm/9tw4rf6gachvv
 #EXTINF:-1 tvg-chno="201" tvg-id="HITZ" tvg-name="HITZ  - Malaysia's #1 Hit Station" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="English",HITZ  - Malaysia's #1 Hit Station
 http://astro1.rastream.com:80/hitz
@@ -44,8 +53,12 @@ http://mediaprima.rastream.com/mediaprima-flyfm
 http://astro2.rastream.com:80/mix
 #EXTINF:-1 tvg-chno="204" tvg-id="TRAXX" tvg-name="TRAXX FM - Experience the Excitement" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" group-title="English",TRAXX FM - Experience the Excitement
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
+#EXTINF:-1 tvg-id="HITZSABAH" tvg-name="HITZ SABAH - Malaysia's #1 Hit Station" tvg-logo="https://github.com/digitaldotmy/image/raw/main/HITZSABAH.png" group-title="English",HITZ SABAH - Malaysia's #1 Hit Station
+https://astro1.rastream.com/amp-hitz-kk
 #EXTINF:-1 tvg-chno="205" tvg-id="HITZSABAH" tvg-name="HITZ SABAH - Malaysia's #1 Hit Station" tvg-logo="https://github.com/digitaldotmy/image/raw/main/HITZSABAH.png" group-title="English",HITZ SABAH - Malaysia's #1 Hit Station
 https://astro1.rastream.com/amp-hitz-kk
+#EXTINF:-1 tvg-id="HITZSARAWAK" tvg-name="HITZ SARAWAK - Malaysia's #1 Hit Station" tvg-logo="https://github.com/digitaldotmy/image/raw/main/HITZSARAWAK.png" group-title="English",HITZ SARAWAK - Malaysia's #1 Hit Station
+https://astro1.rastream.com/amp-hitz-kch
 #EXTINF:-1 tvg-chno="206" tvg-id="HITZSARAWAK" tvg-name="HITZ SARAWAK - Malaysia's #1 Hit Station" tvg-logo="https://github.com/digitaldotmy/image/raw/main/HITZSARAWAK.png" group-title="English",HITZ SARAWAK - Malaysia's #1 Hit Station
 https://astro1.rastream.com/amp-hitz-kch
 #EXTINF:-1 tvg-chno="207" tvg-id="987" tvg-name="987 FM - Singapore's #1 Hit Music Station!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/987.png" group-title="English",987 FM - Singapore's #1 Hit Music Station!
@@ -70,8 +83,12 @@ http://astro3.rastream.com/melody
 http://23683.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1 tvg-chno="305" tvg-id="AIFM" tvg-name="AI FM - Love Freedom" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/aifm.png" group-title="Chinese",AI FM - Love Freedom
 https://aifmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
+#EXTINF:-1 tvg-id="MYSABAH" tvg-name="MY SABAH - So Much Fun!" tvg-logo="https://github.com/digitaldotmy/image/raw/main/MYSABAH.png" group-title="Chinese",MY SABAH - So Much Fun!
+https://astro1.rastream.com/amp-myfm-kk
 #EXTINF:-1 tvg-chno="306" tvg-id="MYSABAH" tvg-name="MY SABAH - So Much Fun!" tvg-logo="https://github.com/digitaldotmy/image/raw/main/MYSABAH.png" group-title="Chinese",MY SABAH - So Much Fun!
 https://astro1.rastream.com/amp-myfm-kk
+#EXTINF:-1 tvg-id="MYSARAWAK" tvg-name="MY SARAWAK - So Much Fun!" tvg-logo="https://github.com/digitaldotmy/image/raw/main/MYSARAWAK.png" group-title="Chinese",MY SARAWAK - So Much Fun!
+https://astro1.rastream.com/amp-myfm-kch
 #EXTINF:-1 tvg-chno="307" tvg-id="MYSARAWAK" tvg-name="MY SARAWAK - So Much Fun!" tvg-logo="https://github.com/digitaldotmy/image/raw/main/MYSARAWAK.png" group-title="Chinese",MY SARAWAK - So Much Fun!
 https://astro1.rastream.com/amp-myfm-kch
 #EXTINF:-1 tvg-chno="308" tvg-id="YES933" tvg-name="YES 933 - Singapore's #1 Mandarin Hit Music Station!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/yes933.png" group-title="Chinese",YES 933 - Singapore's #1 Mandarin Hit Music Station!
@@ -89,6 +106,8 @@ https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch
 #EXTINF:-1 tvg-chno="403" tvg-id="OLI968" tvg-name="OLI 968FM - The only Indian station" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/oli968.png" group-title="Tamil",OLI 968FM - The only Indian station
 https://22893.live.streamtheworld.com/OLI968FM_PREM.aac
 #EXTINF:-1 tvg-chno="900" tvg-id="KBSWORLD" tvg-name="KBS WORLD Radio" tvg-logo="https://github.com/digitaldotmy/image/raw/main/KBSWorld.png" group-title="Korean",KBS WORLD Radio
+https://hls.rastream.com/astro-kbs-world
+#EXTINF:-1 tvg-id="KBSWORLD" tvg-name="KBS WORLD Radio" tvg-logo="https://github.com/digitaldotmy/image/raw/main/KBSWorld.png" group-title="Korean",KBS WORLD Radio
 https://hls.rastream.com/astro-kbs-world
 #EXTINF:-1 tvg-chno="801" tvg-id="AWANI" tvg-name="ASTRO AWANI - #1 24-hour News Channel in Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="News & Business",ASTRO AWANI - #1 24-hour News Channel in Malaysia
 https://awanitv.akamaized.net/hls/live/2018478/Radio/stream05/streamPlaylist.m3u8
