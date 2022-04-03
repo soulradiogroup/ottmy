@@ -29,6 +29,7 @@ Playlist radio.
 | TRAXX FM | Radio Televisyen Malaysia | English | AAC | ASTRO CH 872 / MYTV CH 702 | RTM Klik | ✘ | Official Website
 | HITZ SABAH | Astro Radio | English | AAC | ✘ | Syok | ✔ | Official Website
 | HITZ SARAWAK | Astro Radio | English | AAC | ✘ | Syok | ✔ | Official Website
+| RED RADIO | AirAsia Group Berhad | English | AAC | ✘ | Syok | ✔ | Official Website
 | 987FM  | Mediacorp | English | AAC | ✘ | MeListen | ✘ | Official Website
 | CLASS 95FM  | Mediacorp | English | AAC | ✘ | MeListen | ✘ | Official Website
 | GOLD 905FM  | Mediacorp | English | AAC | ✘ | MeListen | ✘ | Official Website
