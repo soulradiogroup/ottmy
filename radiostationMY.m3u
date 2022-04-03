@@ -32,10 +32,10 @@ https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm
 https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-id="ERASABAH" tvg-name="ERA SABAH - Muzik Hit Terkini" tvg-logo="https://github.com/digitaldotmy/image/raw/main/ERASABAH.png" group-title="Malay",ERA SABAH - Muzik Hit Terkini
 https://astro2.rastream.com/amp-era-kk
-#EXTINF:-1 tvg-chno="117" tvg-id="ERASARAWAK" tvg-name="ERA SARAWAK - Muzik Hit Terkini" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERASARAWAK.png" group-title="Malay",ERA SARAWAK - Muzik Hit Terkini
-https://astro2.rastream.com/amp-era-kch
 #EXTINF:-1 tvg-chno="118" tvg-id="BOOMRADIO" tvg-name="BOOM RADIO - Panas & Pantas" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/boomradio.png" group-title="Malay",BOOM RADIO - Panas & Pantas
 https://hls.rastream.com/astro-boom-radio
+#EXTINF:-1 tvg-chno="117" tvg-id="ERASARAWAK" tvg-name="ERA SARAWAK - Muzik Hit Terkini" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERASARAWAK.png" group-title="Malay",ERA SARAWAK - Muzik Hit Terkini
+https://astro2.rastream.com/amp-era-kch
 #EXTINF:-1 tvg-chno="119" tvg-id="1MUZIK" tvg-name="#1 - Muzik #1" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/1radiowhite.png" group-title="Malay",#1 - Muzik #1
 http://stream.zeno.fm/9tw4rf6gachvv
 #EXTINF:-1 tvg-chno="201" tvg-id="HITZ" tvg-name="HITZ  - Malaysia's #1 Hit Station" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="English",HITZ  - Malaysia's #1 Hit Station
@@ -62,7 +62,9 @@ https://22403.live.streamtheworld.com/GOLD905_PREM.aac
 https://23683.live.streamtheworld.com/ONE_FM_913AAC.aac
 #EXTINF:-1 tvg-chno="213" tvg-id="KISS92" tvg-name="KISS 92FM - All The Great Songs In One Place!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/kiss92fm.png" group-title="English",KISS 92FM - All The Great Songs In One Place!
 https://22253.live.streamtheworld.com/KISS_92AAC.aac
-#EXTINF:-1 tvg-chno="214" tvg-id="STATIONPLUS" tvg-name="Station Plus Radio - Your Best Music" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Stationplus_Radio_white-.png" group-title="English",Station Plus Radio - Your Best Music
+#EXTINF:-1 tvg-chno="214" tvg-id="REDRADIO" tvg-name="RED RADIO - Southeast Asian travel food music and everything in between." tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/redradio.png" group-title="English",RED RADIO - Southeast Asian travel food music and everything in between.
+https://astro3.rastream.com/astro-red-radio
+#EXTINF:-1 tvg-chno="215" tvg-id="STATIONPLUS" tvg-name="Station Plus Radio - Your Best Music" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Stationplus_Radio_white-.png" group-title="English",Station Plus Radio - Your Best Music
 http://stream.zeno.fm/77k2edq19ehvv
 #EXTINF:-1 tvg-chno="301" tvg-id="MYFM" tvg-name="MY - So Much Fun!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/my.png" group-title="Chinese",MY - So Much Fun!
 https://astro1.rastream.com/myfm
