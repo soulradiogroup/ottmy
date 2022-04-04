@@ -16,7 +16,7 @@ Playlist radio.
 | MANIS FM | Husa Network| Malay | AAC | ✘ | Sweet+ | ✘ | Official Website
 | RIA 897FM  | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
 | WARNA 942FM | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
-| RAKITA | Radio Kita | Malay | AAC | ✘ | ✘ | ✘ | Official Website
+| RAKITA | Radio Kita | Malay | AAC | ✘ | Syok | ✘ | Official Website
 | NASIONAL FM | Radio Televisyen Malaysia | Malay | AAC | ASTRO CH 869 / MYTV CH 701 | RTM Klik | ✘ | Official Website
 | RADIO KLASIK  | Radio Televisyen Malaysia | Malay | AAC | ASTRO CH 875 / MYTV CH 705 | RTM Klik | ✘ | Official Website
 | ASYIK FM  | Radio Televisyen Malaysia | Malay | AAC | MYTV CH 706 | RTM Klik | ✘ | Official Website
