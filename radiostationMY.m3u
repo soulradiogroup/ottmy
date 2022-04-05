@@ -32,10 +32,10 @@ https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm
 https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-id="ERASABAH" tvg-name="ERA SABAH - Muzik Hit Terkini" tvg-logo="https://github.com/digitaldotmy/image/raw/main/ERASABAH.png" group-title="Malay",ERA SABAH - Muzik Hit Terkini
 https://astro2.rastream.com/amp-era-kk
-#EXTINF:-1 tvg-chno="118" tvg-id="BOOMRADIO" tvg-name="BOOM RADIO - Panas & Pantas" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/boomradio.png" group-title="Malay",BOOM RADIO - Panas & Pantas
-https://hls.rastream.com/astro-boom-radio
 #EXTINF:-1 tvg-chno="117" tvg-id="ERASARAWAK" tvg-name="ERA SARAWAK - Muzik Hit Terkini" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERASARAWAK.png" group-title="Malay",ERA SARAWAK - Muzik Hit Terkini
 https://astro2.rastream.com/amp-era-kch
+#EXTINF:-1 tvg-chno="118" tvg-id="BOOMRADIO" tvg-name="BOOM RADIO - Panas & Pantas" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/boomradio.png" group-title="Malay",BOOM RADIO - Panas & Pantas
+https://hls.rastream.com/astro-boom-radio
 #EXTINF:-1 tvg-chno="119" tvg-id="1MUZIK" tvg-name="#1 - Muzik #1" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/1radiowhite.png" group-title="Malay",#1 - Muzik #1
 http://stream.zeno.fm/9tw4rf6gachvv
 #EXTINF:-1 tvg-chno="201" tvg-id="HITZ" tvg-name="HITZ  - Malaysia's #1 Hit Station" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="English",HITZ  - Malaysia's #1 Hit Station
