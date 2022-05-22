@@ -95,4 +95,9 @@ Playlist radio.
 | TAWAU FM | Radio Televisyen Malaysia | Variety | AAC | MYTV CH 709 | RTM Klik | ✘ | Official Website
 | KENINGAU FM | Radio Televisyen Malaysia | Variety | AAC | ✘ | RTM Klik | ✘ | Official Website
 | KBS WORLD | Korean Broadcasting System | Variety | AAC | ✘ | Syok | ✘ | Official Website
+| NASIONAL FM | Radio Televisyen Brunei | Variety | AAC | ✘ | RTBGo | ✘ | Official Website
+| PILIHAN FM | Radio Televisyen Brunei | Variety | AAC | ✘ | RTBGo | ✘ | Official Website
+| PELANGI FM | Radio Televisyen Brunei | Variety | AAC | ✘ | RTBGo | ✘ | Official Website
+| HARMONI FM | Radio Televisyen Brunei | Variety | AAC | ✘ | RTBGo | ✘ | Official Website
+| NUR ISLAM FM | Radio Televisyen Brunei | Variety | AAC | ✘ | RTBGo | ✘ | Official Website
 | RIANG RAYA | Astro Radio | Malay | AAC | ✘ | Syok | ✘ | Official Website
