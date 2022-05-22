@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" url-tvg="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" refresh="1440"
 
 #EXTINF:-1 tvg-chno="101" tvg-id="ERA" tvg-name="ERA - Muzik Hit Terkini" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Malay",ERA - Muzik Hit Terkini
-http://astro2.rastream.com:80/era
+http://astro2.rastream.com:80/era 
 #EXTINF:-1 tvg-chno="102" tvg-id="HOTFM" tvg-name="HOT FM - Kini Lebih Muzik Yang Hangat" tvg-logo="https://static.wixstatic.com/media/0064cc_97e1fc97d97c47f49eed9151029452a5~mv2.png" group-title="Malay",HOT FM - Kini Lebih Muzik Yang Hangat
 http://mediaprima.rastream.com/mediaprima-hotfm
 #EXTINF:-1 tvg-chno="103" tvg-id="SURIAFM" tvg-name="SURIA - Segalanya Hiburan" tvg-logo="https://dengar.suria.my/wp-content/uploads/2020/08/suria-logo-orange.png" group-title="Malay",SURIA - Segalanya Hiburan
