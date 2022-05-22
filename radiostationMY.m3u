@@ -7,7 +7,7 @@ http://astro2.rastream.com:80/era
 #EXTINF:-1 tvg-chno="102" tvg-id="HOTFM" tvg-name="HOT FM - Kini Lebih Muzik Yang Hangat" tvg-logo="https://static.wixstatic.com/media/0064cc_97e1fc97d97c47f49eed9151029452a5~mv2.png" group-title="Malay",HOT FM - Kini Lebih Muzik Yang Hangat
 http://mediaprima.rastream.com/mediaprima-hotfm
 #EXTINF:-1 tvg-chno="103" tvg-id="SURIAFM" tvg-name="SURIA - Segalanya Hiburan" tvg-logo="https://dengar.suria.my/wp-content/uploads/2020/08/suria-logo-orange.png" group-title="Malay",SURIA - Segalanya Hiburan
-https://22253.live.streamtheworld.com/SURIA_FMAAC.aac
+https://23733.live.streamtheworld.com/SURIA_FMAAC.aac
 #EXTINF:-1 tvg-chno="104" tvg-id="SINAR" tvg-name="SINAR - Menyinari Hidupmu" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Malay",SINAR - Menyinari Hidupmu
 http://astro2.rastream.com:80/sinar
 #EXTINF:-1 tvg-chno="105" tvg-id="BULETINFM" tvg-name="BULETIN FM - Isu Semasa dan Info Terkini" tvg-logo="https://static.wixstatic.com/media/0064cc_376a65d9cad84ba38aea9d74b25fcb24~mv2.png" group-title="Malay",BULETIN FM - Isu Semasa dan Info Terkini
@@ -27,7 +27,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.a
 #EXTINF:-1 tvg-chno="112" tvg-id="ZAYAN" tvg-name="ZAYAN - #IndahDiHati" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Zayan.png" group-title="Malay",ZAYAN - #IndahDiHati
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HYbBRGXLCU0
 #EXTINF:-1 tvg-chno="113" tvg-id="RAKITA" tvg-name="RAKITA - Muzik Paling Lit" tvg-logo="https://rakita.my/images/new_logo.png" group-title="Malay",RAKITA - Muzik Paling Lit
-https://22253.live.streamtheworld.com/RAKITAAAC.aac
+https://23743.live.streamtheworld.com/RAKITAAAC.aac
 #EXTINF:-1 tvg-chno="114" tvg-id="NASFM" tvg-name="NASIONAL FM - Sentiasa Di Hati" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png" group-title="Malay",NASIONAL FM - Sentiasa Di Hati
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 #EXTINF:-1 tvg-chno="115" tvg-id="KLASIK" tvg-name="RADIO KLASIK  -  Menggamit Kenangan" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/radioklasik.png" group-title="Malay",RADIO KLASIK  -  Menggamit Kenangan
