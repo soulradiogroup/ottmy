@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" url-tvg="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" refresh="1440"
 
 #EXTINF:-1 tvg-chno="101" tvg-id="ERA" tvg-name="ERA - Muzik Hit Terkini" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Malay",ERA - Muzik Hit Terkini
-http://astro2.rastream.com:80/era 
+http://astro2.rastream.com:80/era
 #EXTINF:-1 tvg-chno="102" tvg-id="HOTFM" tvg-name="HOT FM - Kini Lebih Muzik Yang Hangat" tvg-logo="https://static.wixstatic.com/media/0064cc_97e1fc97d97c47f49eed9151029452a5~mv2.png" group-title="Malay",HOT FM - Kini Lebih Muzik Yang Hangat
 http://mediaprima.rastream.com/mediaprima-hotfm
 #EXTINF:-1 tvg-chno="103" tvg-id="SURIAFM" tvg-name="SURIA - Segalanya Hiburan" tvg-logo="https://dengar.suria.my/wp-content/uploads/2020/08/suria-logo-orange.png" group-title="Malay",SURIA - Segalanya Hiburan
@@ -84,7 +84,7 @@ https://mediaprima.rastream.com/mediaprima-onefm
 http://astro3.rastream.com/melody
 #EXTINF:-1 tvg-chno="304" tvg-id="988" tvg-name="988 - Persistence. Dare to speak" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/988.png" group-title="Chinese",988 - Persistence. Dare to speak
 http://23683.live.streamtheworld.com/988_FMAAC.aac
-#EXTINF:-1 tvg-chno="305" tvg-id="CHN" tvg-name="GO XUAN - Go Fun" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/goxuan.png" group-title="Chinese",GO XUAN - Go Fun
+#EXTINF:-1 tvg-chno="305" tvg-id="GOXUAN" tvg-name="GO XUAN - Go Fun" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/goxuan.png" group-title="Chinese",GO XUAN - Go Fun
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/FlR2qAvG5GU
 #EXTINF:-1 tvg-chno="306" tvg-id="AIFM" tvg-name="AI FM - Love Freedom" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/aifm.png" group-title="Chinese",AI FM - Love Freedom
 https://aifmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
