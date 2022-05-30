@@ -201,4 +201,4 @@ https://tawaufmmobile.secureswiftcontent.com/rtm-ch052/rtm-ch052/chunklist.m3u8
 #EXTINF:-1 tvg-chno="819" tvg-id="KENINGAUFM" tvg-name="KENINGAU FM - Hebat Syoknya" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/keningaufm.png" group-title="Variety",KENINGAU FM - Hebat Syoknya
 https://keningaufmmobile.secureswiftcontent.com/rtm-ch053/rtm-ch053/chunklist.m3u8
 #EXTINF:-1 tvg-chno="901" tvg-id="RSMY" tvg-name="Riang Raya - Muzik Raya Paling Hit Dan Lejen!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/RiangRaya.png" group-title="Featured Radio",Riang Raya - Muzik Raya Paling Hit Dan Lejen!
-https://astro1.rastream.com/astro-riang-raya
+#https://astro1.rastream.com/astro-riang-raya
