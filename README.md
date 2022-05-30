@@ -100,4 +100,4 @@ Playlist radio.
 | PELANGI FM | Radio Televisyen Brunei | Malay | AAC | ✘ | RTBGo | ✘ | Official Website
 | HARMONI FM | Radio Televisyen Brunei | Malay | AAC | ✘ | RTBGo | ✘ | Official Website
 | NUR ISLAM FM | Radio Televisyen Brunei | Religion | AAC | ✘ | RTBGo | ✘ | Official Website
-| RIANG RAYA | Astro Radio | Malay | AAC | ✘ | Syok | ✘ | Official Website
+
