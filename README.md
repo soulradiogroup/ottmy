@@ -6,7 +6,7 @@ Playlist radio.
 | Nama Radio | Pemilik | Kategory | Kualiti | Lain Lain Platform | Apps | Youtube | Sumber |
 |---|---|---|---|---|---|---|---|
 | ERA | Astro Radio | Malay | AAC | ASTRO CH 856 | Syok  | ✔ | Official Website
-| HOT FM | Media Prima Audio | Malay | AAC | ✘ | audio+ / Joox | ✔ |  Official Website
+| HOT FM | Media Prima Audio | Malay | AAC | DIDIKTV NTV7 12AM TO 7AM EVERYDAY | audio+ / Joox | ✔ |  Official Website
 | SURIA FM | Star Media Group | Malay | AAC | Unifi TV CH 958 | Joox | ✔ | Official Website 
 | SINAR | Astro Radio | Malay | AAC | ASTRO CH 857 | Syok | ✔ | Official Website  
 | GEGAR | Astro Radio | Malay | AAC | ASTRO CH 863 | Syok | ✔ | Official Website 
