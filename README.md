@@ -6,11 +6,11 @@ Playlist radio.
 | Nama Radio | Pemilik | Kategory | Kualiti | Lain Lain Platform | Apps | Youtube | Sumber |
 |---|---|---|---|---|---|---|---|
 | ERA | Astro Radio | Malay | AAC | ASTRO CH 856 | Syok  | ✔ | Official Website
-| HOT FM | Media Prima Audio | Malay | AAC | DIDIKTV NTV7 12AM TO 7AM EVERYDAY / TV3 130AM TO 230AM TUE TO SAT | audio+ / Joox | ✔ |  Official Website
+| HOT FM | Media Prima Audio | Malay | AAC | DIDIKTV NTV7 / TV3 | audio+ / Joox | ✔ |  Official Website
 | SURIA FM | Star Media Group | Malay | AAC | Unifi TV CH 958 | Joox | ✔ | Official Website 
 | SINAR | Astro Radio | Malay | AAC | ASTRO CH 857 | Syok | ✔ | Official Website  
 | GEGAR | Astro Radio | Malay | AAC | ASTRO CH 863 | Syok | ✔ | Official Website 
-| BULETIN FM | Media Prima Audio | Malay | AAC | ✘ | audio+  / Joox | ✔ | Official Website 
+| BULETIN FM | Media Prima Audio | Malay | AAC | TV9 | audio+  / Joox | ✔ | Official Website 
 | MOLEK FM | Media Prima Audio | Malay | AAC | ✘ | ✘| ✔ | Official Website 
 | BEST FM | Suara Johor| Malay | AAC | ✘ | ✘ | ✘ | Official Website
 | MANIS FM | Husa Network| Malay | AAC | ✘ | Sweet+ | ✘ | Official Website
@@ -38,7 +38,7 @@ Playlist radio.
 | ONE 913FM  | SPH Radio | English | AAC | ✘ | Awedio | ✘ | Official Website
 | KISS 92FM  | SPH Radio | English | AAC | ✘ | Awedio | ✘ | Official Website
 | MY | Astro Radio | Mandarin | AAC | ASTRO CH 853 | Syok  | ✔ | Official Website
-| 8FM | Media Prima Audio | Mandarin | AAC | ✘ | audio+ / Joox | ✔ | Official Website
+| 8FM | Media Prima Audio | Mandarin | AAC | 8TV  | audio+ / Joox | ✔ | Official Website
 | MELODY | Astro Radio | Mandarin | AAC | ASTRO CH 858 | Syok  | ✔ | Official Website
 | 988 FM | Star Media Group | Mandarin | AAC | Unifi TV CH 956 | Joox | ✘ | Official Website 
 | GO XUAN | Astro Radio | Mandarin | Youtube | ASTRO CH 877 | Syok  | ✔ | Youtube
