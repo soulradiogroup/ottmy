@@ -109,7 +109,7 @@ https://22893.live.streamtheworld.com/OLI968FM_PREM.aac
 #EXTINF:-1 tvg-chno="900" tvg-id="KBSWORLD" tvg-name="KBS WORLD Radio" tvg-logo="https://github.com/digitaldotmy/image/raw/main/KBSWorld.png" group-title="Korean",KBS WORLD Radio
 https://hls.rastream.com/astro-kbs-world
 #EXTINF:-1 tvg-chno="801" tvg-id="AWANI" tvg-name="ASTRO AWANI - #1 24-hour News Channel in Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="News & Business",ASTRO AWANI - #1 24-hour News Channel in Malaysia
-https://awanitv.akamaized.net/hls/live/2018478/Radio/stream05/streamPlaylist.m3u8
+https://awanitv.akamaized.net/hls/live/2018478/Radio/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-chno="802" tvg-id="CNA938" tvg-name="CNA 938FM - Singapore’s dedicated news and information radio station" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/CNA938.png" group-title="News & Business",CNA 938FM - Singapore’s dedicated news and information radio station
 https://22903.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1 tvg-chno="803" tvg-id="CAPITAL958" tvg-name="CAPITAL 958FM - Information Channel 1" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/capital958.png" group-title="News & Business",CAPITAL 958FM - Information Channel 1
