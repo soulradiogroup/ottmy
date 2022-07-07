@@ -200,5 +200,123 @@ https://redfmmobile.secureswiftcontent.com/rtm-ch043/rtm-ch043/chunklist.m3u8
 https://tawaufmmobile.secureswiftcontent.com/rtm-ch052/rtm-ch052/chunklist.m3u8
 #EXTINF:-1 tvg-chno="819" tvg-id="KENINGAUFM" tvg-name="KENINGAU FM - Hebat Syoknya" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/keningaufm.png" group-title="Variety",KENINGAU FM - Hebat Syoknya
 https://keningaufmmobile.secureswiftcontent.com/rtm-ch053/rtm-ch053/chunklist.m3u8
-#EXTINF:-1 tvg-chno="901" tvg-id="RSMY" tvg-name="Riang Raya - Muzik Raya Paling Hit Dan Lejen!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/RiangRaya.png" group-title="Featured Radio",Riang Raya - Muzik Raya Paling Hit Dan Lejen!
-#https://astro1.rastream.com/astro-riang-raya
+#EXTINF:-1 tvg-id="ERACINTAN" tvg-name="ERA CINTAN - Playlist Layan Perasaan Terbaik" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERACintan.png" group-title="SYOK",ERA CINTAN - Playlist Layan Perasaan Terbaik
+http://ingest2.astro1.rastream.com/astro-era-cintan
+#EXTINF:-1 tvg-id="ERATHON" tvg-name="ERA ERATHON - Muzik 'Workout' Terbaik" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERAErathon.png" group-title="SYOK",ERA ERATHON - Muzik 'Workout' Terbaik
+http://ingest2.astro4.rastream.com/astro-era-erathon
+#EXTINF:-1 tvg-id="ERAFLOW" tvg-name="ERA FLOW - Muzik Hip-hop Paling Lit" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERAFlow.png" group-title="SYOK",ERA FLOW - Muzik Hip-hop Paling Lit
+http://ingest2.astro1.rastream.com/astro-era-flow
+#EXTINF:-1 tvg-id="ERAINDIE" tvg-name="ERA INDIE - Platform Indie Terbaik" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERAIndie.png" group-title="SYOK",ERA INDIE - Platform Indie Terbaik
+http://ingest2.astro4.rastream.com/astro-era-indie
+#EXTINF:-1 tvg-id="ERAKHIT" tvg-name="ERA K-HIT - Muzik Kpop Paling Daebak!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERAKHit.png" group-title="SYOK",ERA K-HIT - Muzik Kpop Paling Daebak!
+http://ingest2.astro1.rastream.com/astro-era-khit
+#EXTINF:-1 tvg-id="ERANUROCK" tvg-name="ERA NUROCK - Rock On dengan muzik rock terbaik" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERANurock.png" group-title="SYOK",ERA NUROCK - Rock On dengan muzik rock terbaik
+http://ingest2.astro4.rastream.com/astro-era-nurock
+#EXTINF:-1 tvg-id="NUSANTERA" tvg-name="ERA NUSANTERA - Lagu Hit Keren Banget!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERANusantera.png" group-title="SYOK",ERA NUSANTERA - Lagu Hit Keren Banget!
+http://ingest2.astro2.rastream.com/astro-era-nusantera
+#EXTINF:-1 tvg-id="ERATHROWBAEK" tvg-name="ERA THROWBAEK- Throwback Lagu-lagu Thorbaekkk" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERAThrowbaek.png" group-title="SYOK",ERA THROWBAEK- Throwback Lagu-lagu Thorbaekkk
+http://ingest2.astro2.rastream.com/astro-era-throwbaek
+#EXTINF:-1 tvg-id="MYBEAT" tvg-name="MY DROP THE BEAT - Dance with Dance Beat" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MYDropTheBeat.png" group-title="SYOK",MY DROP THE BEAT - Dance with Dance Beat
+http://ingest2.astro1.rastream.com/astro-my-upbeat
+#EXTINF:-1 tvg-id="MYHIT" tvg-name="MY HIT SONGS - The hottest and best song list" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MYHitsSong.png" group-title="SYOK",MY HIT SONGS - The hottest and best song list
+http://ingest2.astro2.rastream.com/astro-my-pop
+#EXTINF:-1 tvg-id="MYROCK" tvg-name="MY LET"S ROCK! - Exciting rock music let's get excited together friends" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MYLetsRock.png" group-title="SYOK",MY LET"S ROCK! - Exciting rock music let's get excited together friends
+http://ingest2.astro3.rastream.com/astro-my-rock
+#EXTINF:-1 tvg-id="MYSINGALONG" tvg-name="MY SINGALONG SONGS - Sing boldly and loudly you are the queen of songs!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MYSingalong.png" group-title="SYOK",MY SINGALONG SONGS - Sing boldly and loudly you are the queen of songs!
+http://ingest2.astro3.rastream.com/astro-my-kara
+#EXTINF:-1 tvg-id="MYPOWERUP" tvg-name="MY POWER UP - The music channel that gives you the most energy" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MYPowerUp.png" group-title="SYOK",MY POWER UP - The music channel that gives you the most energy
+http://ingest2.astro4.rastream.com/astro-my-positive
+#EXTINF:-1 tvg-id="MYLOVEUU" tvg-name="MY LOVE UU - Love songs are the warmest full of love is the sweetest" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MYLoveUU.png" group-title="SYOK",MY LOVE UU - Love songs are the warmest full of love is the sweetest
+http://ingest2.astro4.rastream.com/astro-my-loveuu
+#EXTINF:-1 tvg-id="HITZTIKTOK" tvg-name="HITZ TIKTOK - Only the biggest Hits on TikTok" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HITZTiktok.png" group-title="SYOK",HITZ TIKTOK - Only the biggest Hits on TikTok
+http://ingest2.astro2.rastream.com/astro-hitz-tiktok
+#EXTINF:-1 tvg-id="HITZDANCE" tvg-name="HITZ DANCE - The place to dance to all your favorite hits" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HITZDance.png" group-title="SYOK",HITZ DANCE - The place to dance to all your favorite hits
+http://ingest2.astro3.rastream.com/astro-hitz-dance
+#EXTINF:-1 tvg-id="HITZURBAN" tvg-name="HITZ URBAN - The hottest RnB & Hip-Hop tracks of today" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HITZUrban.png" group-title="SYOK",HITZ URBAN - The hottest RnB & Hip-Hop tracks of today
+http://ingest2.astro1.rastream.com/astro-hitz-urban
+#EXTINF:-1 tvg-id="HITZWORKOUT" tvg-name="HITZ WORKOUT - Break a sweat and get your heart pumping with these hits" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HITZWorkout.png" group-title="SYOK",HITZ WORKOUT - Break a sweat and get your heart pumping with these hits
+http://ingest2.astro3.rastream.com/astro-hitz-workout
+#EXTINF:-1 tvg-id="HITZTOP40" tvg-name="HITZ TOP 40 - 40 of the biggest hottest hits right now" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HITZTop40.png" group-title="SYOK",HITZ TOP 40 - 40 of the biggest hottest hits right now
+http://ingest2.astro3.rastream.com/astro-hitz-top40
+#EXTINF:-1 tvg-id="HITZKPOP" tvg-name="HITZ KPOP - The hottest hits from your favorite hallyu stars" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HITZKPOP.png" group-title="SYOK",HITZ KPOP - The hottest hits from your favorite hallyu stars
+http://ingest2.astro1.rastream.com/astro-hitz-kpop
+#EXTINF:-1 tvg-id="HITZTHROWBACK" tvg-name="HITZ THROWBACK- Rewind time with these hits from 2010-2017" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HITZThrowback.png" group-title="SYOK",HITZ THROWBACK- Rewind time with these hits from 2010-2017
+http://ingest2.astro2.rastream.com/astro-hitz-throwback
+#EXTINF:-1 tvg-id="HITZCHILLEST" tvg-name="HITZ CHILLEST - Kickback & chill with all these acoustic and unplugged hits" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HITZChillest.png" group-title="SYOK",HITZ CHILLEST - Kickback & chill with all these acoustic and unplugged hits
+http://ingest2.astro2.rastream.com/astro-hitz-chillest
+#EXTINF:-1 tvg-id="HITZLOCAL" tvg-name="HITZ LOCAL- The best local hits" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HITZLocal.png" group-title="SYOK",HITZ LOCAL- The best local hits
+http://ingest2.astro3.rastream.com/astro-hitz-local
+#EXTINF:-1 tvg-id="ISAIMAZHAI" tvg-name="RAAGA ISAIMAZHAI - ...Kollywood’s best from the 2000s!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/RAAGAIsaiMazhai.png" group-title="SYOK",RAAGA ISAIMAZHAI - ...Kollywood’s best from the 2000s!
+http://ingest2.astro2.rastream.com/astro-raaga-isaimazhai
+#EXTINF:-1 tvg-id="BOLLY4U" tvg-name="RAAGA BOLLY4U - Greatest Bollywood Hits 4 U!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/RAAGABolly4u.png" group-title="SYOK",RAAGA BOLLY4U - Greatest Bollywood Hits 4 U!
+http://ingest2.astro3.rastream.com/astro-raaga-bolly4u
+#EXTINF:-1 tvg-id="RAAGA80" tvg-name="RAAGA EVERGREEN 80'S - Bringing back the Classics" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/RAAGAEvergreen80's.png" group-title="SYOK",RAAGA EVERGREEN 80'S - Bringing back the Classics
+http://ingest2.astro3.rastream.com/astro-raaga-80
+#EXTINF:-1 tvg-id="RAAGA90" tvg-name="RAAGA 90'S HITS - Just the way you like it!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/RAAGA90'sHits.png" group-title="SYOK",RAAGA 90'S HITS - Just the way you like it!
+http://ingest2.astro4.rastream.com/astro-raaga-90
+#EXTINF:-1 tvg-id="NAMBEAREA" tvg-name="RAAGA NAMBEAREA (MALAYSIAN MUSIC) - A celebration of Malaysian Music!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/RAAGANambeArea.png" group-title="SYOK",RAAGA NAMBEAREA (MALAYSIAN MUSIC) - A celebration of Malaysian Music!
+http://ingest2.astro4.rastream.com/astro-raaga-nambe
+#EXTINF:-1 tvg-id="SINARROCK" tvg-name="SINAR ROCK KAPAK - Muzik Rock Terpaling Legend" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SINARRockKapak.png" group-title="SYOK",SINAR ROCK KAPAK - Muzik Rock Terpaling Legend
+http://ingest2.astro1.rastream.com/astro-sinar-rock
+#EXTINF:-1 tvg-id="SINARJIWANG" tvg-name="SINAR JIWANG - Lagu Cinta Paling Layan" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SINARJiwang.png" group-title="SYOK",SINAR JIWANG - Lagu Cinta Paling Layan
+http://ingest2.astro1.rastream.com/astro-sinar-jiwang
+#EXTINF:-1 tvg-id="SINAR70" tvg-name="SINAR IRAMA 70' -Irama Lagu 70'an" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SINARIrama70'.png" group-title="SYOK",SINAR IRAMA 70' -Irama Lagu 70'an
+http://ingest2.astro1.rastream.com/astro-sinar-70
+#EXTINF:-1 tvg-id="SINAR80" tvg-name="SINAR IRAMA 80' - Irama Lagu 80'an" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SINARIrama80'.png" group-title="SYOK",SINAR IRAMA 80' - Irama Lagu 80'an
+http://ingest2.astro2.rastream.com/astro-sinar-80
+#EXTINF:-1 tvg-id="IRAMALAYSIA" tvg-name="SINAR IRAMALAYSIA - Muzik Irama Malaysia" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SINARIraMalaysia.png" group-title="SYOK",SINAR IRAMALAYSIA - Muzik Irama Malaysia
+http://ingest2.astro2.rastream.com/astro-sinar-iramalaysia
+#EXTINF:-1 tvg-id="SINARIMUSIK" tvg-name="SINAR I-MUSIK - Muzik Indonesia Paling Keren" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SINARIMusik.png" group-title="SYOK",SINAR I-MUSIK - Muzik Indonesia Paling Keren
+http://ingest2.astro4.rastream.com/astro-sinar-imusik
+#EXTINF:-1 tvg-id="SINARSINEMA" tvg-name="SINAR SINEMA - Pilihan OST Paling Mantap" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SINARSinema.png" group-title="SYOK",SINAR SINEMA - Pilihan OST Paling Mantap
+http://ingest2.astro4.rastream.com/astro-sinar-sinema
+#EXTINF:-1 tvg-id="POPYEHYEH" tvg-name="SINAR POP YEH YEH - Lagu-lagu Pop Yeh Yeh" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SINARPopYehYeh.png" group-title="SYOK",SINAR POP YEH YEH - Lagu-lagu Pop Yeh Yeh
+http://ingest2.astro4.rastream.com/astro-sinar-popyehyeh
+#EXTINF:-1 tvg-id="MIXDANCE" tvg-name="MIX DANCE ANTHEMS - The greatest club anthems all in one playlist" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MIXDanceAnthems.png" group-title="MIX",MIX DANCE ANTHEMS - The greatest club anthems all in one playlist
+http://ingest2.astro1.rastream.com/astro-mix-dance
+#EXTINF:-1 tvg-id="MIX90" tvg-name="MIX 90'S MIX TAPE - From Boybands to grunge all your 90s essentials in one playlist" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MIX90'SMixTape.png" group-title="MIX",MIX 90'S MIX TAPE - From Boybands to grunge all your 90s essentials in one playlist
+http://ingest2.astro2.rastream.com/astro-mix-90
+#EXTINF:-1 tvg-id="MIXLOVESONGS" tvg-name="MIX LOVESONGS - From power ballads romantic R&B and modern hip-hop this is the ultimate romatic playlist" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MIXLoveSongs.png" group-title="MIX",MIX LOVESONGS - From power ballads romantic R&B and modern hip-hop this is the ultimate romatic playlist
+http://ingest2.astro3.rastream.com/astro-mix-lovesongs
+#EXTINF:-1 tvg-id="HINDIPOWER" tvg-name="GEGAR HINDI POWER - Muzik Bollywood Paling POWER" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/GEGARHindiPower.png" group-title="SYOK",GEGAR HINDI POWER - Muzik Bollywood Paling POWER
+http://ingest2.astro1.rastream.com/astro-gegar-hindi
+#EXTINF:-1 tvg-id="TRADISI" tvg-name="GEGAR TRADISI - Alunan Tradisional Sepanjang Zaman" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/GEGARTradisi.png" group-title="SYOK",GEGAR TRADISI - Alunan Tradisional Sepanjang Zaman
+http://ingest2.astro1.rastream.com/astro-gegar-tradisi
+#EXTINF:-1 tvg-id="HOHBTABUH" tvg-name="GEGAR HOH BTABUH - Hiburan Berjiwa Rakyat" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/GEGARHohBtabuh.png" group-title="SYOK",GEGAR HOH BTABUH - Hiburan Berjiwa Rakyat
+https://vobook.ru/http://ingest2.astro2.rastream.com/astro-gegar-hohbtabuh
+#EXTINF:-1 tvg-id="MAGHIGELEK" tvg-name="GEGAR MAGHI GELEK- Lagu Dangdut Perancak Hari" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/GEGARMaghiGelek.png" group-title="SYOK",GEGAR MAGHI GELEK- Lagu Dangdut Perancak Hari
+http://ingest2.astro2.rastream.com/astro-gegar-maghigelek
+#EXTINF:-1 tvg-id="LITE70" tvg-name="LITE YOUR 70'S FAVOURITE - Relax with these classics from the 70s" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/LITEYour70sFavourites.png" group-title="SYOK",LITE YOUR 70'S FAVOURITE - Relax with these classics from the 70s
+http://ingest2.astro1.rastream.com/astro-lite-70
+#EXTINF:-1 tvg-id="LITE80" tvg-name="LITE 80'S SING-ALONGS - Sing your heart out to these 80s classics" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/LITE80'sSingAlongs.png" group-title="SYOK",LITE 80'S SING-ALONGS - Sing your heart out to these 80s classics
+http://ingest2.astro2.rastream.com/astro-lite-80
+#EXTINF:-1 tvg-id="LITEACOUSTIC" tvg-name="LITE ACOUSTIC - Unwind with these stripped down and unplugged relaxing favourites" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/LITEAcoustic.png" group-title="SYOK",LITE ACOUSTIC - Unwind with these stripped down and unplugged relaxing favourites
+http://ingest2.astro4.rastream.com/astro-lite-acoustic
+#EXTINF:-1 tvg-id="MELODYLOVESONG" tvg-name="MELODY CHI CLASSIC LOVE SONGS - Welcome to the exclusive area of LOVE SONGS" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MELODYLoveSongs.png" group-title="SYOK",MELODY CHI CLASSIC LOVE SONGS - Welcome to the exclusive area of LOVE SONGS
+http://ingest2.astro2.rastream.com/astro-melody-love
+#EXTINF:-1 tvg-id="MELODY90" tvg-name="MELODY CHI CLASSIC 90 - Indelible musical memory of the 90s" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MELODY90'.png" group-title="SYOK",MELODY CHI CLASSIC 90 - Indelible musical memory of the 90s
+http://ingest2.astro3.rastream.com/astro-melody-90
+#EXTINF:-1 tvg-id="MELODYOST" tvg-name="MELODY CHI CLASSIC OST - In those years the movies and TV series songs we chased together" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MELODYOST.png" group-title="SYOK",MELODY CHI CLASSIC OST - In those years the movies and TV series songs we chased together
+http://ingest2.astro3.rastream.com/astro-melody-ost
+#EXTINF:-1 tvg-id="MELODY70" tvg-name="MELODY CHI CLASSIC 70 - A music channel that collects classic songs from the 70s" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MELODY70'.png" group-title="SYOK",MELODY CHI CLASSIC 70 - A music channel that collects classic songs from the 70s
+http://ingest2.astro4.rastream.com/astro-melody-70
+#EXTINF:-1 tvg-id="MELODY80" tvg-name="MELODY CHI CLASSIC 80 - The immortal golden songs of the 80s are all here" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MELODY80'.png" group-title="SYOK",MELODY CHI CLASSIC 80 - The immortal golden songs of the 80s are all here
+http://ingest2.astro4.rastream.com/astro-melody-80
+#EXTINF:-1 tvg-id="NASYEED" tvg-name="ZAYAN NASYEED - Koleksi Lagu-lagu Nasyeed popular dan terbaik sepanjang zaman" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ZAYANNasyeed.png" group-title="SYOK",ZAYAN NASYEED - Koleksi Lagu-lagu Nasyeed popular dan terbaik sepanjang zaman
+http://ingest2.astro1.rastream.com/astro-zayan-nasyeed
+#EXTINF:-1 tvg-id="SURAH" tvg-name="ZAYAN SURAH - Pilihan Surah Al-Quran" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ZAYANSurah.png" group-title="SYOK",ZAYAN SURAH - Pilihan Surah Al-Quran
+http://ingest2.astro1.rastream.com/astro-zayan-surah
+#EXTINF:-1 tvg-id="ADAM" tvg-name="ZAYAN ADAM TUNES - Koleksi Lagu Muslimin Terbaik" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ZAYANAdamTunes.png" group-title="SYOK",ZAYAN ADAM TUNES - Koleksi Lagu Muslimin Terbaik
+http://ingest2.astro3.rastream.com/astro-zayan-adam
+#EXTINF:-1 tvg-id="HAWA" tvg-name="ZAYAN HAWA TUNES - Pilihan Lagu Muslimah Terindah" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ZAYANHawaTunes.png" group-title="SYOK",ZAYAN HAWA TUNES - Pilihan Lagu Muslimah Terindah
+http://ingest2.astro3.rastream.com/astro-zayan-hawa
+#EXTINF:-1 tvg-id="ALMUSIKA" tvg-name="ZAYAN ALMUSIKA - Pilihan lagu lagu Arab terindah untuk anda" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ZAYANAlmusika.png" group-title="SYOK",ZAYAN ALMUSIKA - Pilihan lagu lagu Arab terindah untuk anda
+http://ingest2.astro4.rastream.com/astro-zayan-almusika
+#EXTINF:-1 tvg-id="GOXUANTRENDING" tvg-name="GOXUAN TRENDING - GOXUAN Trending C-Pop" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/GOXUANTrending.png" group-title="SYOK",GOXUAN TRENDING - GOXUAN Trending C-Pop
+http://ingest2.astro2.rastream.com/astro-goxuan-trending
+#EXTINF:-1 tvg-id="GOXUANKPOP" tvg-name="GOXUAN GO KPOP - GOXUAN Kpop" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/GOXUANGOKPOP.png" group-title="SYOK",GOXUAN GO KPOP - GOXUAN Kpop
+http://ingest2.astro3.rastream.com/astro-goxuan-kpop
+#EXTINF:-1 tvg-id="GOXUANOST" tvg-name="GOXUAN OST - GOXUAN King of OST" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/GOXUANOST.png" group-title="SYOK",GOXUAN OST - GOXUAN King of OST
+http://ingest2.astro3.rastream.com/astro-goxuan-ost
+#EXTINF:-1 tvg-id="GOXUANTIKTOK" tvg-name="GOXUAN TIKTOK- GOXUAN Tik Tok Hits" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/GOXUANTiktok.png" group-title="SYOK",GOXUAN TIKTOK- GOXUAN Tik Tok Hits
+http://ingest2.astro4.rastream.com/astro-goxuan-tiktok
