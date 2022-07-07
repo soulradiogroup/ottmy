@@ -100,4 +100,63 @@ Playlist radio.
 | PELANGI FM | Radio Televisyen Brunei | Malay | AAC | ✘ | RTBGo | ✘ | Official Website
 | HARMONI FM | Radio Televisyen Brunei | Malay | AAC | ✘ | RTBGo | ✘ | Official Website
 | NUR ISLAM FM | Radio Televisyen Brunei | Religion | AAC | ✘ | RTBGo | ✘ | Official Website
-
+| ERA CINTAN| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| ERA ERATHON| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| ERA FLOW| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| ERA INDIE| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| ERA K-HIT| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| ERA NUROCK | Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| ERA NUSANTERA | Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| ERA THROWBAEK| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| MY DROP THE BEAT | Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| MY HIT SONGS| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| MY LET"S ROCK| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| MY SINGALONG SONGS| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| MY POWER UP| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| MY LOVE UU| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| HITZ TIKTOK| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| HITZ DANCE| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| HITZ URBAN| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| HITZ WORKOUT| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| HITZ TOP 40| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| HITZ KPOP| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| HITZ THROWBACK| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| HITZ CHILLEST| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| HITZ LOCAL| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| RAAGA ISAIMAZHAI| Astro Radio | Tamil | AAC | ✘ | Syok  | ✘ | Official Website
+| RAAGA BOLLY4U| Astro Radio | Tamil | AAC | ✘ | Syok  | ✘ | Official Website
+| RAAGA EVERGREEN 80'S| Astro Radio | Tamil | AAC | ✘ | Syok  | ✘ | Official Website
+| RAAGA 90'S HITS| Astro Radio | Tamil | AAC | ✘ | Syok  | ✘ | Official Website
+| RAAGA NAMBEAREA (MALAYSIAN MUSIC)| Astro Radio | Tamil | AAC | ✘ | Syok  | ✘ | Official Website
+| SINAR ROCK KAPAK| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| SINAR JIWANG| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| SINAR IRAMA 70'| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| SINAR IRAMA 80'| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| SINAR IRAMALAYSIA| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| SINAR I-MUSIK| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| SINAR SINEMA| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| SINAR POP YEH YEH| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| MIX DANCE ANTHEMS| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| MIX 90'S MIX TAPE| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| MIX LOVESONGS| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| GEGAR HINDI POWER| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| GEGAR TRADISI| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| GEGAR HOH BTABUH | Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| GEGAR MAGHI GELEK | Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| LITE YOUR 70'S FAVOURITE| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| LITE 80'S SING-ALONGS| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| LITE ACOUSTIC| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| MELODY CHI CLASSIC LOVE SONGS| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| MELODY CHI CLASSIC 90| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| MELODY CHI CLASSIC OST| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| MELODY CHI CLASSIC 70| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| MELODY CHI CLASSIC 80| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| ZAYAN NASYEED| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| ZAYAN SURAH| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| ZAYAN ADAM TUNES| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| ZAYAN HAWA TUNES| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| ZAYAN ALMUSIKA| Astro Radio | Malay | AAC | ✘ | Syok  | ✘ | Official Website
+| GOXUAN TRENDING| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| GOXUAN GO KPOP| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| GOXUAN OST| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
+| GOXUAN TIKTOK| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
