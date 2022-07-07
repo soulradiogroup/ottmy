@@ -200,6 +200,7 @@ https://redfmmobile.secureswiftcontent.com/rtm-ch043/rtm-ch043/chunklist.m3u8
 https://tawaufmmobile.secureswiftcontent.com/rtm-ch052/rtm-ch052/chunklist.m3u8
 #EXTINF:-1 tvg-chno="819" tvg-id="KENINGAUFM" tvg-name="KENINGAU FM - Hebat Syoknya" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/keningaufm.png" group-title="Variety",KENINGAU FM - Hebat Syoknya
 https://keningaufmmobile.secureswiftcontent.com/rtm-ch053/rtm-ch053/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ERACINTAN" tvg-name="ERA CINTAN - Playlist Layan Perasaan Terbaik" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERACintan.png" group-title="SYOK",ERA CINTAN - Playlist Layan Perasaan Terbaik
 http://ingest2.astro1.rastream.com/astro-era-cintan
 #EXTINF:-1 tvg-id="ERATHON" tvg-name="ERA ERATHON - Muzik 'Workout' Terbaik" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERAErathon.png" group-title="SYOK",ERA ERATHON - Muzik 'Workout' Terbaik
@@ -272,11 +273,11 @@ http://ingest2.astro4.rastream.com/astro-sinar-imusik
 http://ingest2.astro4.rastream.com/astro-sinar-sinema
 #EXTINF:-1 tvg-id="POPYEHYEH" tvg-name="SINAR POP YEH YEH - Lagu-lagu Pop Yeh Yeh" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SINARPopYehYeh.png" group-title="SYOK",SINAR POP YEH YEH - Lagu-lagu Pop Yeh Yeh
 http://ingest2.astro4.rastream.com/astro-sinar-popyehyeh
-#EXTINF:-1 tvg-id="MIXDANCE" tvg-name="MIX DANCE ANTHEMS - The greatest club anthems all in one playlist" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MIXDanceAnthems.png" group-title="MIX",MIX DANCE ANTHEMS - The greatest club anthems all in one playlist
+#EXTINF:-1 tvg-id="MIXDANCE" tvg-name="MIX DANCE ANTHEMS - The greatest club anthems all in one playlist" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MIXDanceAnthems.png" group-title="SYOK",MIX DANCE ANTHEMS - The greatest club anthems all in one playlist
 http://ingest2.astro1.rastream.com/astro-mix-dance
-#EXTINF:-1 tvg-id="MIX90" tvg-name="MIX 90'S MIX TAPE - From Boybands to grunge all your 90s essentials in one playlist" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MIX90'SMixTape.png" group-title="MIX",MIX 90'S MIX TAPE - From Boybands to grunge all your 90s essentials in one playlist
+#EXTINF:-1 tvg-id="MIX90" tvg-name="MIX 90'S MIX TAPE - From Boybands to grunge all your 90s essentials in one playlist" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MIX90'SMixTape.png" group-title="SYOK",MIX 90'S MIX TAPE - From Boybands to grunge all your 90s essentials in one playlist
 http://ingest2.astro2.rastream.com/astro-mix-90
-#EXTINF:-1 tvg-id="MIXLOVESONGS" tvg-name="MIX LOVESONGS - From power ballads romantic R&B and modern hip-hop this is the ultimate romatic playlist" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MIXLoveSongs.png" group-title="MIX",MIX LOVESONGS - From power ballads romantic R&B and modern hip-hop this is the ultimate romatic playlist
+#EXTINF:-1 tvg-id="MIXLOVESONGS" tvg-name="MIX LOVESONGS - From power ballads romantic R&B and modern hip-hop this is the ultimate romatic playlist" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MIXLoveSongs.png" group-title="SYOK",MIX LOVESONGS - From power ballads romantic R&B and modern hip-hop this is the ultimate romatic playlist
 http://ingest2.astro3.rastream.com/astro-mix-lovesongs
 #EXTINF:-1 tvg-id="HINDIPOWER" tvg-name="GEGAR HINDI POWER - Muzik Bollywood Paling POWER" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/GEGARHindiPower.png" group-title="SYOK",GEGAR HINDI POWER - Muzik Bollywood Paling POWER
 http://ingest2.astro1.rastream.com/astro-gegar-hindi
@@ -320,3 +321,4 @@ http://ingest2.astro3.rastream.com/astro-goxuan-kpop
 http://ingest2.astro3.rastream.com/astro-goxuan-ost
 #EXTINF:-1 tvg-id="GOXUANTIKTOK" tvg-name="GOXUAN TIKTOK- GOXUAN Tik Tok Hits" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/GOXUANTiktok.png" group-title="SYOK",GOXUAN TIKTOK- GOXUAN Tik Tok Hits
 http://ingest2.astro4.rastream.com/astro-goxuan-tiktok
+
