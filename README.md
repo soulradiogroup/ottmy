@@ -159,4 +159,4 @@ Playlist radio.
 | GOXUAN TRENDING| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
 | GOXUAN GO KPOP| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
 | GOXUAN OST| Astro Radio | Mandarin | AAC | ✘ | Syok  | ✘ | Official Website
-| GOXUAN TIKTOK| Astro Radio | English | AAC | ✘ | Syok | ✘ | Official Website
+| GOXUAN TIKTOK| Astro Radio | Mandarin | AAC | ✘ | Syok | ✘ | Official Website
