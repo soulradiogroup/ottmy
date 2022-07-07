@@ -23,7 +23,7 @@ https://19183.live.streamtheworld.com/RIA897FM_PREM.aac
 #EXTINF:-1 tvg-chno="111" tvg-id="WARNA" tvg-name="WARNA 942FM - Serentak Semasa" tvg-logo="https://static.wixstatic.com/media/0064cc_00f45d40df87431bba7e635e6a01ec77~mv2.png" group-title="Malay",WARNA 942FM - Serentak Semasa
 http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
 #EXTINF:-1 tvg-chno="112" tvg-id="ZAYAN" tvg-name="ZAYAN - Destinasi Nasyid Anda" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Zayan.png" group-title="Malay",ZAYAN - Destinasi Nasyid Anda
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HYbBRGXLCU0
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EgViQ1QOLPM
 #EXTINF:-1 tvg-chno="113" tvg-id="RAKITA" tvg-name="RAKITA - Muzik Paling Lit" tvg-logo="https://rakita.my/images/new_logo.png" group-title="Malay",RAKITA - Muzik Paling Lit
 https://23683.live.streamtheworld.com/RAKITAAAC.aac
 #EXTINF:-1 tvg-chno="114" tvg-id="NASFM" tvg-name="NASIONAL FM - Sentiasa Di Hati" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png" group-title="Malay",NASIONAL FM - Sentiasa Di Hati
@@ -55,7 +55,7 @@ http://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 tvg-chno="203" tvg-id="MIX" tvg-name="MIX  - Today’s Best Music" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" group-title="English",MIX  - Today’s Best Music
 http://astro2.rastream.com:80/mix
 #EXTINF:-1 tvg-chno="204" tvg-id="LITE" tvg-name="LITE - Your Relaxing Favourites" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/lite.png" group-title="English",LITE - Your Relaxing Favourites
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/PCf1bB3OrzI
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=l1zr_ggc_rw
 #EXTINF:-1 tvg-chno="205" tvg-id="TRAXX" tvg-name="TRAXX FM - Experience the Excitement" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" group-title="English",TRAXX FM - Experience the Excitement
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
 #EXTINF:-1 tvg-chno="206" tvg-id="HITZSABAH" tvg-name="HITZ SABAH - Malaysia's #1 Hit Station" tvg-logo="https://github.com/digitaldotmy/image/raw/main/HITZSABAH.png" group-title="English",HITZ SABAH - Malaysia's #1 Hit Station
@@ -85,7 +85,7 @@ http://astro3.rastream.com/melody
 #EXTINF:-1 tvg-chno="304" tvg-id="988" tvg-name="988 - Persistence. Dare to speak" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/988.png" group-title="Chinese",988 - Persistence. Dare to speak
 http://23683.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1 tvg-chno="305" tvg-id="GOXUAN" tvg-name="GO XUAN - Go Fun" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/goxuan.png" group-title="Chinese",GO XUAN - Go Fun
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/FlR2qAvG5GU
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=g0bYVo4BU0g
 #EXTINF:-1 tvg-chno="306" tvg-id="AIFM" tvg-name="AI FM - Love Freedom" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/aifm.png" group-title="Chinese",AI FM - Love Freedom
 https://aifmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
 #EXTINF:-1 tvg-chno="307" tvg-id="MYSABAH" tvg-name="MY SABAH - So Much Fun!" tvg-logo="https://github.com/digitaldotmy/image/raw/main/MYSABAH.png" group-title="Chinese",MY SABAH - So Much Fun!
