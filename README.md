@@ -3,7 +3,7 @@ Playlist radio.
 
 
 
-| Nama Radio | Pemilik | Kategory | Kualiti | Lain Lain Platform | Apps | Youtube | Sumber |
+| Radio Name | Owner | Category | Quality | Other Platform | Apps | Youtube | Source |
 |---|---|---|---|---|---|---|---|
 | ERA | Astro Radio | Malay | AAC | ASTRO CH 856 | Syok  | ✔ | Official Website
 | HOT FM | Media Prima Audio | Malay | AAC | DIDIKTV NTV7 / TV3 | audio+ / Joox | ✔ |  Official Website
