@@ -160,6 +160,6 @@ Playlist radio.
 | RAAGA EVERGREEN 80'S| Astro Radio | Tamil | AAC | ✘ | Syok  | ✘ | Official Website
 | RAAGA 90'S HITS| Astro Radio | Tamil | AAC | ✘ | Syok  | ✘ | Official Website
 | RAAGA NAMBEAREA (MALAYSIAN MUSIC)| Astro Radio | Tamil | AAC | ✘ | Syok  | ✘ | Official Website
-| CATS FM| Kristal Harta Sdn. Bhd | Variety | MP3 | ✘ | Cats FM  | ✘ | Official Website
+| CATS FM| Kristal Harta| Variety | MP3 | ✘ | Cats FM  | ✘ | Official Website
 
 
