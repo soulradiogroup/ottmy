@@ -60,7 +60,7 @@ http://mediaprima.rastream.com/mediaprima-flyfm
 http://astro2.rastream.com:80/mix
 #EXTINF:-1 tvg-chno="204" tvg-id="LITE" tvg-name="LITE - Your Relaxing Favourites" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/lite.png" group-title="English",LITE - Your Relaxing Favourites
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/PCf1bB3OrzI
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Lite.m3u8
+http://astro1.rastream.com/lite-airasia
 #EXTINF:-1 tvg-chno="205" tvg-id="TRAXX" tvg-name="TRAXX FM - Experience the Excitement" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" group-title="English",TRAXX FM - Experience the Excitement
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
 #EXTINF:-1 tvg-chno="206" tvg-id="HITZSABAH" tvg-name="HITZ SABAH - Malaysia's #1 Hit Station" tvg-logo="https://github.com/digitaldotmy/image/raw/main/HITZSABAH.png" group-title="English",HITZ SABAH - Malaysia's #1 Hit Station
@@ -91,7 +91,7 @@ http://astro3.rastream.com/melody
 http://23683.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1 tvg-chno="305" tvg-id="GOXUAN" tvg-name="GO XUAN - Go Fun" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/goxuan.png" group-title="Chinese",GO XUAN - Go Fun
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/FlR2qAvG5GU
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/GoXuan.m3u8
+https://astro1.rastream.com/astro-goxuan-airasia
 #EXTINF:-1 tvg-chno="306" tvg-id="AIFM" tvg-name="AI FM - Love Freedom" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/aifm.png" group-title="Chinese",AI FM - Love Freedom
 https://aifmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
 #EXTINF:-1 tvg-chno="307" tvg-id="MYSABAH" tvg-name="MY SABAH - So Much Fun!" tvg-logo="https://github.com/digitaldotmy/image/raw/main/MYSABAH.png" group-title="Chinese",MY SABAH - So Much Fun!
