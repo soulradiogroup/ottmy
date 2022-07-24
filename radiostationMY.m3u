@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="RSMY" tvg-name="radiostationMY Channel List" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/digitalmylogo.png" group-title="INFO",radiostationMY Channel List
-https://video.wixstatic.com/video/9b91f3_76d44c1f01b44189a43df08f847be537/1080p/mp4/file.mp4&raw=true
+#https://video.wixstatic.com/video/9b91f3_76d44c1f01b44189a43df08f847be537/1080p/mp4/file.mp4
 #EXTINF:-1 tvg-id="ERA" tvg-name="ERA - Muzik Hit Terkini" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERA.png" group-title="Malay",ERA - Muzik Hit Terkini
 http://astro2.rastream.com:80/era
 #EXTINF:-1 tvg-id="SINAR" tvg-name="SINAR - Menyinari Hidupmu" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SINAR.png" group-title="Malay",SINAR - Menyinari Hidupmu
