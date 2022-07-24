@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" url-tvg="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" refresh="1440"
 
 
-
 #EXTINF:-1 tvg-id="RSMY" tvg-name="radiostationMY Channel List" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/digitalmylogo.png" group-title="Info",radiostationMY Channel List
 https://video.wixstatic.com/video/9b91f3_76d44c1f01b44189a43df08f847be537/1080p/mp4/file.mp4
 #EXTINF:-1 tvg-id="ERA" tvg-name="ERA - Muzik Hit Terkini" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERA.png" group-title="Malay",ERA - Muzik Hit Terkini
@@ -70,14 +69,14 @@ https://astro1.rastream.com/amp-hitz-kk
 https://astro1.rastream.com/amp-hitz-kch
 #EXTINF:-1 tvg-id="987" tvg-name="987 FM - Singapore's #1 Hit Music Station!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/987.png" group-title="English",987 FM - Singapore's #1 Hit Music Station!
 https://19183.live.streamtheworld.com/987FM_PREM.aac
+#EXTINF:-1 tvg-id="KISS92" tvg-name="KISS 92FM - All The Great Songs In One Place!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/kiss92fm.png" group-title="English",KISS 92FM - All The Great Songs In One Place!
+https://22253.live.streamtheworld.com/KISS_92AAC.aac
 #EXTINF:-1 tvg-id="CLASS95" tvg-name="CLASS 95FM - The Best Mix Of Music" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Class95.png" group-title="English",CLASS 95FM - The Best Mix Of Music
 https://19183.live.streamtheworld.com/CLASS95AAC_SC
 #EXTINF:-1 tvg-id="GOLD905" tvg-name="GOLD 905FM - Sounds Good Feels Good" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Gold905.png" group-title="English",GOLD 905FM - Sounds Good Feels Good
 https://22403.live.streamtheworld.com/GOLD905_PREM.aac
 #EXTINF:-1 tvg-id="ONE913" tvg-name="ONE 913FM - Good Times Greatest Hits" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/one%20fm%20sg.png" group-title="English",ONE 913FM - Good Times Greatest Hits
 https://23683.live.streamtheworld.com/ONE_FM_913AAC.aac
-#EXTINF:-1 tvg-id="KISS92" tvg-name="KISS 92FM - All The Great Songs In One Place!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/kiss92fm.png" group-title="English",KISS 92FM - All The Great Songs In One Place!
-https://22253.live.streamtheworld.com/KISS_92AAC.aac
 #EXTINF:-1 tvg-id="REDRADIO" tvg-name="RED RADIO - Southeast Asian travel food music and everything in between." tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/redradio.png" group-title="English",RED RADIO - Southeast Asian travel food music and everything in between.
 https://astro3.rastream.com/astro-red-radio
 #EXTINF:-1 tvg-id="STATIONPLUS" tvg-name="Station Plus Radio - Your Best Music" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Stationplus_Radio_white-.png" group-title="English",Station Plus Radio - Your Best Music
