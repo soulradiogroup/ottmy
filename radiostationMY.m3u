@@ -325,11 +325,11 @@ http://ingest2.astro4.rastream.com/astro-raaga-90
 #EXTINF:-1 tvg-id="NAMBEAREA" tvg-name="RAAGA NAMBEAREA (MALAYSIAN MUSIC) - A celebration of Malaysian Music!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/RAAGANambeArea.png" group-title="SYOK",RAAGA NAMBEAREA (MALAYSIAN MUSIC) - A celebration of Malaysian Music!
 http://ingest2.astro4.rastream.com/astro-raaga-nambe
 #EXTINF:-1 tvg-id="RSMY" tvg-name="PRAMBOS FM - Indonesia #1 Hit Music Station" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Prambosfm.png" group-title="Indonesia",PRAMBOS FM - Indonesia #1 Hit Music Station
-https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3
 #EXTINF:-1 tvg-id="RSMY" tvg-name="GEN FM JAKARTA - Pilihan Terbaik" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/genfm%20jakarta.jpg" group-title="Indonesia",GEN FM JAKARTA - Pilihan Terbaik
-https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
+#https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
 #EXTINF:-1 tvg-id="RSMY" tvg-name="GEN FM SURABAYA - Wani Pol!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/genfm%20surabaya.jpg" group-title="Indonesia",GEN FM SURABAYA - Wani Pol!
-https://wz.mari.co.id:1936/web_genfmsby/gensbyic.stream/playlist.m3u8
+#https://wz.mari.co.id:1936/web_genfmsby/gensbyic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RSMY" tvg-name="I RADIO JAKARTA" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/iradio%20Jakarta.png" group-title="Indonesia",I RADIO JAKARTA
 https://n0b.radiojar.com/4ywdgup3bnzuv?1658979604=&rj-tok=AAABgkLtBg8AlF6bU_VZO0X8hQ&rj-ttl=5
 #EXTINF:-1 tvg-id="RSMY" tvg-name="Dreamers Radio" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Dreamers.png" group-title="Indonesia",Dreamers Radio
