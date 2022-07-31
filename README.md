@@ -88,7 +88,6 @@ Playlist radio.
 | KENYALANG | Astro Radio | Malay | AAC | ASTRO CH 868 | Syok | ✘ | Official Website
 | SYMPHONY 924FM  | Mediacorp | MUSIC | AAC | ✘ | MeListen | ✘ | Official Website
 | SABAHV FM | Radio Televisyen Malaysia | Variety | AAC | ASTRO CH 870 / MYTV CH 708 | RTM Klik | ✘ | Official Website
-| WAI FM | Radio Televisyen Malaysia | Variety | AAC | ASTRO CH 871 / MYTV CH 710 | RTM Klik | ✘ | Official Website 
 | WAI FM IBAN | Radio Televisyen Malaysia | Variety | AAC | ✘ | RTM Klik | ✘ | Official Website
 | WAI FM BIDAYUH | Radio Televisyen Malaysia | Variety | AAC | ✘ | RTM Klik | ✘ | Official Website
 | RED FM | Radio Televisyen Malaysia | Variety | AAC | MYTV CH 707 | RTM Klik | ✘ | Official Website
@@ -160,6 +159,6 @@ Playlist radio.
 | RAAGA EVERGREEN 80'S| Astro Radio | Tamil | AAC | ✘ | Syok  | ✘ | Official Website
 | RAAGA 90'S HITS| Astro Radio | Tamil | AAC | ✘ | Syok  | ✘ | Official Website
 | RAAGA NAMBEAREA (MALAYSIAN MUSIC)| Astro Radio | Tamil | AAC | ✘ | Syok  | ✘ | Official Website
-| CATS FM| Kristal Harta| Variety | MP3 | ✘ | Cats FM  | ✘ | Official Website
-
-
+| PRAMBOS FM| Masimo Radio Network| Variety | MP3 | ✘ | Prambos  | ✘ | Official Website
+| IRADIO JAKARTA|  MRA Media| Variety | AAC | ✘ | iRadio  | ✘ | Official Website
+| DREAMERS RADIO| Dreamers Network | Variety | MP3 | ✘ | ✘  | ✘ | Official Website
