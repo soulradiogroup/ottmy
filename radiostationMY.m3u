@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" url-tvg="https://raw.githubusercontent.com/digitaldotmy/ottmy/main/RadioStationMY.xml" refresh="1440"
 
-
-#EXTINF:-1 tvg-id="RSMY" group-title="INFO" ch-number="1" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/digitalmylogo.png",radiostationMY Channel List
+#EXTINF:-1 tvg-id="RSMY" tvg-name="radiostationMY Channel List" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/digitalmylogo.png" group-title="INFO",radiostationMY Channel List
 https://video.wixstatic.com/video/9b91f3_76d44c1f01b44189a43df08f847be537/1080p/mp4/file.mp4
 #EXTINF:-1 tvg-id="ERA" tvg-name="ERA - Muzik Hit Terkini" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERA.png" group-title="Malay",ERA - Muzik Hit Terkini
 http://astro2.rastream.com:80/era
@@ -10,7 +9,6 @@ http://astro2.rastream.com:80/sinar
 #EXTINF:-1 tvg-id="HOTFM" tvg-name="HOT FM - Kini Lebih Muzik Yang Hangat" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HOTFM.png" group-title="Malay",HOT FM - Kini Lebih Muzik Yang Hangat
 http://mediaprima.rastream.com/mediaprima-hotfm
 #EXTINF:-1 tvg-id="SURIAFM" tvg-name="SURIA - Segalanya Hiburan" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SURIA.png" group-title="Malay",SURIA - Segalanya Hiburan
-#https://22893.live.streamtheworld.com/SURIA_FMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac
 #EXTINF:-1 tvg-id="BULETINFM" tvg-name="BULETIN FM - Isu Semasa dan Info Terkini" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/BULETINFM.png" group-title="Malay",BULETIN FM - Isu Semasa dan Info Terkini
 http://mediaprima.rastream.com/mediaprima-koolfm
@@ -23,21 +21,19 @@ https://n11.rcs.revma.com/nzgauqq1v7zuv
 #EXTINF:-1 tvg-id="BESTFM" tvg-name="BEST FM - Terbaik Untuk Harimu" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/BESTFM.png" group-title="Malay",BEST FM - Terbaik Untuk Harimu
 https://n11.rcs.revma.com/h34x4kgg9hhvv
 #EXTINF:-1 tvg-id="RIA" tvg-name="RIA 897FM - Hiburan Tahap Optima" tvg-logo="https://static.wixstatic.com/media/0064cc_477e93f8bd03427f804878cad8b744db~mv2.png" group-title="Malay",RIA 897FM - Hiburan Tahap Optima
-#https://19183.live.streamtheworld.com/RIA897FM_PREM.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.aac
 #EXTINF:-1 tvg-id="WARNA" tvg-name="WARNA 942FM - Serentak Semasa" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/WARNA.png" group-title="Malay",WARNA 942FM - Serentak Semasa
 http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
 #EXTINF:-1 tvg-id="ZAYAN" tvg-name="ZAYAN - #IndahDiHati" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ZAYAN.png" group-title="Malay",ZAYAN - #IndahDiHati
 https://astro3.rastream.com/astro-zayan-airasia
 #EXTINF:-1 tvg-id="RAKITA" tvg-name="RAKITA - Muzik Paling Lit" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/RAKITA.png" group-title="Malay",RAKITA - Muzik Paling Lit
-#https://23743.live.streamtheworld.com/RAKITAAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac
 #EXTINF:-1 tvg-id="NASFM" tvg-name="NASIONAL FM - Sentiasa Di Hati" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png" group-title="Malay",NASIONAL FM - Sentiasa Di Hati
-https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
 #EXTINF:-1 tvg-id="KLASIK" tvg-name="RADIO KLASIK  -  Menggamit Kenangan" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/radioklasik.png" group-title="Malay",RADIO KLASIK  -  Menggamit Kenangan
-https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC.aac
 #EXTINF:-1 tvg-id="ASYIKFM" tvg-name="ASYIK FM - Lain Dari Yang Lain" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Asyikfm.png" group-title="Malay",ASYIK FM - Lain Dari Yang Lain
-https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.aac
 #EXTINF:-1 tvg-id="ERASABAH" tvg-name="ERA SABAH - Muzik Hit Terkini" tvg-logo="https://github.com/digitaldotmy/image/raw/main/ERASABAH.png" group-title="Malay",ERA SABAH - Muzik Hit Terkini
 https://astro2.rastream.com/amp-era-kk
 #EXTINF:-1 tvg-id="ERASARAWAK" tvg-name="ERA SARAWAK - Muzik Hit Terkini" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERASARAWAK.png" group-title="Malay",ERA SARAWAK - Muzik Hit Terkini
@@ -58,32 +54,27 @@ https://hls.rastream.com/astro-boom-radio
 http://stream.zeno.fm/9tw4rf6gachvv
 #EXTINF:-1 tvg-id="HITZ" tvg-name="HITZ  - Malaysia's #1 Hit Station" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HITZ.png" group-title="English",HITZ  - Malaysia's #1 Hit Station
 http://astro1.rastream.com:80/hitz
-#EXTINF:-1 tvg-id="FLYFM" tvg-name="FLY FM - Today's Hottest Music" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/FLYFM.png" group-title="English",FLY FM - Today's Hottest Music
+#EXTINF:-1 tvg-id="FLYFM" tvg-name="FLY FM - Malaysia's Flyest Music You Want All Day" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/FLYFM.png" group-title="English",FLY FM - Malaysia's Flyest Music You Want All Day
 http://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 tvg-id="MIX" tvg-name="MIX  - Today’s Best Music" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MIX.png" group-title="English",MIX  - Today’s Best Music
 http://astro2.rastream.com:80/mix
 #EXTINF:-1 tvg-id="LITE" tvg-name="LITE - Your Relaxing Favourites" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/LITE.png" group-title="English",LITE - Your Relaxing Favourites
 http://astro1.rastream.com/lite-airasia
 #EXTINF:-1 tvg-id="TRAXX" tvg-name="TRAXX FM - Experience the Excitement" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" group-title="English",TRAXX FM - Experience the Excitement
-https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
-#EXTINF:-1 tvg-id="HITZSABAH" tvg-name="HITZ SABAH - Malaysia's #1 Hit Station" tvg-logo="https://github.com/digitaldotmy/image/raw/main/HITZSABAH.png" group-title="English",HITZ SABAH - Malaysia's #1 Hit Station
+https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC.aac
+#EXTINF:-1 tvg-id="HITZSABAH" tvg-name="HITZ SABAH - ALL THE HITZ ALL THE TIME" tvg-logo="https://github.com/digitaldotmy/image/raw/main/HITZSABAH.png" group-title="English",HITZ SABAH - ALL THE HITZ ALL THE TIME
 https://astro1.rastream.com/amp-hitz-kk
-#EXTINF:-1 tvg-id="HITZSARAWAK" tvg-name="HITZ SARAWAK - Malaysia's #1 Hit Station" tvg-logo="https://github.com/digitaldotmy/image/raw/main/HITZSARAWAK.png" group-title="English",HITZ SARAWAK - Malaysia's #1 Hit Station
+#EXTINF:-1 tvg-id="HITZSARAWAK" tvg-name="HITZ SARAWAK - ALL THE HITZ ALL THE TIME" tvg-logo="https://github.com/digitaldotmy/image/raw/main/HITZSARAWAK.png" group-title="English",HITZ SARAWAK - ALL THE HITZ ALL THE TIME
 https://astro1.rastream.com/amp-hitz-kch
 #EXTINF:-1 tvg-id="987" tvg-name="987 FM - Singapore's #1 Hit Music Station!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/987.png" group-title="English",987 FM - Singapore's #1 Hit Music Station!
-#https://19183.live.streamtheworld.com/987FM_PREM.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac
 #EXTINF:-1 tvg-id="KISS92" tvg-name="KISS 92FM - All The Great Songs In One Place!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/kiss92fm.png" group-title="English",KISS 92FM - All The Great Songs In One Place!
-#https://22253.live.streamtheworld.com/KISS_92AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
 #EXTINF:-1 tvg-id="CLASS95" tvg-name="CLASS 95FM - The Best Mix Of Music" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Class95.png" group-title="English",CLASS 95FM - The Best Mix Of Music
-#https://19183.live.streamtheworld.com/CLASS95AAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
 #EXTINF:-1 tvg-id="GOLD905" tvg-name="GOLD 905FM - Sounds Good Feels Good" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Gold905.png" group-title="English",GOLD 905FM - Sounds Good Feels Good
-#https://22403.live.streamtheworld.com/GOLD905_PREM.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac
 #EXTINF:-1 tvg-id="ONE913" tvg-name="ONE 913FM - Good Times Greatest Hits" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/one%20fm%20sg.png" group-title="English",ONE 913FM - Good Times Greatest Hits
-https://23683.live.streamtheworld.com/ONE_FM_913AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac
 #EXTINF:-1 tvg-id="REDRADIO" tvg-name="RED RADIO - Southeast Asian travel food music and everything in between." tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/redradio.png" group-title="English",RED RADIO - Southeast Asian travel food music and everything in between.
 https://astro3.rastream.com/astro-red-radio
@@ -96,95 +87,85 @@ https://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 tvg-id="MELODY" tvg-name="MELODY - Best Music Latest Info" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/MELODY.png" group-title="Chinese",MELODY - Best Music Latest Info
 http://astro3.rastream.com/melody
 #EXTINF:-1 tvg-id="988" tvg-name="988 - Persistence. Dare to speak" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/988.png" group-title="Chinese",988 - Persistence. Dare to speak
-#http://23683.live.streamtheworld.com/988_FMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac
 #EXTINF:-1 tvg-id="GOXUAN" tvg-name="GO XUAN - Go Fun" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/GOXUAN.png" group-title="Chinese",GO XUAN - Go Fun
 https://astro1.rastream.com/astro-goxuan-airasia
 #EXTINF:-1 tvg-id="AIFM" tvg-name="AI FM - Love Freedom" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/aifm.png" group-title="Chinese",AI FM - Love Freedom
-https://aifmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac
 #EXTINF:-1 tvg-id="MYSABAH" tvg-name="MY SABAH - So Much Fun!" tvg-logo="https://github.com/digitaldotmy/image/raw/main/MYSABAH.png" group-title="Chinese",MY SABAH - So Much Fun!
 https://astro1.rastream.com/amp-myfm-kk
 #EXTINF:-1 tvg-id="MYSARAWAK" tvg-name="MY SARAWAK - So Much Fun!" tvg-logo="https://github.com/digitaldotmy/image/raw/main/MYSARAWAK.png" group-title="Chinese",MY SARAWAK - So Much Fun!
 https://astro1.rastream.com/amp-myfm-kch
 #EXTINF:-1 tvg-id="YES933" tvg-name="YES 933 - Singapore's #1 Mandarin Hit Music Station!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/yes933.png" group-title="Chinese",YES 933 - Singapore's #1 Mandarin Hit Music Station!
-#https://23253.live.streamtheworld.com/YES933_PREM.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac
 #EXTINF:-1 tvg-id="LOVE972" tvg-name="LOVE 972 - Enjoy life feel the music" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/love972fm.png" group-title="Chinese",LOVE 972 - Enjoy life feel the music
-#https://22403.live.streamtheworld.com/LOVE972FM_PREM.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac
 #EXTINF:-1 tvg-id="HAO963" tvg-name="HAO 963FM - Good Song Good FM" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/haofm.png" group-title="Chinese",HAO 963FM - Good Song Good FM
-#https://23683.live.streamtheworld.com/HAO_963AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
 #EXTINF:-1 tvg-id="UFM1003" tvg-name="UFM 1003FM - U Choose a Good Song You Must Listen to it!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ufm.png" group-title="Chinese",UFM 1003FM - U Choose a Good Song You Must Listen to it!
-#https://23683.live.streamtheworld.com/UFM_1003AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
 #EXTINF:-1 tvg-id="RAAGA" tvg-name="RAAGA - Raaga - Aaha... Sirantha Isai!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/RAAGA.png" group-title="Tamil",RAAGA - Raaga - Aaha... Sirantha Isai!
 http://astro3.rastream.com/raaga
 #EXTINF:-1 tvg-id="MINNAL" tvg-name="MINNAL FM - New Sweetness" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/minnalfm.png" group-title="Tamil",MINNAL FM - New Sweetness
-https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC.aac
 #EXTINF:-1 tvg-id="OLI968" tvg-name="OLI 968FM - The only Indian station" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/oli968.png" group-title="Tamil",OLI 968FM - The only Indian station
-#https://22893.live.streamtheworld.com/OLI968FM_PREM.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac
 #EXTINF:-1 tvg-id="KBSWORLD" tvg-name="KBS WORLD Radio" tvg-logo="https://github.com/digitaldotmy/image/raw/main/KBSWorld.png" group-title="Korean",KBS WORLD Radio
 https://hls.rastream.com/astro-kbs-world
 #EXTINF:-1 tvg-id="AWANI" tvg-name="ASTRO AWANI - #1 24-hour News Channel in Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="News & Business",ASTRO AWANI - #1 24-hour News Channel in Malaysia
 https://awanitv.akamaized.net/hls/live/2018478/Radio/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="CNA938" tvg-name="CNA 938FM - Singapore’s dedicated news and information radio station" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/CNA938.png" group-title="News & Business",CNA 938FM - Singapore’s dedicated news and information radio station
-#https://22903.live.streamtheworld.com/938NOW_PREM.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac
 #EXTINF:-1 tvg-id="CAPITAL958" tvg-name="CAPITAL 958FM - Information Channel 1" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/capital958.png" group-title="News & Business",CAPITAL 958FM - Information Channel 1
-#https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac
 #EXTINF:-1 tvg-id="BFM" tvg-name="BFM 899 - The Business Station" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/bfm.png" group-title="News & Business",BFM 899 - The Business Station
-#https://22253.live.streamtheworld.com/BFMAAC.aac?dist=tunein&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjQ2Mjg5NTE0LCJ0ZC1yZWciOmZhbHNlfQ.rjzYO8_XGk8bNXmQhUYiXky8YAOTBMqHL3Tji5XCu-c
 https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.aac
 #EXTINF:-1 tvg-id="MONEY983" tvg-name="MONEY 983FM - Stay Ahead" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/moneyfm.png" group-title="News & Business",MONEY 983FM - Stay Ahead
-#https://23683.live.streamtheworld.com/MONEY_893AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
 #EXTINF:-1 tvg-id="KLFM" tvg-name="KLFM - Rentak Interaktif Kota" tvg-logo="https://static.wixstatic.com/media/0064cc_bf449a9bea314c7f99f38e8ef7644711~mv2.png" group-title="Radio Negeri",KLFM - Rentak Interaktif Kota
-https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/KL_FMAAC.aac
 #EXTINF:-1 tvg-id="SELANGORFM" tvg-name="SELANGOR FM - Pilihan Tepat" tvg-logo="https://static.wixstatic.com/media/0064cc_fea53fd902004dba9d7f998d22ed1a95~mv2.png" group-title="Radio Negeri",SELANGOR FM - Pilihan Tepat
-https://selangorfmmobile.secureswiftcontent.com/rtm-ch023/rtm-ch023/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC.aac
 #EXTINF:-1 tvg-id="JOHORFM" tvg-name="JOHOR FM - Permata Selatan" tvg-logo="https://static.wixstatic.com/media/0064cc_aeae1a73593049f0a98a24955644cedd~mv2.png" group-title="Radio Negeri",JOHOR FM - Permata Selatan
-https://johorfmmobile.secureswiftcontent.com/rtm-ch035/rtm-ch035/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC.aac
 #EXTINF:-1 tvg-id="MELAKAFM" tvg-name="MELAKA FM - Mempesonakan" tvg-logo="https://static.wixstatic.com/media/0064cc_1d9c1c29e3364255954434f3cc96cc08~mv2.png" group-title="Radio Negeri",MELAKA FM - Mempesonakan
-https://melakafmmobile.secureswiftcontent.com/rtm-ch041/rtm-ch041/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC.aac
 #EXTINF:-1 tvg-id="NEGERIFM" tvg-name="NEGERI FM - Ingat Sampai Bila Bila" tvg-logo="https://static.wixstatic.com/media/0064cc_fa605fb588c24125b94a2fe4e62c262e~mv2.png" group-title="Radio Negeri",NEGERI FM - Ingat Sampai Bila Bila
-https://negerifmmobile.secureswiftcontent.com/rtm-ch036/rtm-ch036/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/NEGERI_FMAAC.aac
 #EXTINF:-1 tvg-id="PERAKFM" tvg-name="PERAK FM - Untuk Kome Aje" tvg-logo="https://static.wixstatic.com/media/0064cc_33be529111e4427c80e92b56d10a78b8~mv2.png" group-title="Radio Negeri",PERAK FM - Untuk Kome Aje
-https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FMAAC.aac
 #EXTINF:-1 tvg-id="MUTIARAFM" tvg-name="MUTIARA FM - Segalanya Untukmu" tvg-logo="https://static.wixstatic.com/media/0064cc_0b18bc98530a4d20bdd55cd78e67deee~mv2.png" group-title="Radio Negeri",MUTIARA FM - Segalanya Untukmu
-https://mutiarafmmobile.secureswiftcontent.com/rtm-ch039/rtm-ch039/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUTIARA_FMAAC.aac
 #EXTINF:-1 tvg-id="PERLISFM" tvg-name="PERLIS FM - Sensasi Denganku" tvg-logo="https://static.wixstatic.com/media/0064cc_f253e2a956f747ee89a9547b2ab1a25a~mv2.png" group-title="Radio Negeri",PERLIS FM - Sensasi Denganku
-https://perlisfmmobile.secureswiftcontent.com/rtm-ch040/rtm-ch040/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC.aac
 #EXTINF:-1 tvg-id="KEDAHFM" tvg-name="KEDAH FM - Mesra Harmoni" tvg-logo="https://static.wixstatic.com/media/0064cc_463953eb35834f049353f3c3c3f3953f~mv2.png" group-title="Radio Negeri",KEDAH FM - Mesra Harmoni
-https://kedahfmmobile.secureswiftcontent.com/rtm-ch031/rtm-ch031/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/KEDAH_FMAAC.aac
 #EXTINF:-1 tvg-id="KELANTANFM" tvg-name="KELANTAN FM - Penuhi Cita Rasa Anda" tvg-logo="https://static.wixstatic.com/media/0064cc_d5233f93fac2424e944bf27c0b75f7c4~mv2.png" group-title="Radio Negeri",KELANTAN FM - Penuhi Cita Rasa Anda
-https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/chunklist.m3u8
+#https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/chunklist.m3u8
 #EXTINF:-1 tvg-id="PAHANGFM" tvg-name="PAHANG FM - Satu Pilihan" tvg-logo="https://static.wixstatic.com/media/0064cc_ae4e804fe2f84cf8984b33d4a401d4ab~mv2.png" group-title="Radio Negeri",PAHANG FM - Satu Pilihan
-https://pahangfmmobile.secureswiftcontent.com/rtm-ch034/rtm-ch034/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/PAHANG_FMAAC.aac
 #EXTINF:-1 tvg-id="TERENGGANUFM" tvg-name="TERENGGANU FM - Mesra Ceria" tvg-logo="https://static.wixstatic.com/media/0064cc_6ab82e883b84423c99e96f1f523e1734~mv2.png" group-title="Radio Negeri",TERENGGANU FM - Mesra Ceria
-https://terengganufmmobile.secureswiftcontent.com/rtm-ch033/rtm-ch033/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/TERENGGANU_FMAAC.aac
 #EXTINF:-1 tvg-id="SABAHFM" tvg-name="SABAH FM - Bagus Bah" tvg-logo="https://static.wixstatic.com/media/0064cc_d7e6288891074263a34ad47ff4dcf145~mv2.png" group-title="Radio Negeri",SABAH FM - Bagus Bah
-https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac
 #EXTINF:-1 tvg-id="SARAWAKFM" tvg-name="SARAWAK FM - Sehati Sejiwa" tvg-logo="https://static.wixstatic.com/media/0064cc_4ba48b6650d44ce1b5f9771234a4c54d~mv2.png" group-title="Radio Negeri",SARAWAK FM - Sehati Sejiwa
-https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.aac
 #EXTINF:-1 tvg-id="LABUANFM" tvg-name="LABUAN FM - Suara Pesisir Anda" tvg-logo="https://static.wixstatic.com/media/0064cc_25b507027db94c65923a4040a16d7bb9~mv2.png" group-title="Radio Negeri",LABUAN FM - Suara Pesisir Anda
-https://labuanfmmobile.secureswiftcontent.com/rtm-ch030/rtm-ch030/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/LABUAN_FMAAC.aac
 #EXTINF:-1 tvg-id="LANGKAWIFM" tvg-name="LANGKAWI FM - Ya! Untukmu!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Langkawifm.png" group-title="Tempatan",LANGKAWI FM - Ya! Untukmu!
-https://langkawifmmobile.secureswiftcontent.com/rtm-ch037/rtm-ch037/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FMAAC.aac
 #EXTINF:-1 tvg-id="LIMBANGFM" tvg-name="LIMBANG FM - Pasti Dihati" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/limbangfm.png" group-title="Tempatan",LIMBANG FM - Pasti Dihati
-https://limbangfmmobile.secureswiftcontent.com/rtm-ch045/rtm-ch045/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/LIMBANGAAC.aac
 #EXTINF:-1 tvg-id="MIRIFM" tvg-name="MIRI FM - Mesra Bermaklumat" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/mirifm.png" group-title="Tempatan",MIRI FM - Mesra Bermaklumat
-https://labuanfmmobile.secureswiftcontent.com/rtm-ch030/rtm-ch030/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIRI_FMAAC.aac
 #EXTINF:-1 tvg-id="SRIAMANFM" tvg-name="SRI AMAN FM - Inspirasi Brinformasi" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/sriaman.png" group-title="Tempatan",SRI AMAN FM - Inspirasi Brinformasi
-https://sriamanfmmobile.secureswiftcontent.com/rtm-ch046/rtm-ch046/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRIAMAN_FMAAC.aac
 #EXTINF:-1 tvg-id="BINTULUFM" tvg-name="BINTULU FM - Ceria Bermaklumat" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/bintulufm.png" group-title="Tempatan",BINTULU FM - Ceria Bermaklumat
-https://bintulufmmobile.secureswiftcontent.com/rtm-ch048/rtm-ch048/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/BINTULU_FMAAC.aac
 #EXTINF:-1 tvg-id="SIBUFM" tvg-name="SIBU FM - Segalanya Untuk Anda" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/sibufm.png" group-title="Tempatan",SIBU FM - Segalanya Untuk Anda
-https://sibufmmobile.secureswiftcontent.com/rtm-ch050/rtm-ch050/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/SIBU_FMAAC.aac
 #EXTINF:-1 tvg-id="SANDAKANFM" tvg-name="SANDAKAN FM - Bersamamu" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Sandakanfm.png" group-title="Tempatan",SANDAKAN FM - Bersamamu
-https://sandakanfmmobile.secureswiftcontent.com/rtm-ch051/rtm-ch051/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/SANDAKAN_FMAAC.aac
 #EXTINF:-1 tvg-id="SOUL" tvg-name="Soul Radio - Hayatilah Disini" tvg-logo="https://static.wixstatic.com/media/0064cc_07f1fba0999b408287ba5e57b2273c29~mv2.png" group-title="Variety",Soul Radio - Hayatilah Disini
 http://109.169.23.124:9223/
 #EXTINF:-1 tvg-id="NAMASTE" tvg-name="Namaste Radio - Radio Hindi Anda" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/NamasteRadioWhite.png" group-title="Variety",Namaste Radio - Radio Hindi Anda
@@ -208,22 +189,21 @@ https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
 #EXTINF:-1 tvg-id="KENYALANG" tvg-name="KENYALANG - Memainkan lagu-lagu buatan Sarawak" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/KENYALANG.png" group-title="Variety",KENYALANG - Memainkan lagu-lagu buatan Sarawak
 http://astro4.rastream.com:80/kenyalang
 #EXTINF:-1 tvg-id="SYMPHONY924" tvg-name="SYMPHONY 924FM - Only The Finest Music" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Symphony.png" group-title="Variety",SYMPHONY 924FM - Only The Finest Music
-#https://14033.live.streamtheworld.com/SYMPHONY924_PREM.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac
 #EXTINF:-1 tvg-id="SABAHVFM" tvg-name="SABAH V FM - V Good" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/sabahv.png" group-title="Variety",SABAH V FM - V Good
-https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.aac
 #EXTINF:-1 tvg-id="IBAN" tvg-name="WAI FM - Segulai Sejalai" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifmiban.png" group-title="Variety",WAI FM - Segulai Sejalai
-https://waifmimobile.secureswiftcontent.com/rtm-ch025/rtm-ch025/chunklist.m3u8
+#https://waifmimobile.secureswiftcontent.com/rtm-ch025/rtm-ch025/chunklist.m3u8
 #EXTINF:-1 tvg-id="IBAN" tvg-name="WAI FM IBAN - Segulai Sejalai" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifmiban.png" group-title="Variety",WAI FM IBAN - Segulai Sejalai
-https://waifmibanmobile.secureswiftcontent.com/rtm-ch042/rtm-ch042/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBANAAC.aac
 #EXTINF:-1 tvg-id="BIDAYUH" tvg-name="WAI FM BIDAYUH - Gerak Bisamah" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/waifibidayuh.png" group-title="Variety",WAI FM BIDAYUH - Gerak Bisamah
-https://waifmbmobile.secureswiftcontent.com/rtm-ch029/rtm-ch029/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BKAAC.aac
 #EXTINF:-1 tvg-id="REDFM" tvg-name="RED FM - For Variety" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/redfm.png" group-title="Variety",RED FM - For Variety
-https://redfmmobile.secureswiftcontent.com/rtm-ch043/rtm-ch043/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/RED_FMAAC.aac
 #EXTINF:-1 tvg-id="TAWAUFM" tvg-name="TAWAU FM - Pilihan Anda" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/tawaufm.png" group-title="Variety",TAWAU FM - Pilihan Anda
-https://tawaufmmobile.secureswiftcontent.com/rtm-ch052/rtm-ch052/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/TAWAU_FMAAC.aac
 #EXTINF:-1 tvg-id="KENINGAUFM" tvg-name="KENINGAU FM - Hebat Syoknya" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/keningaufm.png" group-title="Variety",KENINGAU FM - Hebat Syoknya
-https://keningaufmmobile.secureswiftcontent.com/rtm-ch053/rtm-ch053/chunklist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FMAAC.aac
 #EXTINF:-1 tvg-id="ERACINTAN" tvg-name="ERA CINTAN - Playlist Layan Perasaan Terbaik" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERACintan.png" group-title="SYOK",ERA CINTAN - Playlist Layan Perasaan Terbaik
 http://ingest2.astro1.rastream.com/astro-era-cintan
 #EXTINF:-1 tvg-id="ERATHON" tvg-name="ERA ERATHON - Muzik 'Workout' Terbaik" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/ERAErathon.png" group-title="SYOK",ERA ERATHON - Muzik 'Workout' Terbaik
@@ -344,3 +324,13 @@ http://ingest2.astro3.rastream.com/astro-raaga-80
 http://ingest2.astro4.rastream.com/astro-raaga-90
 #EXTINF:-1 tvg-id="NAMBEAREA" tvg-name="RAAGA NAMBEAREA (MALAYSIAN MUSIC) - A celebration of Malaysian Music!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/RAAGANambeArea.png" group-title="SYOK",RAAGA NAMBEAREA (MALAYSIAN MUSIC) - A celebration of Malaysian Music!
 http://ingest2.astro4.rastream.com/astro-raaga-nambe
+#EXTINF:-1 tvg-id="RSMY" tvg-name="PRAMBOS FM - Indonesia #1 Hit Music Station" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Prambosfm.png" group-title="Indonesia",PRAMBOS FM - Indonesia #1 Hit Music Station
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.aac
+#EXTINF:-1 tvg-id="RSMY" tvg-name="GEN FM JAKARTA - Pilihan Terbaik" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/genfm%20jakarta.jpg" group-title="Indonesia",GEN FM JAKARTA - Pilihan Terbaik
+https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
+#EXTINF:-1 tvg-id="RSMY" tvg-name="GEN FM SURABAYA - Wani Pol!" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/genfm%20surabaya.jpg" group-title="Indonesia",GEN FM SURABAYA - Wani Pol!
+https://wz.mari.co.id:1936/web_genfmsby/gensbyic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RSMY" tvg-name="I RADIO JAKARTA" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/iradio%20Jakarta.png" group-title="Indonesia",I RADIO JAKARTA
+https://n0b.radiojar.com/4ywdgup3bnzuv?1658979604=&rj-tok=AAABgkLtBg8AlF6bU_VZO0X8hQ&rj-ttl=5
+#EXTINF:-1 tvg-id="RSMY" tvg-name="Dreamers Radio" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/Dreamers.png" group-title="Indonesia",Dreamers Radio
+https://live.dreamers.id:8443/live
