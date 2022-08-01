@@ -6,7 +6,7 @@ https://video.wixstatic.com/video/9b91f3_76d44c1f01b44189a43df08f847be537/1080p/
 http://astro2.rastream.com:80/era
 #EXTINF:-1 tvg-id="SINAR" tvg-name="SINAR - Menyinari Hidupmu" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SINAR.png" group-title="Malay",SINAR - Menyinari Hidupmu
 http://astro2.rastream.com:80/sinar
-#EXTINF:-1 tvg-id="HOTFM" tvg-name="HOT FM - Kini Lebih Muzik Yang Hangat" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HOTFM.png" group-title="Malay",HOT FM - Kini Lebih Muzik Yang Hangat
+#EXTINF:-1 tvg-id="HOTFM" tvg-name="HOT FM - Yang Hangat Dan Terbaik" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/HOTFM.png" group-title="Malay",HOT FM - Yang Hangat Dan Terbaik
 http://mediaprima.rastream.com/mediaprima-hotfm
 #EXTINF:-1 tvg-id="SURIAFM" tvg-name="SURIA - Segalanya Hiburan" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/image/main/SURIA.png" group-title="Malay",SURIA - Segalanya Hiburan
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac
