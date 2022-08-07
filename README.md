@@ -11,7 +11,7 @@ Playlist radio.
 | SINAR | Astro Radio | Malay | AAC | ASTRO CH 857 | Syok | ✔ | Official Website  
 | GEGAR | Astro Radio | Malay | AAC | ASTRO CH 863 | Syok | ✔ | Official Website 
 | BULETIN FM | Media Prima Audio | Malay | AAC | TV9 | audio+  / Joox | ✔ | Official Website 
-| MOLEK FM | Media Prima Audio | Malay | AAC | ✘ | ✘| ✔ | Official Website 
+| MOLEK FM | Media Prima Audio | Malay | AAC | ✘ | audio+ / Joox| ✔ | Official Website 
 | BEST FM | Suara Johor| Malay | AAC | ✘ | ✘ | ✘ | Official Website
 | MANIS FM | Husa Network| Malay | AAC | ✘ | Sweet+ | ✘ | Official Website
 | RIA 897FM  | Mediacorp | Malay | AAC | ✘ | MeListen | ✘ | Official Website
