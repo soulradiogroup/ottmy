@@ -20,7 +20,7 @@ Playlist radio.
 | RAKITA | Radio Kita | Malay | AAC | ✘ | Syok | ✘ | Official Website
 | NASIONAL FM | Radio Televisyen Malaysia | Malay | AAC | ASTRO CH 869 / MYTV CH 701 | RTM Klik | ✘ | Official Website
 | RADIO KLASIK  | Radio Televisyen Malaysia | Malay | AAC | ASTRO CH 875 / MYTV CH 705 | RTM Klik | ✘ | Official Website
-| ASYIK FM  | Radio Televisyen Malaysia | Malay | AAC | MYTV CH 706 | RTM Klik | ✘ | Official Website
+| ASYIK FM  | Radio Televisyen Malaysia | Malay | AAC | MYTV CH 706 / ASTRO CH 875 | RTM Klik | ✘ | Official Website
 | ERA SABAH| Astro Radio | Malay | AAC | ✘ | Syok  | ✔ | Official Website
 | ERA SARAWAK| Astro Radio | Malay | AAC | ✘ | Syok  | ✔ | Official Website
 | BOOM RADIO| KRU Media | Malay | AAC | ✘ | Syok  | ✘ | Official Website
